@@ -34,6 +34,8 @@ https://tempskyview.jagobd.com:441/live-orgin/channel9hd.stream/chunks.m3u8
 https://tempskyview.jagobd.com:441/live-orgin/banglatvhd.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/hsd251vq24vfr0j/bijoy_tv.png",BIJOY TV HD
 https://tempskyview.jagobd.com:441/live-orgin/bijoy00.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Z13U9Vt.png",Deepto TV
+https://tempskyview.jagobd.com:441/live-orgin/deeptotv.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eP45j9z.jpg",Mohona Tv
 https://tempskyview.jagobd.com:441/live-orgin/mohonatv00000223232244556633.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/31k6q9ajx36he7i/ananda-tv-bd.png",ANANDA TV HD
