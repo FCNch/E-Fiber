@@ -2,16 +2,10 @@
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/U8XrjmP.png" group-title="LIVE-SPORTS",TITAS SPORTS
 https://tempskyview.jagobd.com:441/live-orgin/titash.stream/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/qYlXive.png" group-title="LIVE-SPORTS",Tsports HD 
-http://103.166.253.222/hls/t-sports.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/FXoKFOA.png" group-title="LIVE-SPORTS",Tsports HD 
 http://103.70.140.27:8080/hls/tsports.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/qYlXive.png" group-title="LIVE-SPORTS",Tsports HD 
 http://103.149.130.122:8089/102/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/Fzfkvqi.png" group-title="LIVE-SPORTS", GTV HD
-http://103.166.253.222/hls/Gazi-TV.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/iBxllqt.png" group-title="LIVE-SPORTS", GTV HD
 http://103.149.130.122:8089/1/index.m3u8
 
