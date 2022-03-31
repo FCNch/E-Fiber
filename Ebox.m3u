@@ -2,11 +2,11 @@
 #EXTINF:-1 tvg-logo="https://imgur.com/iBxllqt.png" group-title="LIVE-SPORTS", GTV HD
 http://103.149.130.122:8089/1/index.m3u8
 
-#EXTINF:-1 group-title="Live Sports" tvg-logo="http://bciptv.net/assets/images/live.jpg",Live Sports 
+#EXTINF:-1 group-title="LIVE-SPORTS" tvg-logo="http://bciptv.net/assets/images/live.jpg",Live Sports 
 http://tv2.ebox.live:8080/live/nk-sixs.m3u8
-#EXTINF:-1 group-title="Bangla" tvg-logo="http://durbinlive.com/uploads/tv_image/sm/tsports.jpg",T sports HD 
+#EXTINF:-1 group-title="LIVE-SPORTS" tvg-logo="http://durbinlive.com/uploads/tv_image/sm/tsports.jpg",T sports HD 
 http://tv2.ebox.live:8080/live/nk-tsports.m3u8
-#EXTINF:-1 group-title="Bangla" tvg-logo="http://durbinlive.com/uploads/tv_image/sm/tsports.jpg",T sports HD 
+#EXTINF:-1 group-title="LIVE-SPORTS" tvg-logo="http://durbinlive.com/uploads/tv_image/sm/tsports.jpg",T sports HD 
 http://103.149.130.122:8089/102/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://pasteboard.co/GfKoYB6HLkGk.png",BTV CTG
@@ -85,6 +85,14 @@ http://tv2.ebox.live:8080/live/dbc.m3u8
 #EXTINF:-1 group-title="tv2.ebox" tvg-logo="https://i.imgur.com/v9PqrCG.png",ATN News
 http://tv2.ebox.live:8080/live/ex-atnae.m3u8
 
+#EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.imgur.com/RqJGZfm.png",Sony Aath
+http://103.149.130.122:8089/33/index.m3u8
+#EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://imgur.com/mYjXbH7.png",Zee Bangla SD
+http://103.149.130.122:8089/34/index.m3u8
+#EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://imgur.com/cQdw1st.png",Star Jalsha SD
+http://103.149.130.122:8089/30/index.m3u8
+#EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://imgur.com/ghBUxYm.png",Colors Bangla HD
+http://103.149.130.122:8089/66/index.m3u8
 
 #EXTINF:-1 group-title="tv2.ebox" tvg-logo="https://i.imgur.com/e5Ldh7e.png",Zee Bangla
 http://tv2.ebox.live:8080/live/zee-bangla.m3u8
@@ -195,3 +203,5 @@ https://live.hungama.com/linear/bol-hadippa/playlist.m3u8
  #EXTINF:-1 tvg-logo="https://imgur.com/QssgV7D.png",THE END
 
       CREATED BY -- -- FCN.CH.BD
+
+
