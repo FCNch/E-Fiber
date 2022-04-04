@@ -1,14 +1,19 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://imgur.com/iBxllqt.png" group-title="LIVE-SPORTS", GTV HD
+#EXTINF:-1 tvg-logo="https://imgur.com/bboEFyv.png" group-title="LIVE-SPORTS", Tsports HD 
+http://103.55.144.46/hls/t-sports.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/bboEFyv.png" group-title="LIVE-SPORTS", T Sports SD
+http://tv2.ebox.live:8080/live/nk-sixs.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/bboEFyv.png" group-title="LIVE-SPORTS", T Sports HD
+http://103.149.130.122:8089/102/index.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/FXoKFOA.png" group-title="LIVE-SPORTS",Tsports HD
+http://tv2.ebox.live:8080/live/nk-tsports.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://imgur.com/fGorxxf.png" group-title="LIVE-SPORTS",G TV HD
+http://103.55.144.46/hls/Gazi-TV.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/iBxllqt.png" group-title="LIVE-SPORTS",Gazi TV SD
 http://103.149.130.122:8089/1/index.m3u8
 
-#EXTM3U
-
-#EXTINF:-1 tvg-logo="https://imgur.com/FXoKFOA.png" group-title="Sports", Tsports HD
-http://tv2.ebox.live:8080/live/nk-sixs.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/FXoKFOA.png" group-title="Sports", Tsports HD
-http://tv2.ebox.live:8080/live/nk-tsports.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://pasteboard.co/GfKoYB6HLkGk.png",BTV CTG
@@ -92,10 +97,10 @@ http://103.149.130.122:8089/30/index.m3u8
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://imgur.com/ghBUxYm.png",Colors Bangla HD
 http://103.149.130.122:8089/66/index.m3u8
 
-#EXTINF:-1 group-title="tv2.ebox" tvg-logo="https://i.imgur.com/e5Ldh7e.png",Zee Bangla
-http://tv2.ebox.live:8080/live/zee-bangla.m3u8
-#EXTINF:-1 group-title="tv2.ebox" tvg-logo="https://i.imgur.com/ppJO2Ep.png",Star Jalsha HD
-http://tv2.ebox.live:8080/live/star-jalsha.m3u8
+#EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.imgur.com/cQdw1st.png",Star Jalsha HD
+http://103.55.144.46/hls/starjalsha.m3u8
+#EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.imgur.com/mYjXbH7.png",Zee Bangla HD
+http://103.55.144.46/hls/zeebanglahd.m3u8
 #EXTINF:-1 group-title="tv2.ebox" tvg-logo="https://i.imgur.com/HVZHZGl.png",Colors Bangla HD
 http://tv2.ebox.live:8080/live/colors-bangla.m3u8
 #EXTINF:-1 group-title="tv2.ebox" tvg-logo="https://i.imgur.com/M6GyIvI.png",Zee Bangla Cinema
