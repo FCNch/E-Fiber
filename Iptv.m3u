@@ -41,7 +41,10 @@ http://103.149.130.122:8089/96/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.mgur.com/HG69Dgb.png"  group-title="BD-MUSIC",BANGLA TALKIES
 http://45.127.56.3:7698/live/Corpus-POL/SRV2/4/BANGLA-TALKIES/video.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/c53SXnN.png" group-title="LIVE-SPORTS",PTV Sports HD
+http://jupiter.bdcabletv.com/PTV_Sports/video.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3ibgIMV.png" group-title="LIVE-SPORTS",Star Sports 1 HD
+http://12.1.1.1:8081/live/Star-Sports1/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FXoKFOA.png"  group-title="Live Sports", Tsports HD [HD]
 http://103.55.144.46/hls/t-sports.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9p3lgmA.png"  group-title="Live Sports", GTV HD [HD]
