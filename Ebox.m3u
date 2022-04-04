@@ -8,31 +8,7 @@ http://103.149.130.122:8089/1/index.m3u8
 http://tv2.ebox.live:8080/live/nk-sixs.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/FXoKFOA.png" group-title="Sports", Tsports HD
-http://cdn.ihub.live:8082/j-TSports/index.m3u8?token=8eb354656a971cf058dcfc226a8fcdd6e736d33e-b3de612b5c36aca8fcb6600842fe7f6c-1648939056-1648928256
-
-#EXTINF:-1 tvg-logo="https://imgur.com/FXoKFOA.png" group-title="Sports", Tsports HD
 http://tv2.ebox.live:8080/live/nk-tsports.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/FXoKFOA.png" group-title="Sports", Tsports HD
-http://stream.amrbd.com:8082/Local-Sports/tracks-v1/mono.m3u8?token=f73f265d8c0f36710ae574eaea3f4aa009420435-023bac4115e292e80a128e12baf0fbb9-1648943814-1648933014
-
-#EXTINF:-1 tvg-logo="https://imgur.com/MQ5jhMz.png" group-title="Sports", Star Sports 1 HD
-http://cdn.ihub.live:8082/j-star-sports-1-hd/tracks-v1a1/mono.m3u8?token=c17af0a4c948a906c5a9dfca7e7b4d4a0e5f24a5-f47642d2f4db44cba1627eba7d203ec2-1648938124-1648927324
-
-#EXTINF:-1 tvg-logo="https://imgur.com/cQdw1st.png" group-title="Indian Bangla", Star Jalsha HD
-http://stream.amrbd.com:8082/Star-Jalsha/tracks-v1a1/mono.m3u8?token=924d21c3fc42ddbc9569e0f9e361801789dd7d7b-0c006cd36424fafd1a5eec12618c740d-1648940226-1648929426
-
-#EXTINF:-1 tvg-logo="https://imgur.com/mYjXbH7.png" group-title="Indian Bangla", Zee Bangla HD
-http://stream.amrbd.com:8082/ZeeBanglaHD/tracks-v1a1/mono.m3u8?token=3fcda65c2acfed2deac6e52740c0cc4e2939f2de-a9c61668f947287381122188bb03568b-1648940999-1648930199
-
-#EXTINF:-1 tvg-logo="https://imgur.com/ghBUxYm.png" group-title="Indian Bangla", Colors Bangla HD
-http://stream.amrbd.com:8082/colorsbangla/tracks-v1a1/mono.m3u8?token=47f087641590fc88e1f3e2ac0ce4c23afc53c5c1-53b9479cf0ba432dda54050d01984e5e-1648941052-1648930252
-
-#EXTINF:-1 tvg-logo="https://imgur.com/jsYRd39.png" group-title="Indian Bangla", Jalsha Movies HD
-http://stream.amrbd.com:8082/Jalshamovies/tracks-v1a1/mono.m3u8?token=e17e827d86e671ecb0689a4cfda5078a84bb1b49-c9b716ffe6b51933abdf248157f61a17-1648941085-1648930285
-
-
-
 
 
 #EXTINF:-1 tvg-logo="https://pasteboard.co/GfKoYB6HLkGk.png",BTV CTG
@@ -53,8 +29,6 @@ https://tempskyview.jagobd.com:441/live-orgin/royaltv.stream/chunks.m3u8
 https://tempskyview.jagobd.com:441/live-orgin/nantv.stream/chunks.m3u8
 #EXTINF:-1 group-title="BD BANGLA" tvg-logo="https://imgur.com/wMH3tLM.png",VOICE TV [BD]
 https://tempx.jagobd.com:441/live-orgin/voicetv.stream/chunks.m3u8
-#EXTINF:-1 group-title="BD BANGLA" tvg-logo="https://imgur.com/QfwoJnc.png",BISWA BANGLA [BD]
-https://tempx.jagobd.com:441/live-orgin/biswabanglatv.stream/chunks.m3u8
 #EXTINF:-1 group-title="BD BANGLA" tvg-logo="https://imgur.com/e9odWeU.png",SRISTY TV [BD]
 https://tempx.jagobd.com:441/live-orgin/sristytv.stream/chunks.m3u8
 #EXTINF:-1 group-title="BD BANGLA" tvg-logo="https://i.ibb.co/Brv8XBm/NRB-TV.png",NRB IPTV [BD]
@@ -74,8 +48,6 @@ https://tempskyview.jagobd.com:441/live-orgin/cumilla24.stream/chunks.m3u8
 https://tempx.jagobd.com:441/live-orgin/varendratv.stream/chunks.m3u8
 #EXTINF:-1 group-title="BD BANGLA" tvg-logo="https://imgur.com/QssgV7D.png" ,CCN BANGLA [BD]
 https://cdn1-europe.smartcast.tv/rtvd/cnnb_backup/playlist.m3u8
-#EXTINF:-1 group-title="BD BANGLA" tvg-logo="https://imgur.com/QssgV7D.png" ,K TV [BD]
-https://server1.jadubd.com/ktvbangla/ktvbangla/playlist.m3u8
 #EXTINF:-1 group-title="BD BANGLA" tvg-logo="https://imgur.com/QssgV7D.png" ,DESHI TV [BD]
 http://str24.l9574.com:80/514.stream/index.m3u8
 
