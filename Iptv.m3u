@@ -11,8 +11,6 @@ http://iptvbd.jagobd.com:1931/live-orgin/chsukoff.stream/chunks.m3u8
 https://tempskyview.jagobd.com:441/live-orgin/nantv.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wMH3tLM.png" group-title="BD BANGLA",VOICE TV [BD]
 https://tempx.jagobd.com:441/live-orgin/voicetv.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QfwoJnc.png" group-title="BD BANGLA",BISWA BANGLA [BD]
-https://tempx.jagobd.com:441/live-orgin/biswabanglatv.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e9odWeU.png" group-title="BD BANGLA",SRISTY TV [BD]
 https://tempx.jagobd.com:441/live-orgin/sristytv.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wPyNdlm.png" group-title="BD BANGLA",DOYEL TV [BD]
@@ -28,8 +26,6 @@ https://tempskyview.jagobd.com:441/live-orgin/cumilla24.stream/chunks.m3u8
 https://tempx.jagobd.com:441/live-orgin/varendratv.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QssgV7D.png" group-title="BD BANGLA" ,CCN BANGLA [BD]
 https://cdn1-europe.smartcast.tv/rtvd/cnnb_backup/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QssgV7D.png" group-title="BD BANGLA" ,K TV [BD]
-https://server1.jadubd.com/ktvbangla/ktvbangla/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QssgV7D.png" group-title="BD BANGLA" ,DESHI TV [BD]
 http://str24.l9574.com:80/514.stream/index.m3u8
 
