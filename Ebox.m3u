@@ -119,9 +119,6 @@ http://tv2.ebox.live:8080/live/star-gold.m3u8
 http://tv2.ebox.live:8080/live/zee-cinema.m3u8
 #EXTINF:-1 group-title="tv2.ebox" tvg-logo="https://i.imgur.com/ro7bedn.png",Sony Max HD
 http://tv2.ebox.live:8080/live/sony-max.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/dn923Mf.png" group-title="Hindi", Zee Cinema HD
-http://stream.amrbd.com:8082/ZeeCinemaHD/tracks-v1a1/mono.m3u8?token=b19c3dcb4a5cacaf38848270b1a8f4941b1357fb-453c191c47301da4677edf80d3baba5f-1648941166-1648930366
-
 
 #EXTINF:-1 group-title="tv2.ebox" tvg-logo="https://i.imgur.com/M0bRPMs.png",Star Movies HD
 http://tv2.ebox.live:8080/live/star-movies.m3u8
