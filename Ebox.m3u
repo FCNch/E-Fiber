@@ -2,11 +2,9 @@
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RR0Iv6V.png" group-title="BD BANGLA", BTV [BD]
 https://tempskyview.jagobd.com:441/live-orgin/btvbd-office-sg.stream/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fGorxxf.png" group-title="LIVE-SPORTS",G TV HD
-http://cdn.ihub.live:8082/j-GTV/index.m3u8?token=83caaa102cbea7cc11280bc34c06e1ccd4d1e4bf-3779174f747f1f828ab63692248e7471-1649195621-1649184821
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fGorxxf.png" group-title="LIVE-SPORTS",LIVE-SPORTS
+http://tv.ebox.live:8081/thunderbd/1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC81LzIwMjIgNjowNjozNCBQTSZoYXNoX3ZhbHVlPSthVVAxaWpzMlBrVmhJaFQ4L1dpTFE9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9NQ==
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bboEFyv.png" group-title="LIVE-SPORTS", LIVE-SPORTS 
-http://cdn.ihub.live:8082/j-TSports/index.m3u8?token=22c4f24ee3f50bb2cbba153d4e9f85a9ba3bed89-da3fe085401a47b61d3f2a5b09aecb1d-1649191801-1649181001
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bboEFyv.png" group-title="LIVE-SPORTS", LIVE-SPORTS
 http://12.1.1.1:8082/Local-Sports/index.m3u8?token=1871293bfa264577eb0c2242f8499ada7e71142a-5ff1a19c06b59ed37872eaa520e3fbf1-1649191403-1649180603
 
@@ -23,7 +21,7 @@ http://tv2.ebox.live:8080/live/nk-tsports.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fGorxxf.png" group-title="LIVE-SPORTS",G TV HD
 http://103.55.144.46/hls/Gazi-TV.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iBxllqt.png" group-title="LIVE-SPORTS",Gazi TV SD
-http://103.149.130.122:8089/1/index.m3u8
+http://12.1.1.1:8082/Local-Sports/index.m3u8?token=1871293bfa264577eb0c2242f8499ada7e71142a-5ff1a19c06b59ed37872eaa520e3fbf1-1649191403-1649180603
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tBZhq2c/Roal-TV.png" group-title="BD BANGLA",ROYAL TV[BD]
 https://tempskyview.jagobd.com:441/live-orgin/royaltv.stream/chunks.m3u8
