@@ -101,24 +101,24 @@ http://tv2.ebox.live:8080/live/dbc.m3u8
 http://tv2.ebox.live:8080/live/ex-atnae.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RqJGZfm.png" group-title="Indian Bangla",Sony Aath
-http://103.149.130.122:8089/33/index.m3u8
+http://tv.ebox.live:8081/thunderbd/33/chunks.m3u8?nimblesessionid=22624243&wmsAuthSign=c2VydmVyX3RpbWU9NC81LzIwMjIgNjozNTowMyBQTSZoYXNoX3ZhbHVlPUxVRVZhWExIKzV1a3duU2lmc0I2c3c9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9NQ==
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mYjXbH7.png" group-title="Indian Bangla",Zee Bangla SD
-http://103.149.130.122:8089/34/index.m3u8
+http://tv.ebox.live:8081/thunderbd/34/chunks.m3u8?nimblesessionid=22623920&wmsAuthSign=c2VydmVyX3RpbWU9NC81LzIwMjIgNjozMDozNCBQTSZoYXNoX3ZhbHVlPTVJT3A2dnVNSkNITmlRVXBCZGsrekE9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9NQ==
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cQdw1st.png" group-title="Indian Bangla",Star Jalsha SD
-http://103.149.130.122:8089/30/index.m3u8
+http://tv.ebox.live:8081/thunderbd/30/chunks.m3u8?nimblesessionid=22624151&wmsAuthSign=c2VydmVyX3RpbWU9NC81LzIwMjIgNjozMzo1MCBQTSZoYXNoX3ZhbHVlPUF0bGlVZUQxWkl5bVlIYUkzOWJWTUE9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9NQ==
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ghBUxYm.png" group-title="Indian Bangla",Colors Bangla HD
-http://103.149.130.122:8089/66/index.m3u8
+http://tv.ebox.live:8081/thunderbd/66/chunks.m3u8?nimblesessionid=22624197&wmsAuthSign=c2VydmVyX3RpbWU9NC81LzIwMjIgNjozNDoyOSBQTSZoYXNoX3ZhbHVlPUZ6eDhHamdQMTRaenU1TXFmZUhtL1E9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9NQ==
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cQdw1st.png" group-title="Indian Bangla",Star Jalsha HD
-http://103.55.144.46/hls/starjalsha.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mYjXbH7.png" group-title="Indian Bangla",Zee Bangla HD
-http://103.55.144.46/hls/zeebanglahd.m3u8
+http://12.1.1.1:8082/ZeeBanglaHD/index.m3u8?token=6c14baa8a80fcf08e770be9015deae36dc8704a8-c65f38b97bdf723a1643414412c0be18-1649191522-1649180722
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cQdw1st.png" group-title="Indian Bangla",Star Jalsha HD
+http://12.1.1.1:8082/Star-Jalsha/index.m3u8?token=9fcc0689792e248515c76bc63f6fb3793c2972cb-50b04ed76f52afc84212fdcc2f7620c9-1649191485-1649180685
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HVZHZGl.png" group-title="Indian Bangla",Colors Bangla HD
-http://tv2.ebox.live:8080/live/colors-bangla.m3u8
+http://12.1.1.1:8082/colorsbangla/index.m3u8?token=7ae1cc4cf25e6eed9c6edd23e0d102de53bd9cf2-feba137767cf20f7aafba6444a466af2-1649191421-1649180621
 #EXTINF:-1 tvg-logo="https://i.imgur.com/M6GyIvI.png" group-title="Indian Bangla",Zee Bangla Cinema
-http://tv2.ebox.live:8080/live/zee-cinema-bangla.m3u8
+http://12.1.1.1:8082/ZeeBanglacinema/index.m3u8?token=86ad36aec816f418bacbd6da1aa99ed27e4ecd49-317c49db4b27023049596c7bc3793fcb-1649193550-1649182750
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2PQfcOh.png" group-title="Indian Bangla",Jalsha Movies
-http://tv2.ebox.live:8080/live/star-jalsha-movies.m3u8
+http://12.1.1.1:8082/Jalshamovies/index.m3u8?token=9740f0130016d545d06095bd58f7133c88227359-87abdd828d82d987b74a69def45f5bce-1649191556-1649180756
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9SYqIRU.png" group-title="Hindi",Zee TV HD
 http://tv2.ebox.live:8080/live/zee-tv.m3u8
