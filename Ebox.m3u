@@ -2,10 +2,14 @@
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RR0Iv6V.png" group-title="BD BANGLA", BTV [BD]
 https://tempskyview.jagobd.com:441/live-orgin/btvbd-office-sg.stream/chunks.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fGorxxf.png" group-title="LIVE-SPORTS",G TV HD
+http://cdn.ihub.live:8082/j-GTV/index.m3u8?token=83caaa102cbea7cc11280bc34c06e1ccd4d1e4bf-3779174f747f1f828ab63692248e7471-1649195621-1649184821
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bboEFyv.png" group-title="LIVE-SPORTS", LIVE-SPORTS 
-https://streamer-1.toffeelive.com/mobile_hls/sports_live_01/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bboEFyv.png" group-title="LIVE-SPORTS", LIVE-SPORTS 
-https://streamer-1.toffeelive.com/mobile_hls/sports_live_02/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+http://cdn.ihub.live:8082/j-TSports/index.m3u8?token=22c4f24ee3f50bb2cbba153d4e9f85a9ba3bed89-da3fe085401a47b61d3f2a5b09aecb1d-1649191801-1649181001
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bboEFyv.png" group-title="LIVE-SPORTS", LIVE-SPORTS
+http://12.1.1.1:8082/Local-Sports/index.m3u8?token=1871293bfa264577eb0c2242f8499ada7e71142a-5ff1a19c06b59ed37872eaa520e3fbf1-1649191403-1649180603
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bboEFyv.png" group-title="LIVE-SPORTS", Tsports HD 
 http://103.55.144.46/hls/t-sports.m3u8
@@ -52,7 +56,7 @@ http://str24.l9574.com:80/514.stream/index.m3u8
 http://str24.l9574.com:80/512.stream/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JgkIH3w.png" group-title="BD BANGLA",Desh TV [BD]
-https://streamer-1.toffeelive.com/mobile_hls/desh_tv/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+http://tv.ebox.live:8081/thunderbd/9/chunks.m3u8?nimblesessionid=22628919&wmsAuthSign=c2VydmVyX3RpbWU9NC81LzIwMjIgNzowMzowMCBQTSZoYXNoX3ZhbHVlPU93N2RzR05rQkc5TGx2aHdPdFBnMHc9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9NQ==
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WCphgzj.png" group-title="BD BANGLA",11.ATN BANGLA [BD]
 https://tempskyview.jagobd.com:441/live-orgin/atnbd-8-org.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/giqoc2X.png" group-title="BD BANGLA",DEEPTO TV [BD]
@@ -75,8 +79,7 @@ https://tempskyview.jagobd.com:441/live-orgin/gaanbangla-8-orgd.stream/playlist.
 http://103.149.130.122:8089/96/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/HG69Dgb.png" group-title="IN-MUSIC",BANGLA TALKIES
 http://45.127.56.3:7698/live/Corpus-POL/SRV2/4/BANGLA-TALKIES/video.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/B7L4Nzd.jpg" group-title="IN-MUSIC",DHOOM MUSIC
-https://streamer-1.toffeelive.com/mobile_hls/dhoom_music/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/p0I5dr0.png" group-title="BD BANGLA",Channel I
 http://tv2.ebox.live:8080/live/chi.m3u8
@@ -130,9 +133,6 @@ http://tv2.ebox.live:8080/live/sonyhd.m3u8
 http://tv2.ebox.live:8080/live/sony-sab.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0aWOFB9.png" group-title="Hindi",Colors HD
 http://tv2.ebox.live:8080/live/colors.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2hPF1YB.png" group-title="Hindi Movie",Sony Max HD 
-https://streamer-1.toffeelive.com/mobile_hls/set_max_hd/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ldXaLJK.png" group-title="Hindi Movie",Zee Cinema HD
 http://tv2.ebox.live:8080/live/zee-cinema.m3u8
