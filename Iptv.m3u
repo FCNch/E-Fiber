@@ -1,5 +1,44 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://imgur.com/RR0Iv6V.png" group-title="BD:BANGLA", GP:D BTV World
+http://iptvbd.jagobd.com:1931/live-orgin/btvbd-office-sg.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/sTZelfs.png" group-title="BD:BANGLA", GP:D BTV CTG
+http://iptvbd.jagobd.com:1931/live-orgin/btvnational-ctg.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/sTZelfs.png" group-title="BD:BANGLA", GP:D SANGSAD TV
+http://iptvbd.jagobd.com:1931/live-orgin/songsodtv-world.stream/chunks.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://imgur.com/h5FhOWT.png" group-title="BD:BANGLA", GP:D ANANDO TV
+http://iptvbd.jagobd.com:1931/live-orgin/anandatv.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/5PsRkPd.png" group-title="BD:BANGLA", GP:D ATN BANGLA
+http://iptvbd.jagobd.com:1931/live-orgin/atnbd-8-org.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/ESWXan9.png" group-title="BD:BANGLA", GP:D ATN ISLAMIC
+http://iptvbd.jagobd.com:1931/live-orgin/atnislamictv.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/OTzS5Fc.png" group-title="BD:BANGLA", GP:D ATN MUSIC
+http://iptvbd.jagobd.com:1931/live-orgin/atnmusic.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/K43LsMQ.png" group-title="BD:BANGLA", GP:D BANGLA TV
+http://iptvbd.jagobd.com:1931/live-orgin/banglatvhd.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/HX8SSDA.png" group-title="BD:BANGLA", GP:D BANGLAVISION
+http://iptvbd.jagobd.com:1931/live-orgin/banglav000.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/kDmkexe.png" group-title="BD:BANGLA", GP:D BIJOY TV
+http://iptvbd.jagobd.com:1931/live-orgin/bijoy00.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/pTJSGtj.png" group-title="BD:BANGLA", GP:D BOISHAKHI TV
+http://iptvbd.jagobd.com:1931/live-orgin/boishakhitv-org.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/KXsOj3L.png" group-title="BD:BANGLA", GP:D BOISHAKHI PLUS
+http://iptvbd.jagobd.com:1931/live-orgin/boishakhiplus.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/nYRFnW5.png" group-title="BD:BANGLA", GP:D CHANNEL I
+http://iptvbd.jagobd.com:1931/live-orgin/channeli-8-org.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/Ra2RzlQ.png" group-title="BD:BANGLA", GP:D DEEPTO TV
+http://iptvbd.jagobd.com:1931/live-orgin/deeptotv.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/oMXI9Dv.png" group-title="BD:BANGLA", GP:D GAAN BANGLA
+http://iptvbd.jagobd.com:1931/live-orgin/gaanbangla-8-orgd.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/ajadesh.png" group-title="BD:BANGLA", GP:D GLOBAL TV
+http://iptvbd.jagobd.com:1931/live-orgin/globaltv.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/TWuzjbg.png" group-title="BD:BANGLA", GP:D MY TV
+http://iptvbd.jagobd.com:1931/live-orgin/mytv-up-off.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/l76jXPz.png" group-title="BD:BANGLA", GP:D NEXUS TV
+http://iptvbd.jagobd.com:1931/live-orgin/nexustv.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/yi5p51T.png" group-title="BD:BANGLA", GP:D RTV HD
+http://iptvbd.jagobd.com:1931/live-orgin/rtv-sg.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/EpykY5A.png" group-title="IN:BANGLA", GP:A-Sony Aat
 http://tvserver.aliflailabd.com:8989/sony-aath/index.m3u8
@@ -7,7 +46,6 @@ http://tvserver.aliflailabd.com:8989/sony-aath/index.m3u8
 http://103.136.200.246:8082/Sonyaath/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/EpykY5A.png" group-title="IN:BANGLA", GP:T-Sony Aat
 http://td.chowdhury-shaheb.com/live/nb-sonyaath/chunks.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://imgur.com/e5Ldh7e.png" group-title="IN:BANGLA", GP:A-Zee Bangla
 http://tvserver.aliflailabd.com:8989/zee-bangla/index.m3u8
@@ -18,14 +56,12 @@ http://tv2.ebox.live:8080/live/zee-bangla.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/e5Ldh7e.png" group-title="IN:BANGLA", GP:T-Zee Bangla HD
 http://td.chowdhury-shaheb.com/live/zeebangla/chunks.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://imgur.com/ppJO2Ep.png" group-title="IN:BANGLA", GP:A-Star Jalsha HD
 http://tvserver.aliflailabd.com:8989/star-jalsha/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/cQdw1st.png" group-title="IN:BANGLA", GP:B-Star Jalsha HD
 http://103.136.200.246:8082/Star-Jalsha/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/ppJO2Ep.png" group-title="IN:BANGLA", GP:T-Star Jalsha HD
 http://td.chowdhury-shaheb.com/live/nb-starjalsha/chunks.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://imgur.com/ghBUxYm.png" group-title="IN:BANGLA", GP:B-Colors Bangla HD
 http://103.136.200.246:8082/colorsbangla/index.m3u8
@@ -62,7 +98,6 @@ http://103.136.200.246:8082/SonyTVHD/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/oTt7D3K.png" group-title="IN:HINDI", GP:C-Sony HD
 http://tv2.ebox.live:8080/live/sonyhd.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://imgur.com/KRjdRnV.png" group-title="IN:HINDI", GP:B-Colors HD
 http://103.136.200.246:8082/colorsindia/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/0aWOFB9.png" group-title="IN:HINDI", GP:C-Colors HD
@@ -73,14 +108,12 @@ http://103.136.200.246:8082/Sony_Sab/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/qQeesU6.png" group-title="IN:HINDI", GP:C-Sony Sab HD
 http://tv2.ebox.live:8080/live/sony-sab.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://imgur.com/ro7bedn.png" group-title="IN:BOLLYWOOD", GP:A-Sony Max HD
 http://tvserver.aliflailabd.com:8989/setmax/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/FepIOFs.png" group-title="IN:BOLLYWOOD", GP:B-Sony Max HD
 http://103.136.200.246:8082/Sony-Max/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/ro7bedn.png" group-title="IN:BOLLYWOOD", GP:C-Sony Max HD
 http://tv2.ebox.live:8080/live/sony-max.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://imgur.com/56bLnJP.png" group-title="IN:BOLLYWOOD", GP:B-Star Gold HD
 http://103.136.200.246:8082/StarGold/index.m3u8
@@ -113,18 +146,37 @@ http://td.chowdhury-shaheb.com/live/axn/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/M0bRPMs.png" group-title="IN:HOLLYWOOD", GP:T-Star Movies HD
 http://td.chowdhury-shaheb.com/live/starmovie/chunks.m3u8
 
+#EXTINF:-1 tvg-logo="https://imgur.com/LNGJDc4.png" group-title="WEB DIGITAL",IN: Amar bangla
+http://stream1.livebox.co.in/kbcreationhls/live.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/nytj00q.png" group-title="WEB DIGITAL",BD: WEB DIGITAL
+http://td.chowdhury-shaheb.com/live/wedigital/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/XRIrle0.png" group-title="WEB DIGITAL",IN: BBOPLAY
+https://cutt.ly/Fcn-BboPlay
 
+#EXTINF:-1 tvg-logo="https://imgur.com/HG69Dgb.png" group-title="IN:SONGEET", GP:D Bangla Talkies
+http://45.127.56.3:7698/live/Corpus-POL/SRV2/4/BANGLA-TALKIES/video.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/TNk56Ai.png" group-title="IN:SONGEET", GP:D Sangeet Bangla
+https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/sangeetbangla/sangeetbangla/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://imgur.com/Qqa1A35.png" group-title="IN:MUSIC", GP:D 9Xm
+https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM/index.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/E4NcxwB.jpg" group-title="IN:MUSIC", GP:D 9XJalwaa
+http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XJalwa/9XJalwa/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://imgur.com/LZ7W3Yc.png" group-title="IN:MUSIC", GP:D Masti
+http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/index.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/wg3N1VT.png" group-title="IN:MUSIC", GP:D MusicIndia
+http://103.199.160.85/Content/musicindia/Live/Channel(MusicIndia)/index.m3u8
 
-
-
-
-
-
-
-
-
-
+#EXTINF:-1 tvg-logo="https://imgur.com/Ll7AZ3P.png" group-title="IN:MUSIC", GP:D Artist Aloud
+https://live.hungama.com/linear/artist-aloud/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/RPRT3Zq.png" group-title="IN:MUSIC", GP:D Bol Hadippa
+https://live.hungama.com/linear/bol-hadippa/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/mK7h8O1.png" group-title="IN:MUSIC", GP:D DilSe Music
+https://live.hungama.com/linear/dil-se/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/GizchDO.png" group-title="IN:MUSIC", GP:D Kadak Music
+https://live.hungama.com/linear/kadak-hits/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/KybFgbZ.png" group-title="IN:MUSIC", GP:D Pop Pataka Music
+https://live.hungama.com/linear/pop-pataka/playlist.m3u8
 
 
