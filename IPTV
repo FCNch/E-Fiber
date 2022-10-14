@@ -1,0 +1,143 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="LIVE SPOSTS 1" tvg-logo="https://imgur.com/3DAn1d2.png" group-title="LIVE SPORTS",LIVE SPOSTS 1
+http://10.10.10.22:25461/live/mkaua/stream/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LIVE SPORTS 2" tvg-logo="http://chocotv.live/img/channels/ptvsports.png" group-title="LIVE SPORTS",LIVE SPORTS 2
+http://10.10.10.22:25461/live/mkaua/stream/2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="T SPORTS HD" tvg-logo="https://imgur.com/FXoKFOA.png" group-title="LIVE SPORTS",T SPORTS HD
+http://10.10.10.22:25461/live/mkaua/stream/3.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GAZI TV HD" tvg-logo="https://imgur.com/FXedkw1.png" group-title="LIVE SPORTS",GAZI TV HD
+http://10.10.10.22:25461/live/mkaua/stream/4.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="NTV" tvg-logo="https://imgur.com/qZBXlod.png" group-title="BD BANGLA",NTV
+http://10.10.10.22:25461/live/mkaua/stream/48.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY TV" tvg-logo="http://chocotv.live/img/channels/mytv.png" group-title="BD BANGLA",MY TV
+http://10.10.10.22:25461/live/mkaua/stream/47.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ATN BANGLA" tvg-logo="https://imgur.com/6Khr7lb.png" group-title="BD BANGLA",ATN BANGLA
+http://10.10.10.22:25461/live/mkaua/stream/49.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CHANNEL I" tvg-logo="https://imgur.com/RtTjtxS.png" group-title="BD BANGLA",CHANNEL I
+http://10.10.10.22:25461/live/mkaua/stream/50.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CHANNEL 24" tvg-logo="https://imgur.com/MmhxR5E.png" group-title="BD BANGLA",CHANNEL 24
+http://10.10.10.22:25461/live/mkaua/stream/51.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="&flix HD" tvg-logo="https://imgur.com/xHsimQA.png" group-title="ENGLISH MOVIE",&flix HD
+http://10.10.10.22:25461/live/mkaua/stream/52.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BANGLA TV" tvg-logo="https://imgur.com/yB2Za9b.png" group-title="BD BANGLA",BANGLA TV
+http://10.10.10.22:25461/live/mkaua/stream/53.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SATV" tvg-logo="https://imgur.com/kaiSBs0.png" group-title="BD BANGLA",SATV
+http://10.10.10.22:25461/live/mkaua/stream/54.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RTV" tvg-logo="https://imgur.com/YbYG9PK.png" group-title="BD BANGLA",RTV
+http://10.10.10.22:25461/live/mkaua/stream/55.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CHANNEL9" tvg-logo="https://e7.pngegg.com/pngimages/398/29/png-clipart-bangladesh-premier-league-channel-9-television-channel-bd-logo-purple-television.png" group-title="BD BANGLA",CHANNEL9
+http://10.10.10.22:25461/live/mkaua/stream/17.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DEEPTO TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/31/Deepto_TV_logo.png" group-title="BD BANGLA",DEEPTO TV
+http://10.10.10.22:25461/live/mkaua/stream/18.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="WEB DIGITAL" tvg-logo="https://imgur.com/UDG9QFF.png" group-title="BD BANGLA",WEB DIGITAL
+http://10.10.10.22:25461/live/mkaua/stream/56.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="ZEE BANGLA HD" tvg-logo="https://imgur.com/sVK7liT.png" group-title="INDIAN BANGLA",ZEE BANGLA HD
+http://10.10.10.22:25461/live/mkaua/stream/5.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="STAR JALSHA HD" tvg-logo="http://chocotv.live/img/channels/starjalshahd.png" group-title="INDIAN BANGLA",STAR JALSHA HD
+http://10.10.10.22:25461/live/mkaua/stream/6.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="COLORS BANGLA HD" tvg-logo="http://chocotv.live/img/channels/colorsbanglahd.png" group-title="INDIAN BANGLA",COLORS BANGLA HD
+http://10.10.10.22:25461/live/mkaua/stream/7.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="JALSHA MOVIE HD" tvg-logo="https://imgur.com/GOpi9L7.png" group-title="BANGLA CINEMA",JALSHA MOVIE HD
+http://10.10.10.22:25461/live/mkaua/stream/8.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="COLORS BANGLA CINEMA" tvg-logo="https://i.imgur.com/KdTFQCP.png" group-title="BANGLA CINEMA",COLORS BANGLA CINEMA
+http://10.10.10.22:25461/live/mkaua/stream/9.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ZEE BANGLA CINEMA" tvg-logo="https://iptv.megaspeednet.com/img/channels/zeebanglacinema.png" group-title="BANGLA CINEMA",ZEE BANGLA CINEMA
+http://10.10.10.22:25461/live/mkaua/stream/10.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="MASSRANGA" tvg-logo="http://chocotv.live/img/channels/maasranga.png" group-title="KIDS",MASSRANGA
+http://10.10.10.22:25461/live/mkaua/stream/11.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DURONTO" tvg-logo="https://i.imgur.com/PK9Gm5g.png" group-title="KIDS",DURONTO
+http://10.10.10.22:25461/live/mkaua/stream/12.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NICK" tvg-logo="https://imgur.com/cDeHCMg.png" group-title="KIDS",NICK
+http://10.10.10.22:25461/live/mkaua/stream/13.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="ATN ISLAMIC" tvg-logo="https://imgur.com/ESWXan9.png" group-title="RELIGIOUS",ATN ISLAMIC
+http://10.10.10.22:25461/live/mkaua/stream/14.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MADANI" tvg-logo="https://imgur.com/kg3f0dE.png" group-title="RELIGIOUS",MADANI
+http://10.10.10.22:25461/live/mkaua/stream/15.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SAUDIA QURAN HD" tvg-logo="https://imgur.com/U1XFyOx.png" group-title="RELIGIOUS",SAUDIA QURAN HD
+http://10.10.10.22:25461/live/mkaua/stream/16.m3u8
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="HUM HD" tvg-logo="https://imgur.com/EXGKPmc.png" group-title="HINDI",HUM HD
+http://10.10.10.22:25461/live/mkaua/stream/19.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="STAR PLUS" tvg-logo="https://imgur.com/pyq93oS.png" group-title="HINDI",STAR PLUS
+http://10.10.10.22:25461/live/mkaua/stream/20.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ZEE TV HD" tvg-logo="https://i.pinimg.com/originals/d0/04/95/d00495d07bb2f6e0856b9f8b92b9bf20.png" group-title="HINDI",ZEE TV HD
+http://10.10.10.22:25461/live/mkaua/stream/21.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SONY HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/57/SET_India_2016.png" group-title="HINDI",SONY HD
+http://10.10.10.22:25461/live/mkaua/stream/22.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SONY SUB" tvg-logo="http://chocotv.live/img/channels/sonysabhd.png" group-title="HINDI",SONY SUB
+http://10.10.10.22:25461/live/mkaua/stream/23.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="COLORS HD" tvg-logo="http://chocotv.live/img/channels/colors.png" group-title="HINDI",COLORS HD
+http://10.10.10.22:25461/live/mkaua/stream/24.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="SONYMAXHD" tvg-logo="https://www.pngitem.com/pimgs/m/423-4231206_sony-max-hd-hindi-movie-text-png-transparent.png" group-title="HINDI MOVIE",SONYMAXHD
+http://10.10.10.22:25461/live/mkaua/stream/25.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ZEE CINEMA HD" tvg-logo="https://bdiptv.stream/uploads/tv_image/zee-cinema.png" group-title="HINDI MOVIE",ZEE CINEMA HD
+http://10.10.10.22:25461/live/mkaua/stream/26.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="STARGOLDHD" tvg-logo="https://www.kindpng.com/picc/m/356-3567507_star-gold-channel-logo-hd-png-download.png" group-title="HINDI MOVIE",STARGOLDHD
+http://10.10.10.22:25461/live/mkaua/stream/27.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="&PICTURSHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d4/%26pictures_HD.png" group-title="HINDI MOVIE",&PICTURSHD
+http://10.10.10.22:25461/live/mkaua/stream/28.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="COLORS CINEPLEX HD" tvg-logo="https://medianet.mv/media/channel/160x0-icon.png" group-title="HINDI MOVIE",COLORS CINEPLEX HD
+http://10.10.10.22:25461/live/mkaua/stream/29.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UTV ACTION" tvg-logo="https://imgur.com/crivQuG.png" group-title="HINDI MOVIE",UTV ACTION
+http://10.10.10.22:25461/live/mkaua/stream/30.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="ACTION MAX HD" tvg-logo="https://imgur.com/ALR0GDT.png" group-title="ENGLISH MOVIE",ACTION MAX HD
+http://10.10.10.22:25461/live/mkaua/stream/31.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SHOW TIME HD" tvg-logo="https://imgur.com/xbOQx7K.png" group-title="ENGLISH MOVIE",SHOW TIME HD
+http://10.10.10.22:25461/live/mkaua/stream/32.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MN+ HD" tvg-logo="https://imgur.com/hmUWe0v.png" group-title="ENGLISH MOVIE",MN+ HD
+http://10.10.10.22:25461/live/mkaua/stream/33.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MOVIES NOW HD" tvg-logo="https://imgur.com/DWnHc3E.png" group-title="ENGLISH MOVIE",MOVIES NOW HD
+http://10.10.10.22:25461/live/mkaua/stream/34.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="STAR MOVIE SEL HD" tvg-logo="https://imgur.com/fKhY390.png" group-title="ENGLISH MOVIE",STAR MOVIE SEL HD
+http://10.10.10.22:25461/live/mkaua/stream/35.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="&prive HD" tvg-logo="https://imgur.com/yFSkJlw.png" group-title="ENGLISH MOVIE",&prive HD
+http://10.10.10.22:25461/live/mkaua/stream/41.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="STAR MOVIE HD" tvg-logo="https://imgur.com/HzK6RKY.png" group-title="ENGLISH MOVIE",STAR MOVIE HD
+http://10.10.10.22:25461/live/mkaua/stream/46.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SONY PIX HD" tvg-logo="https://imgur.com/uV8cQ94.png" group-title="ENGLISH MOVIE",SONY PIX HD
+http://10.10.10.22:25461/live/mkaua/stream/60.m3u8
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="STAR SPOTS 1 HD" tvg-logo="http://chocotv.live/img/channels/starsports1hd.png" group-title="LIVE SPORTS",STAR SPOTS 1 HD
+http://10.10.10.22:25461/live/mkaua/stream/36.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="STAR SPORTS 2 HD" tvg-logo="https://i.pinimg.com/originals/48/db/34/48db34c44ade7b2b67c9d26bfcde8054.png" group-title="LIVE SPORTS",STAR SPORTS 2 HD
+http://10.10.10.22:25461/live/mkaua/stream/37.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SONY SIX HD" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/SonySIXHD_Masthead_Logo.png" group-title="SPORTS",SONY SIX HD
+http://10.10.10.22:25461/live/mkaua/stream/38.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SONY TEN1 HD" tvg-logo="https://imgur.com/fqhtJDJ.png" group-title="SPORTS",SONY TEN1 HD
+http://10.10.10.22:25461/live/mkaua/stream/39.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SONY TEN2 HD" tvg-logo="https://imgur.com/UChLr4t.png" group-title="SPORTS",SONY TEN2 HD
+http://10.10.10.22:25461/live/mkaua/stream/40.m3u8
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="MTV LIVE" tvg-logo="https://imgur.com/K4y7QLV.png" group-title="MUSIC",MTV LIVE
+http://10.10.10.22:25461/live/mkaua/stream/42.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ZOOM" tvg-logo="https://www.ranklogos.com/wp-content/uploads/2015/01/Zoom.png" group-title="MUSIC",ZOOM
+http://10.10.10.22:25461/live/mkaua/stream/43.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC INDIA" tvg-logo="https://imgur.com/wg3N1VT.png" group-title="MUSIC",MUSIC INDIA
+http://10.10.10.22:25461/live/mkaua/stream/44.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="9XM" tvg-logo="http://chocotv.live/img/channels/9xm.png" group-title="MUSIC",9XM
+http://10.10.10.22:25461/live/mkaua/stream/45.m3u8
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="ATN MUSIC" tvg-logo="https://imgur.com/OTzS5Fc.png" group-title="BD MUSIC",ATN MUSIC
+http://10.10.10.22:25461/live/mkaua/stream/57.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GAAN BANGLA" tvg-logo="https://imgur.com/raF9GVk.png" group-title="BD MUSIC",GAAN BANGLA
+http://10.10.10.22:25461/live/mkaua/stream/58.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SONGEET BANGLA" tvg-logo="https://imgur.com/TNk56Ai.png" group-title="BD MUSIC",SONGEET BANGLA
+http://10.10.10.22:25461/live/mkaua/stream/59.m3u8
