@@ -1,73 +1,73 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="LIVE-SPORTS" tvg-logo="" group-title="SPORTS",LIVE-SPORTS
+#EXTINF:-1 tvg-id="" tvg-name="LIVE-MOKKA" tvg-logo="http://10.10.10.26/logo/quraantv.png" group-title="ISLAMIC",LIVE-MOKKA
 http://10.10.10.22:25461/live/fcn/users/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="LIVE-SPORTS" tvg-logo="" group-title="SPORTS",LIVE-SPORTS
+#EXTINF:-1 tvg-id="" tvg-name="LIVE-SPORTS" tvg-logo="http://10.10.10.26/logo/ipl.png" group-title="SPORTS",LIVE-SPORTS
 http://10.10.10.22:25461/live/fcn/users/2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="T-SPORTS" tvg-logo="" group-title="SPORTS",T-SPORTS
+#EXTINF:-1 tvg-id="" tvg-name="T-SPORTS" tvg-logo="http://10.10.10.26/logo/ipl2.png" group-title="SPORTS",T-SPORTS
 http://10.10.10.22:25461/live/fcn/users/3.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="GAZI TV" tvg-logo="" group-title="SPORTS",GAZI TV
+#EXTINF:-1 tvg-id="" tvg-name="GAZI TV" tvg-logo="http://10.10.10.26/logo/gazi.png" group-title="SPORTS",GAZI TV
 http://10.10.10.22:25461/live/fcn/users/4.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="STAR SPORTS-1" tvg-logo="" group-title="SPORTS",STAR SPORTS-1
+#EXTINF:-1 tvg-id="" tvg-name="STAR SPORTS-1" tvg-logo="http://10.10.10.26/logo/spss1.png" group-title="SPORTS",STAR SPORTS-1
 http://10.10.10.22:25461/live/fcn/users/5.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="STAR SPORTS-2" tvg-logo="" group-title="SPORTS",STAR SPORTS-2
+#EXTINF:-1 tvg-id="" tvg-name="STAR SPORTS-2" tvg-logo="http://10.10.10.26/logo/spss2.png" group-title="SPORTS",STAR SPORTS-2
 http://10.10.10.22:25461/live/fcn/users/6.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="STAR SPORTS-3" tvg-logo="" group-title="SPORTS",STAR SPORTS-3
+#EXTINF:-1 tvg-id="" tvg-name="STAR SPORTS-3" tvg-logo="http://10.10.10.26/logo/spss3.png" group-title="SPORTS",STAR SPORTS-3
 http://10.10.10.22:25461/live/fcn/users/7.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="STAR SELECT-1" tvg-logo="" group-title="SPORTS",STAR SELECT-1
+#EXTINF:-1 tvg-id="" tvg-name="STAR SELECT-1" tvg-logo="http://10.10.10.26/logo/spsss1.png" group-title="SPORTS",STAR SELECT-1
 http://10.10.10.22:25461/live/fcn/users/8.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="STAR SELECT-2" tvg-logo="" group-title="SPORTS",STAR SELECT-2
+#EXTINF:-1 tvg-id="" tvg-name="STAR SELECT-2" tvg-logo="http://10.10.10.26/logo/spsss2.png" group-title="SPORTS",STAR SELECT-2
 http://10.10.10.22:25461/live/fcn/users/9.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SONY TEN-1" tvg-logo="" group-title="SPORTS",SONY TEN-1
+#EXTINF:-1 tvg-id="" tvg-name="SONY TEN-1" tvg-logo="http://10.10.10.26/logo/spst1.png" group-title="SPORTS",SONY TEN-1
 http://10.10.10.22:25461/live/fcn/users/10.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SONY TEN-2" tvg-logo="" group-title="SPORTS",SONY TEN-2
+#EXTINF:-1 tvg-id="" tvg-name="SONY TEN-2" tvg-logo="http://10.10.10.26/logo/spst2.png" group-title="SPORTS",SONY TEN-2
 http://10.10.10.22:25461/live/fcn/users/11.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SONY TEN-3" tvg-logo="" group-title="SPORTS",SONY TEN-3
+#EXTINF:-1 tvg-id="" tvg-name="SONY TEN-3" tvg-logo="http://10.10.10.26/logo/spst3.png" group-title="SPORTS",SONY TEN-3
 http://10.10.10.22:25461/live/fcn/users/12.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SONY TEN-4" tvg-logo="" group-title="SPORTS",SONY TEN-4
+#EXTINF:-1 tvg-id="" tvg-name="SONY TEN-4" tvg-logo="http://10.10.10.26/logo/spst4.png" group-title="SPORTS",SONY TEN-4
 http://10.10.10.22:25461/live/fcn/users/13.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SONY TEN-5" tvg-logo="" group-title="SPORTS",SONY TEN-5
+#EXTINF:-1 tvg-id="" tvg-name="SONY TEN-5" tvg-logo="http://10.10.10.26/logo/spst6.png" group-title="SPORTS",SONY TEN-5
 http://10.10.10.22:25461/live/fcn/users/14.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="A SPORTS HD" tvg-logo="" group-title="SPORTS",A SPORTS HD
+#EXTINF:-1 tvg-id="" tvg-name="A SPORTS HD" tvg-logo="http://10.10.10.26/logo/spas.png" group-title="SPORTS",A SPORTS HD
 http://10.10.10.22:25461/live/fcn/users/15.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PTV SPORTS" tvg-logo="" group-title="SPORTS",PTV SPORTS
+#EXTINF:-1 tvg-id="" tvg-name="PTV SPORTS" tvg-logo="http://10.10.10.26/logo/spps.png" group-title="SPORTS",PTV SPORTS
 http://10.10.10.22:25461/live/fcn/users/16.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DUBAI SPORTS" tvg-logo="" group-title="SPORTS",DUBAI SPORTS
+#EXTINF:-1 tvg-id="" tvg-name="DUBAI SPORTS" tvg-logo="http://10.10.10.26/logo/dubai.png" group-title="SPORTS",DUBAI SPORTS
 http://10.10.10.22:25461/live/fcn/users/17.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ADD SPORTS-1" tvg-logo="" group-title="SPORTS",ADD SPORTS-1
 http://10.10.10.22:25461/live/fcn/users/18.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RED BLUE" tvg-logo="" group-title="SPORTS",RED BLUE
+#EXTINF:-1 tvg-id="" tvg-name="RED BLUE" tvg-logo="http://10.10.10.26/logo/red.png" group-title="SPORTS",RED BLUE
 http://10.10.10.22:25461/live/fcn/users/19.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="JIO SPORTS-18" tvg-logo="" group-title="SPORTS",JIO SPORTS-18
+#EXTINF:-1 tvg-id="" tvg-name="JIO SPORTS-18" tvg-logo="http://10.10.10.26/logo/sp18.png" group-title="SPORTS",JIO SPORTS-18
 http://10.10.10.22:25461/live/fcn/users/20.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SUN BANGLA" tvg-logo="" group-title="INDIAN BANGLA",SUN BANGLA
+#EXTINF:-1 tvg-id="" tvg-name="SUN BANGLA" tvg-logo="http://10.10.10.26/logo/inbsb.png" group-title="INDIAN BANGLA",SUN BANGLA
 http://10.10.10.22:25461/live/fcn/users/21.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ZEE BANGLA" tvg-logo="" group-title="INDIAN BANGLA",ZEE BANGLA
+#EXTINF:-1 tvg-id="" tvg-name="ZEE BANGLA" tvg-logo="http://10.10.10.26/logo/inbzb.png" group-title="INDIAN BANGLA",ZEE BANGLA
 http://10.10.10.22:25461/live/fcn/users/22.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="STAR JALSHA" tvg-logo="" group-title="INDIAN BANGLA",STAR JALSHA
+#EXTINF:-1 tvg-id="" tvg-name="STAR JALSHA" tvg-logo="http://10.10.10.26/logo/inbsj.png" group-title="INDIAN BANGLA",STAR JALSHA
 http://10.10.10.22:25461/live/fcn/users/23.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="COLORS BANGLA" tvg-logo="" group-title="INDIAN BANGLA",COLORS BANGLA
+#EXTINF:-1 tvg-id="" tvg-name="COLORS BANGLA" tvg-logo="http://10.10.10.26/logo/inbcb.png" group-title="INDIAN BANGLA",COLORS BANGLA
 http://10.10.10.22:25461/live/fcn/users/24.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AKASH AATH" tvg-logo="" group-title="INDIAN BANGLA",AKASH AATH
+#EXTINF:-1 tvg-id="" tvg-name="AKASH AATH" tvg-logo="https://i.imgur.com/c76kK2K.png" group-title="INDIAN BANGLA",AKASH AATH
 http://10.10.10.22:25461/live/fcn/users/25.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SONY AATH" tvg-logo="" group-title="INDIAN BANGLA",SONY AATH
+#EXTINF:-1 tvg-id="" tvg-name="SONY AATH" tvg-logo="http://10.10.10.26/logo/inbs8.png" group-title="INDIAN BANGLA",SONY AATH
 http://10.10.10.22:25461/live/fcn/users/26.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ENTER 10 BANGLA" tvg-logo="" group-title="INDIAN BANGLA",ENTER 10 BANGLA
+#EXTINF:-1 tvg-id="" tvg-name="ENTER 10 BANGLA" tvg-logo="http://10.10.10.26/logo/inbe10.png" group-title="INDIAN BANGLA",ENTER 10 BANGLA
 http://10.10.10.22:25461/live/fcn/users/27.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="JALSHA MOVIES" tvg-logo="" group-title="INDIAN BANGLA",JALSHA MOVIES
+#EXTINF:-1 tvg-id="" tvg-name="JALSHA MOVIES" tvg-logo="http://10.10.10.26/logo/inbjm.png" group-title="INDIAN BANGLA",JALSHA MOVIES
 http://10.10.10.22:25461/live/fcn/users/28.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ZEE BANGLA CINEMA" tvg-logo="" group-title="INDIAN BANGLA",ZEE BANGLA CINEMA
+#EXTINF:-1 tvg-id="" tvg-name="ZEE BANGLA CINEMA" tvg-logo="http://10.10.10.26/logo/inbzbc.png" group-title="INDIAN BANGLA",ZEE BANGLA CINEMA
 http://10.10.10.22:25461/live/fcn/users/29.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="COLORS BANGLA CINEMA" tvg-logo="" group-title="INDIAN BANGLA",COLORS BANGLA CINEMA
+#EXTINF:-1 tvg-id="" tvg-name="COLORS BANGLA CINEMA" tvg-logo="http://10.10.10.26/logo/inbcbc.png" group-title="INDIAN BANGLA",COLORS BANGLA CINEMA
 http://10.10.10.22:25461/live/fcn/users/30.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ZEE BANGLA FHD" tvg-logo="" group-title="INDIAN BANGLA",ZEE BANGLA FHD
+#EXTINF:-1 tvg-id="" tvg-name="ZEE BANGLA FHD" tvg-logo="http://10.10.10.26/logo/inbzb.png" group-title="INDIAN BANGLA",ZEE BANGLA FHD
 http://10.10.10.22:25461/live/fcn/users/31.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="KHUSHBOO BANGLA" tvg-logo="" group-title="INDIAN BANGLA",KHUSHBOO BANGLA
+#EXTINF:-1 tvg-id="" tvg-name="KHUSHBOO BANGLA" tvg-logo="http://10.10.10.26/logo/khush.png" group-title="INDIAN BANGLA",KHUSHBOO BANGLA
 http://10.10.10.22:25461/live/fcn/users/32.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SONGEET BANGLA" tvg-logo="" group-title="INDIAN BANGLA",SONGEET BANGLA
+#EXTINF:-1 tvg-id="" tvg-name="SONGEET BANGLA" tvg-logo="http://10.10.10.26/logo/inbsgt.png" group-title="INDIAN BANGLA",SONGEET BANGLA
 http://10.10.10.22:25461/live/fcn/users/33.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="COLORS BANGLA FHD" tvg-logo="" group-title="INDIAN BANGLA",COLORS BANGLA FHD
+#EXTINF:-1 tvg-id="" tvg-name="COLORS BANGLA FHD" tvg-logo="http://10.10.10.26/logo/inbcb.png" group-title="INDIAN BANGLA",COLORS BANGLA FHD
 http://10.10.10.22:25461/live/fcn/users/34.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="STAR JALSHA HD" tvg-logo="" group-title="INDIAN BANGLA",STAR JALSHA HD
+#EXTINF:-1 tvg-id="" tvg-name="STAR JALSHA HD" tvg-logo="http://10.10.10.26/logo/inbsj.png" group-title="INDIAN BANGLA",STAR JALSHA HD
 http://10.10.10.22:25461/live/fcn/users/35.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AND TV HD" tvg-logo="" group-title="HINDI ENT",AND TV HD
 http://10.10.10.22:25461/live/fcn/users/36.m3u8
@@ -243,3 +243,240 @@ http://10.10.10.22:25461/live/fcn/users/120.m3u8
 http://10.10.10.22:25461/live/fcn/users/121.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NATIONAL GEO" tvg-logo="" group-title="DISCOVER",NATIONAL GEO
 http://10.10.10.22:25461/live/fcn/users/122.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="STAR JALSHA (BUP)" tvg-logo="" group-title="INDIAN BANGLA",STAR JALSHA (BUP)
+http://10.10.10.22:25461/live/fcn/users/233.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Colors Cineplex" tvg-logo="" group-title="HINDI MOVIES",Colors Cineplex
+http://10.10.10.22:25461/live/fcn/users/234.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BOLLYWOOD HD" tvg-logo="" group-title="HINDI MOVIES",BOLLYWOOD HD
+http://10.10.10.22:25461/live/fcn/users/235.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BOLLYWOOD CLASSIC " tvg-logo="" group-title="HINDI MOVIES",BOLLYWOOD CLASSIC 
+http://10.10.10.22:25461/live/fcn/users/236.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BOLLYWOOD PRIME" tvg-logo="" group-title="HINDI MOVIES",BOLLYWOOD PRIME
+http://10.10.10.22:25461/live/fcn/users/237.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="STAR GOLD SELECT " tvg-logo="" group-title="HINDI MOVIES",STAR GOLD SELECT 
+http://10.10.10.22:25461/live/fcn/users/238.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Kathal" tvg-logo="" group-title="BOLLYWOOD",Kathal
+http://10.10.10.22:25461/movie/fcn/users/123.
+#EXTINF:-1 tvg-id="" tvg-name="Ravanasura" tvg-logo="" group-title="BOLLYWOOD",Ravanasura
+http://10.10.10.22:25461/movie/fcn/users/124.
+#EXTINF:-1 tvg-id="" tvg-name="Mrs.Chatterjee Vs Norway" tvg-logo="" group-title="BOLLYWOOD",Mrs.Chatterjee Vs Norway
+http://10.10.10.22:25461/movie/fcn/users/125.
+#EXTINF:-1 tvg-id="" tvg-name="Shaakuntalam" tvg-logo="" group-title="BOLLYWOOD",Shaakuntalam
+http://10.10.10.22:25461/movie/fcn/users/126.
+#EXTINF:-1 tvg-id="" tvg-name="Victoria:Ek Rahasya" tvg-logo="" group-title="BOLLYWOOD",Victoria:Ek Rahasya
+http://10.10.10.22:25461/movie/fcn/users/127.
+#EXTINF:-1 tvg-id="" tvg-name="Bholaa" tvg-logo="" group-title="BOLLYWOOD",Bholaa
+http://10.10.10.22:25461/movie/fcn/users/128.
+#EXTINF:-1 tvg-id="" tvg-name="Vikram Vedha" tvg-logo="" group-title="BOLLYWOOD",Vikram Vedha
+http://10.10.10.22:25461/movie/fcn/users/129.
+#EXTINF:-1 tvg-id="" tvg-name="Hunt" tvg-logo="" group-title="BOLLYWOOD",Hunt
+http://10.10.10.22:25461/movie/fcn/users/130.
+#EXTINF:-1 tvg-id="" tvg-name="August 16, 1947" tvg-logo="" group-title="BOLLYWOOD",August 16, 1947
+http://10.10.10.22:25461/movie/fcn/users/131.
+#EXTINF:-1 tvg-id="" tvg-name="Corona Papers" tvg-logo="" group-title="BOLLYWOOD",Corona Papers
+http://10.10.10.22:25461/movie/fcn/users/132.
+#EXTINF:-1 tvg-id="" tvg-name="Vedalam" tvg-logo="" group-title="BOLLYWOOD",Vedalam
+http://10.10.10.22:25461/movie/fcn/users/133.
+#EXTINF:-1 tvg-id="" tvg-name="Sindhooram" tvg-logo="" group-title="BOLLYWOOD",Sindhooram
+http://10.10.10.22:25461/movie/fcn/users/134.
+#EXTINF:-1 tvg-id="" tvg-name="U-Turn" tvg-logo="" group-title="BOLLYWOOD",U-Turn
+http://10.10.10.22:25461/movie/fcn/users/135.
+#EXTINF:-1 tvg-id="" tvg-name="Dasara" tvg-logo="" group-title="BOLLYWOOD",Dasara
+http://10.10.10.22:25461/movie/fcn/users/136.
+#EXTINF:-1 tvg-id="" tvg-name="Bhai...Jaan" tvg-logo="" group-title="BOLLYWOOD",Bhai...Jaan
+http://10.10.10.22:25461/movie/fcn/users/137.
+#EXTINF:-1 tvg-id="" tvg-name="Dhamaka" tvg-logo="" group-title="BOLLYWOOD",Dhamaka
+http://10.10.10.22:25461/movie/fcn/users/138.
+#EXTINF:-1 tvg-id="" tvg-name="Selfiee" tvg-logo="" group-title="BOLLYWOOD",Selfiee
+http://10.10.10.22:25461/movie/fcn/users/139.
+#EXTINF:-1 tvg-id="" tvg-name="Shehzada" tvg-logo="" group-title="BOLLYWOOD",Shehzada
+http://10.10.10.22:25461/movie/fcn/users/140.
+#EXTINF:-1 tvg-id="" tvg-name="Mrs Undercover" tvg-logo="" group-title="BOLLYWOOD",Mrs Undercover
+http://10.10.10.22:25461/movie/fcn/users/141.
+#EXTINF:-1 tvg-id="" tvg-name="Kabzaa" tvg-logo="" group-title="BOLLYWOOD",Kabzaa
+http://10.10.10.22:25461/movie/fcn/users/142.
+#EXTINF:-1 tvg-id="" tvg-name="Gaslight" tvg-logo="" group-title="BOLLYWOOD",Gaslight
+http://10.10.10.22:25461/movie/fcn/users/143.
+#EXTINF:-1 tvg-id="" tvg-name="Almost Pyaar" tvg-logo="" group-title="BOLLYWOOD",Almost Pyaar
+http://10.10.10.22:25461/movie/fcn/users/144.
+#EXTINF:-1 tvg-id="" tvg-name="Faraaz" tvg-logo="" group-title="BOLLYWOOD",Faraaz
+http://10.10.10.22:25461/movie/fcn/users/145.
+#EXTINF:-1 tvg-id="" tvg-name="Chor Nikal Ke Bhaga" tvg-logo="" group-title="BOLLYWOOD",Chor Nikal Ke Bhaga
+http://10.10.10.22:25461/movie/fcn/users/146.
+#EXTINF:-1 tvg-id="" tvg-name="Kanjoos Makhichoos" tvg-logo="" group-title="BOLLYWOOD",Kanjoos Makhichoos
+http://10.10.10.22:25461/movie/fcn/users/147.
+#EXTINF:-1 tvg-id="" tvg-name="Pathaan" tvg-logo="" group-title="BOLLYWOOD",Pathaan
+http://10.10.10.22:25461/movie/fcn/users/148.
+#EXTINF:-1 tvg-id="" tvg-name="Cirkus" tvg-logo="" group-title="BOLLYWOOD",Cirkus
+http://10.10.10.22:25461/movie/fcn/users/149.
+#EXTINF:-1 tvg-id="" tvg-name="Kacchey Limbu" tvg-logo="" group-title="BOLLYWOOD",Kacchey Limbu
+http://10.10.10.22:25461/movie/fcn/users/150.
+#EXTINF:-1 tvg-id="" tvg-name="Am I Next" tvg-logo="" group-title="BOLLYWOOD",Am I Next
+http://10.10.10.22:25461/movie/fcn/users/151.
+#EXTINF:-1 tvg-id="" tvg-name="Vaathi" tvg-logo="" group-title="BOLLYWOOD",Vaathi
+http://10.10.10.22:25461/movie/fcn/users/152.
+#EXTINF:-1 tvg-id="" tvg-name="Kuttey" tvg-logo="" group-title="BOLLYWOOD",Kuttey
+http://10.10.10.22:25461/movie/fcn/users/153.
+#EXTINF:-1 tvg-id="" tvg-name="Tu Jhoothi Main Makkaar" tvg-logo="" group-title="BOLLYWOOD",Tu Jhoothi Main Makkaar
+http://10.10.10.22:25461/movie/fcn/users/154.
+#EXTINF:-1 tvg-id="" tvg-name="Christy" tvg-logo="" group-title="BOLLYWOOD",Christy
+http://10.10.10.22:25461/movie/fcn/users/155.
+#EXTINF:-1 tvg-id="" tvg-name="Varisu" tvg-logo="" group-title="BOLLYWOOD",Varisu
+http://10.10.10.22:25461/movie/fcn/users/156.
+#EXTINF:-1 tvg-id="" tvg-name="Shamshera" tvg-logo="" group-title="BOLLYWOOD",Shamshera
+http://10.10.10.22:25461/movie/fcn/users/157.
+#EXTINF:-1 tvg-id="" tvg-name="Christopher" tvg-logo="" group-title="BOLLYWOOD",Christopher
+http://10.10.10.22:25461/movie/fcn/users/158.
+#EXTINF:-1 tvg-id="" tvg-name="Fast X" tvg-logo="" group-title="HOLLYWOOD",Fast X
+http://10.10.10.22:25461/movie/fcn/users/159.
+#EXTINF:-1 tvg-id="" tvg-name="Sisu" tvg-logo="" group-title="HOLLYWOOD",Sisu
+http://10.10.10.22:25461/movie/fcn/users/160.
+#EXTINF:-1 tvg-id="" tvg-name="The Mother" tvg-logo="" group-title="HOLLYWOOD",The Mother
+http://10.10.10.22:25461/movie/fcn/users/161.
+#EXTINF:-1 tvg-id="" tvg-name="Knock at the Cabin" tvg-logo="" group-title="HOLLYWOOD",Knock at the Cabin
+http://10.10.10.22:25461/movie/fcn/users/162.
+#EXTINF:-1 tvg-id="" tvg-name="Sniping 2" tvg-logo="" group-title="HOLLYWOOD",Sniping 2
+http://10.10.10.22:25461/movie/fcn/users/163.
+#EXTINF:-1 tvg-id="" tvg-name="Operation Fortune" tvg-logo="" group-title="HOLLYWOOD",Operation Fortune
+http://10.10.10.22:25461/movie/fcn/users/164.
+#EXTINF:-1 tvg-id="" tvg-name="Cocaine Bear" tvg-logo="" group-title="HOLLYWOOD",Cocaine Bear
+http://10.10.10.22:25461/movie/fcn/users/165.
+#EXTINF:-1 tvg-id="" tvg-name="Dungeons & Dragons" tvg-logo="" group-title="HOLLYWOOD",Dungeons & Dragons
+http://10.10.10.22:25461/movie/fcn/users/166.
+#EXTINF:-1 tvg-id="" tvg-name="AKA" tvg-logo="" group-title="HOLLYWOOD",AKA
+http://10.10.10.22:25461/movie/fcn/users/167.
+#EXTINF:-1 tvg-id="" tvg-name="Assassin Club" tvg-logo="" group-title="HOLLYWOOD",Assassin Club
+http://10.10.10.22:25461/movie/fcn/users/168.
+#EXTINF:-1 tvg-id="" tvg-name="Shazam!" tvg-logo="" group-title="HOLLYWOOD",Shazam!
+http://10.10.10.22:25461/movie/fcn/users/169.
+#EXTINF:-1 tvg-id="" tvg-name="The Last Kingdom" tvg-logo="" group-title="HOLLYWOOD",The Last Kingdom
+http://10.10.10.22:25461/movie/fcn/users/170.
+#EXTINF:-1 tvg-id="" tvg-name="65" tvg-logo="" group-title="HOLLYWOOD",65
+http://10.10.10.22:25461/movie/fcn/users/171.
+#EXTINF:-1 tvg-id="" tvg-name="Murder Mystery 2" tvg-logo="" group-title="HOLLYWOOD",Murder Mystery 2
+http://10.10.10.22:25461/movie/fcn/users/172.
+#EXTINF:-1 tvg-id="" tvg-name="Kill Boksoon" tvg-logo="" group-title="HOLLYWOOD",Kill Boksoon
+http://10.10.10.22:25461/movie/fcn/users/173.
+#EXTINF:-1 tvg-id="" tvg-name="On a Wing and a Prayer" tvg-logo="" group-title="HOLLYWOOD",On a Wing and a Prayer
+http://10.10.10.22:25461/movie/fcn/users/174.
+#EXTINF:-1 tvg-id="" tvg-name="Luther: The Fallen Sun" tvg-logo="" group-title="HOLLYWOOD",Luther: The Fallen Sun
+http://10.10.10.22:25461/movie/fcn/users/175.
+#EXTINF:-1 tvg-id="" tvg-name="Black Adam" tvg-logo="" group-title="HOLLYWOOD",Black Adam
+http://10.10.10.22:25461/movie/fcn/users/176.
+#EXTINF:-1 tvg-id="" tvg-name="JUNG_E" tvg-logo="" group-title="HOLLYWOOD",JUNG_E
+http://10.10.10.22:25461/movie/fcn/users/177.
+#EXTINF:-1 tvg-id="" tvg-name="Magic Man" tvg-logo="" group-title="HOLLYWOOD",Magic Man
+http://10.10.10.22:25461/movie/fcn/users/178.
+#EXTINF:-1 tvg-id="" tvg-name="Fistful of Vengeance" tvg-logo="" group-title="HOLLYWOOD",Fistful of Vengeance
+http://10.10.10.22:25461/movie/fcn/users/179.
+#EXTINF:-1 tvg-id="" tvg-name="Fullmetal Alchemist" tvg-logo="" group-title="HOLLYWOOD",Fullmetal Alchemist
+http://10.10.10.22:25461/movie/fcn/users/180.
+#EXTINF:-1 tvg-id="" tvg-name="Top Gun: Maverick" tvg-logo="" group-title="HOLLYWOOD",Top Gun: Maverick
+http://10.10.10.22:25461/movie/fcn/users/181.
+#EXTINF:-1 tvg-id="" tvg-name="the Revenge of Scar" tvg-logo="" group-title="HOLLYWOOD",the Revenge of Scar
+http://10.10.10.22:25461/movie/fcn/users/182.
+#EXTINF:-1 tvg-id="" tvg-name="Yaksha: Ruthless Operations" tvg-logo="" group-title="HOLLYWOOD",Yaksha: Ruthless Operations
+http://10.10.10.22:25461/movie/fcn/users/183.
+#EXTINF:-1 tvg-id="" tvg-name="Interceptor" tvg-logo="" group-title="HOLLYWOOD",Interceptor
+http://10.10.10.22:25461/movie/fcn/users/184.
+#EXTINF:-1 tvg-id="" tvg-name="The Pirates" tvg-logo="" group-title="HOLLYWOOD",The Pirates
+http://10.10.10.22:25461/movie/fcn/users/185.
+#EXTINF:-1 tvg-id="" tvg-name="Thor: The Dark World" tvg-logo="" group-title="HOLLYWOOD",Thor: The Dark World
+http://10.10.10.22:25461/movie/fcn/users/186.
+#EXTINF:-1 tvg-id="" tvg-name="The Roundup" tvg-logo="" group-title="HOLLYWOOD",The Roundup
+http://10.10.10.22:25461/movie/fcn/users/187.
+#EXTINF:-1 tvg-id="" tvg-name="Insurgent" tvg-logo="" group-title="HOLLYWOOD",Insurgent
+http://10.10.10.22:25461/movie/fcn/users/188.
+#EXTINF:-1 tvg-id="" tvg-name="Carter" tvg-logo="" group-title="HOLLYWOOD",Carter
+http://10.10.10.22:25461/movie/fcn/users/189.
+#EXTINF:-1 tvg-id="" tvg-name="Agnipurush" tvg-logo="" group-title="BANGLADESHI",Agnipurush
+http://10.10.10.22:25461/movie/fcn/users/190.
+#EXTINF:-1 tvg-id="" tvg-name="Kuhelika" tvg-logo="" group-title="BANGLADESHI",Kuhelika
+http://10.10.10.22:25461/movie/fcn/users/191.
+#EXTINF:-1 tvg-id="" tvg-name="হাওয়া" tvg-logo="" group-title="BANGLADESHI",হাওয়া
+http://10.10.10.22:25461/movie/fcn/users/192.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="পরি" tvg-logo="" group-title="BANGLADESHI",পরি
+http://10.10.10.22:25461/movie/fcn/users/193.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Friday" tvg-logo="" group-title="BANGLADESHI",Friday
+http://10.10.10.22:25461/movie/fcn/users/194.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="উনিশ২০" tvg-logo="" group-title="BANGLADESHI",উনিশ২০
+http://10.10.10.22:25461/movie/fcn/users/195.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="দিলখুশ" tvg-logo="" group-title="BANGLADESHI",দিলখুশ
+http://10.10.10.22:25461/movie/fcn/users/196.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="মুখোশ" tvg-logo="" group-title="BANGLADESHI",মুখোশ
+http://10.10.10.22:25461/movie/fcn/users/197.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Mission Extreme 2" tvg-logo="" group-title="BANGLADESHI",Mission Extreme 2
+http://10.10.10.22:25461/movie/fcn/users/198.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cafe Desire" tvg-logo="" group-title="BANGLADESHI",Cafe Desire
+http://10.10.10.22:25461/movie/fcn/users/199.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Mayashalik" tvg-logo="" group-title="BANGLADESHI",Mayashalik
+http://10.10.10.22:25461/movie/fcn/users/200.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="শান" tvg-logo="" group-title="BANGLADESHI",শান
+http://10.10.10.22:25461/movie/fcn/users/201.mp4
+#EXTINF:-1 tvg-id="" tvg-name="কাবেরী অন্তর্ধান" tvg-logo="" group-title="KOLKATA",কাবেরী অন্তর্ধান
+http://10.10.10.22:25461/movie/fcn/users/202.
+#EXTINF:-1 tvg-id="" tvg-name="Bhoy" tvg-logo="" group-title="KOLKATA",Bhoy
+http://10.10.10.22:25461/movie/fcn/users/203.
+#EXTINF:-1 tvg-id="" tvg-name="রাবণ" tvg-logo="" group-title="KOLKATA",রাবণ
+http://10.10.10.22:25461/movie/fcn/users/204.
+#EXTINF:-1 tvg-id="" tvg-name="Hirokgorer Hire" tvg-logo="" group-title="KOLKATA",Hirokgorer Hire
+http://10.10.10.22:25461/movie/fcn/users/205.
+#EXTINF:-1 tvg-id="" tvg-name="খেলা যখন" tvg-logo="" group-title="KOLKATA",খেলা যখন
+http://10.10.10.22:25461/movie/fcn/users/206.
+#EXTINF:-1 tvg-id="" tvg-name="কাছের মানুষ" tvg-logo="" group-title="KOLKATA",কাছের মানুষ
+http://10.10.10.22:25461/movie/fcn/users/207.
+#EXTINF:-1 tvg-id="" tvg-name="কিশমিশ" tvg-logo="" group-title="KOLKATA",কিশমিশ
+http://10.10.10.22:25461/movie/fcn/users/208.
+#EXTINF:-1 tvg-id="" tvg-name="Ananta (The Eternal" tvg-logo="" group-title="KOLKATA",Ananta (The Eternal
+http://10.10.10.22:25461/movie/fcn/users/209.
+#EXTINF:-1 tvg-id="" tvg-name="কর্ণসুবর্ণের গুপ্তধন" tvg-logo="" group-title="KOLKATA",কর্ণসুবর্ণের গুপ্তধন
+http://10.10.10.22:25461/movie/fcn/users/210.
+#EXTINF:-1 tvg-id="" tvg-name="হার মানা হার" tvg-logo="" group-title="KOLKATA",হার মানা হার
+http://10.10.10.22:25461/movie/fcn/users/211.
+#EXTINF:-1 tvg-id="" tvg-name="Savings Account" tvg-logo="" group-title="KOLKATA",Savings Account
+http://10.10.10.22:25461/movie/fcn/users/212.
+#EXTINF:-1 tvg-id="" tvg-name="আম্রপালী" tvg-logo="" group-title="KOLKATA",আম্রপালী
+http://10.10.10.22:25461/movie/fcn/users/213.
+#EXTINF:-1 tvg-id="" tvg-name="Byomkesh Hotyamancha" tvg-logo="" group-title="KOLKATA",Byomkesh Hotyamancha
+http://10.10.10.22:25461/movie/fcn/users/214.
+#EXTINF:-1 tvg-id="" tvg-name="Tirandaj Shabor" tvg-logo="" group-title="KOLKATA",Tirandaj Shabor
+http://10.10.10.22:25461/movie/fcn/users/215.
+#EXTINF:-1 tvg-id="" tvg-name="X Equals To Prem" tvg-logo="" group-title="KOLKATA",X Equals To Prem
+http://10.10.10.22:25461/movie/fcn/users/216.
+#EXTINF:-1 tvg-id="" tvg-name="The Eken" tvg-logo="" group-title="KOLKATA",The Eken
+http://10.10.10.22:25461/movie/fcn/users/217.
+#EXTINF:-1 tvg-id="" tvg-name="Baazi" tvg-logo="" group-title="KOLKATA",Baazi
+http://10.10.10.22:25461/movie/fcn/users/218.
+#EXTINF:-1 tvg-id="" tvg-name="SOS Kollkata" tvg-logo="" group-title="KOLKATA",SOS Kollkata
+http://10.10.10.22:25461/movie/fcn/users/219.
+#EXTINF:-1 tvg-id="" tvg-name="Pratighat" tvg-logo="" group-title="KOLKATA",Pratighat
+http://10.10.10.22:25461/movie/fcn/users/220.
+#EXTINF:-1 tvg-id="" tvg-name="Ajob Premer Golpo" tvg-logo="" group-title="KOLKATA",Ajob Premer Golpo
+http://10.10.10.22:25461/movie/fcn/users/221.
+
+#EXTINF:-1 tvg-id="" tvg-name="Black Knight (2023) S01 E01" tvg-logo="https://lh3.googleusercontent.com/3g-q0gn6bd2dobwvfgFEcdb50FJehRf2zMME39M_blxMY3pxTZYy-v3Y90oQTcGOsTzI4FmAnnKz4tcKAHRGVAXQdGYYfNpPGM9TJII" group-title="HINDI DUB",Black Knight (2023) S01 E01
+http://10.10.10.22:25461/series/fcn/users/222.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Black Knight (2023) S01 E02" tvg-logo="https://lh3.googleusercontent.com/3g-q0gn6bd2dobwvfgFEcdb50FJehRf2zMME39M_blxMY3pxTZYy-v3Y90oQTcGOsTzI4FmAnnKz4tcKAHRGVAXQdGYYfNpPGM9TJII" group-title="HINDI DUB",Black Knight (2023) S01 E02
+http://10.10.10.22:25461/series/fcn/users/223.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Black Knight (2023) S01 E03" tvg-logo="https://lh3.googleusercontent.com/3g-q0gn6bd2dobwvfgFEcdb50FJehRf2zMME39M_blxMY3pxTZYy-v3Y90oQTcGOsTzI4FmAnnKz4tcKAHRGVAXQdGYYfNpPGM9TJII" group-title="HINDI DUB",Black Knight (2023) S01 E03
+http://10.10.10.22:25461/series/fcn/users/224.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Black Knight (2023) S01 E04" tvg-logo="https://lh3.googleusercontent.com/3g-q0gn6bd2dobwvfgFEcdb50FJehRf2zMME39M_blxMY3pxTZYy-v3Y90oQTcGOsTzI4FmAnnKz4tcKAHRGVAXQdGYYfNpPGM9TJII" group-title="HINDI DUB",Black Knight (2023) S01 E04
+http://10.10.10.22:25461/series/fcn/users/225.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Black Knight (2023) S01 E05" tvg-logo="https://lh3.googleusercontent.com/3g-q0gn6bd2dobwvfgFEcdb50FJehRf2zMME39M_blxMY3pxTZYy-v3Y90oQTcGOsTzI4FmAnnKz4tcKAHRGVAXQdGYYfNpPGM9TJII" group-title="HINDI DUB",Black Knight (2023) S01 E05
+http://10.10.10.22:25461/series/fcn/users/226.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Black Knight (2023) S01 E06" tvg-logo="https://lh3.googleusercontent.com/3g-q0gn6bd2dobwvfgFEcdb50FJehRf2zMME39M_blxMY3pxTZYy-v3Y90oQTcGOsTzI4FmAnnKz4tcKAHRGVAXQdGYYfNpPGM9TJII" group-title="HINDI DUB",Black Knight (2023) S01 E06
+http://10.10.10.22:25461/series/fcn/users/227.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Citadel (2023) S01 E01" tvg-logo="https://www.moviemeter.nl/series/images/cover/27000/27351.jpg" group-title="HINDI DUB",Citadel (2023) S01 E01
+http://10.10.10.22:25461/series/fcn/users/228.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Citadel (2023) S01 E02" tvg-logo="https://www.moviemeter.nl/series/images/cover/27000/27351.jpg" group-title="HINDI DUB",Citadel (2023) S01 E02
+http://10.10.10.22:25461/series/fcn/users/229.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Citadel (2023) S01 E03" tvg-logo="https://www.moviemeter.nl/series/images/cover/27000/27351.jpg" group-title="HINDI DUB",Citadel (2023) S01 E03
+http://10.10.10.22:25461/series/fcn/users/230.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Citadel (2023) S01 E04" tvg-logo="https://www.moviemeter.nl/series/images/cover/27000/27351.jpg" group-title="HINDI DUB",Citadel (2023) S01 E04
+http://10.10.10.22:25461/series/fcn/users/231.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Citadel (2023) S01 E05" tvg-logo="https://www.moviemeter.nl/series/images/cover/27000/27351.jpg" group-title="HINDI DUB",Citadel (2023) S01 E05
+http://10.10.10.22:25461/series/fcn/users/232.mp4
+
+
+
