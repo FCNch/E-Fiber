@@ -254,3 +254,95 @@ https://wildearth-roku.amagi.tv/masterR720P.m3u8
 
 #EXTINF:-1 group-title="𝗗𝗼𝗰𝘂𝗺𝗲𝗻𝘁𝗼𝗿𝘆" tvg-logo="https://blueantmedia.com/wp-content/uploads/2020/01/love-nature_transparent-768x512.png",𝙇𝙤𝙫𝙚 𝙉𝙖𝙩𝙪𝙧𝙚 4𝙆
 https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sony Max 2 FHD" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/54d97b8.png" group-title="INDIAN" ,IN: Sony Max 2 FHD
+http://tv.cloudcdn.me/live/00:1A:79:A8:9C:32/7435/183.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sony Max 2 UK" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/ad286ec.png" group-title="INDIAN" ,IN: Sony Max 2 UK
+http://tv.cloudcdn.me/live/00:1A:79:A8:9C:32/7435/40479.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sony Max FHD" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/d052853.png" group-title="INDIAN" ,IN: Sony Max FHD
+http://tv.cloudcdn.me/live/00:1A:79:A8:9C:32/7435/184.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sony Max FHD." tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/d052853.png" group-title="INDIAN" ,IN: Sony Max FHD.
+http://tv.cloudcdn.me/live/00:1A:79:A8:9C:32/7435/185.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sony Max HD UK" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/d14875b.png" group-title="INDIAN" ,IN: Sony Max HD UK
+http://tv.cloudcdn.me/live/00:1A:79:A8:9C:32/7435/186.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sony Pal FHD" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/dc6e2ef.png" group-title="INDIAN" ,IN: Sony Pal FHD
+http://tv.cloudcdn.me/live/00:1A:79:A8:9C:32/7435/188.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sony Pix FHD" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/0deace4.png" group-title="INDIAN" ,IN: Sony Pix FHD
+http://tv.cloudcdn.me/live/00:1A:79:A8:9C:32/7435/189.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sony Sab FHD" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/dbd9534.png" group-title="INDIAN" ,IN: Sony Sab FHD
+http://tv.cloudcdn.me/live/00:1A:79:A8:9C:32/7435/191.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sony Sab FHD." tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/2e77ad4.png" group-title="INDIAN" ,IN: Sony Sab FHD.
+http://tv.cloudcdn.me/live/00:1A:79:A8:9C:32/7435/260.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sony Sab HD UK" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/dbd9534.png" group-title="INDIAN" ,IN: Sony Sab HD UK
+http://tv.cloudcdn.me/live/00:1A:79:A8:9C:32/7435/192.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sony TV FHD" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/8046270.png" group-title="INDIAN" ,IN: Sony TV FHD
+http://tv.cloudcdn.me/live/00:1A:79:A8:9C:32/7435/193.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sony TV FHD." tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/8046270.png" group-title="INDIAN" ,IN: Sony TV FHD.
+http://tv.cloudcdn.me/live/00:1A:79:A8:9C:32/7435/12356.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sony TV FHD UK" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/8046270.png" group-title="INDIAN" ,IN: Sony TV FHD UK
+http://tv.cloudcdn.me/live/00:1A:79:A8:9C:32/7435/194.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sony Wah FHD" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/73c26e8.png" group-title="INDIAN" ,IN: Sony Wah FHD
+http://tv.cloudcdn.me/live/00:1A:79:A8:9C:32/7435/187.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IN: Star Bharat FHD" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/2b7f152.png" group-title="INDIAN" ,IN: Star Bharat FHD
+http://tv.cloudcdn.me/live/00:1A:79:A8:9C:32/7435/195.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IN: Star Bharat FHD UK" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/4b1400a.png" group-title="INDIAN" ,IN: Star Bharat FHD UK
+http://tv.cloudcdn.me/live/00:1A:79:A8:9C:32/7435/305.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IN: Star Gold 2 FHD" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/770f5fd.png" group-title="INDIAN" ,IN: Star Gold 2 FHD
+http://tv.cloudcdn.me/live/00:1A:79:A8:9C:32/7435/33165.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IN: Star Gold FHD" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/770f5fd.png" group-title="INDIAN" ,IN: Star Gold FHD
+http://tv.cloudcdn.me/live/00:1A:79:A8:9C:32/7435/196.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IN: Star Gold FHD UK" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/770f5fd.png" group-title="INDIAN" ,IN: Star Gold FHD UK
+http://tv.cloudcdn.me/live/00:1A:79:A8:9C:32/7435/12358.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IN: Star Gold Select FHD" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/9ccc18c.png" group-title="INDIAN" ,IN: Star Gold Select FHD
+http://tv.cloudcdn.me/live/00:1A:79:A8:9C:32/7435/197.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="IN: Star Movies FHD" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/343394a.png" group-title="INDIAN" ,IN: Star Movies FHD
+http://tv.cloudcdn.me/live/00:1A:79:A8:9C:32/7435/198.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IN: Star Movies Select FHD" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/58a7cb9.png" group-title="INDIAN" ,IN: Star Movies Select FHD
+http://tv.cloudcdn.me/live/00:1A:79:A8:9C:32/7435/199.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="IN: Star Plus FHD" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/f6bcb3a.png" group-title="INDIAN" ,IN: Star Plus FHD
+http://tv.cloudcdn.me/live/00:1A:79:A8:9C:32/7435/200.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IN: Star Plus FHD." tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/4833657.png" group-title="INDIAN" ,IN: Star Plus FHD.
+http://tv.cloudcdn.me/live/00:1A:79:A8:9C:32/7435/12357.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IN: Star Plus FHD UK" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/534d0da.png" group-title="INDIAN" ,IN: Star Plus FHD UK
+http://tv.cloudcdn.me/live/00:1A:79:A8:9C:32/7435/201.m3u8
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="IN: Zee Action" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/5f10964.png" group-title="INDIAN" ,IN: Zee Action
+http://tv.cloudcdn.me/live/00:1A:79:A8:9C:32/7435/207.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IN: Zee Anmol" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/75016fe.png" group-title="INDIAN" ,IN: Zee Anmol
+http://tv.cloudcdn.me/live/00:1A:79:A8:9C:32/7435/208.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IN: Zee Anmol Cinema" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/86b8496.png" group-title="INDIAN" ,IN: Zee Anmol Cinema
+http://tv.cloudcdn.me/live/00:1A:79:A8:9C:32/7435/209.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IN: Zee Bollywood" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/597c1ee.png" group-title="INDIAN" ,IN: Zee Bollywood
+http://tv.cloudcdn.me/live/00:1A:79:A8:9C:32/7435/210.m3u8
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="IN: Zee Cinema FHD" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/9008fbf.png" group-title="INDIAN" ,IN: Zee Cinema FHD
+http://tv.cloudcdn.me/live/00:1A:79:A8:9C:32/7435/213.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IN: Zee Cinema HD." tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/c466520.png" group-title="INDIAN" ,IN: Zee Cinema HD.
+http://tv.cloudcdn.me/live/00:1A:79:A8:9C:32/7435/12359.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IN: Zee Cinema UK" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/330f27f.png" group-title="INDIAN" ,IN: Zee Cinema UK
+http://tv.cloudcdn.me/live/00:1A:79:A8:9C:32/7435/214.m3u8
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="IN: Zee TV FHD UK" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/f0673bc.png" group-title="INDIAN" ,IN: Zee TV FHD UK
+http://tv.cloudcdn.me/live/00:1A:79:A8:9C:32/7435/218.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IN: Zee TV FHD" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/550c14d.png" group-title="INDIAN" ,IN: Zee TV FHD
+http://tv.cloudcdn.me/live/00:1A:79:A8:9C:32/7435/217.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IN: Zee TV FHD." tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/6248328.png" group-title="INDIAN" ,IN: Zee TV FHD.
+http://tv.cloudcdn.me/live/00:1A:79:A8:9C:32/7435/12301.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="IN: Zing TV" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/d8b8382.png" group-title="INDIAN" ,IN: Zing TV
+http://tv.cloudcdn.me/live/00:1A:79:A8:9C:32/7435/219.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IN: Zoom TV" tvg-link="" tvg-logo="http://ujm.from-in.com/panel/imageicon/03b20a2.png" group-title="INDIAN" ,IN: Zoom TV
+http://tv.cloudcdn.me/live/00:1A:79:A8:9C:32/7435/221.m3u8
+
+
+
