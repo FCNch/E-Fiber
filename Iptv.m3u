@@ -1,74 +1,93 @@
 #EXTM3U
-#EXTINF:-1 group-title="LIVE SPORTS" tvg-logo="https://fcnchbd.xyz/iptv/logo/spbts.png",T SPORTS HD
+#EXTINF:-1, group-title="LIVE SPORTS" tvg-logo="https://fcnchbd.xyz/iptv/logo/spbts.png",T SPORTS HD
 http://cdn.moviemazic.xyz:8083/TSportsHD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="LIVE SPORTS" tvg-logo="https://fcnchbd.xyz/iptv/logo/gazi.png",Gazi TV
+#EXTINF:-1, group-title="LIVE SPORTS" tvg-logo="https://fcnchbd.xyz/iptv/logo/gazi.png",Gazi TV
 http://cdn.moviemazic.xyz:8083/live-5/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="LIVE SPORTS" tvg-logo="https://fcnchbd.xyz/iptv/logo/spss2.png",LIVE SPORTS HD
+#EXTINF:-1, group-title="LIVE SPORTS" tvg-logo="https://fcnchbd.xyz/iptv/logo/spss2.png",LIVE SPORTS HD
 http://cdn.moviemazic.xyz:8083/StarSports2HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="DIRECT-TV",STAR PLUS HD (IN)
+
+
+
+
+
+#EXTINF:-1,group-title="DIRECT-TV" tvg-logo="https://fcnchbd.xyz/iptv/logo/inhsp.png" ,STAR PLUS HD (IN)
 http://144.217.70.181:9587/hin2/STARPLUSUK/index.m3u8
-#EXTINF:-1 group-title="DIRECT-TV",STAR BHARAT HD (IN)
+#EXTINF:-1,group-title="DIRECT-TV" tvg-logo="https://fcnchbd.xyz/iptv/logo/inhsp.png" ,STAR BHARAT HD (IN)
 http://144.217.70.181:9587/hin2/STARBHARATUK/index.m3u8
-#EXTINF:-1 group-title="DIRECT-TV",STAR PLUS HD (IN)
+#EXTINF:-1,group-title="DIRECT-TV" tvg-logo="https://fcnchbd.xyz/iptv/logo/inhsp.png" ,STAR PLUS HD (IN)
 http://144.217.70.181:9587/hin2/STARPLUSHD/index.m3u8
-#EXTINF:-1 group-title="DIRECT-TV",ZEE TV (UK)
+#EXTINF:-1,group-title="DIRECT-TV" tvg-logo="https://fcnchbd.xyz/iptv/logo/inhztv.png" ,ZEE TV (UK)
 http://144.217.70.181:9587/hin2/ZEETVUK/index.m3u8
-#EXTINF:-1 group-title="DIRECT-TV",ZEE TV HD (IN)
+#EXTINF:-1,group-title="DIRECT-TV" tvg-logo="https://fcnchbd.xyz/iptv/logo/inhztv.png" ,ZEE TV HD (IN)
 http://144.217.70.181:9587/hin2/ZEETVHD/index.m3u8
-#EXTINF:-1 group-title="DIRECT-TV",COLORS HD (IN)
+#EXTINF:-1,group-title="DIRECT-TV" tvg-logo="https://fcnchbd.xyz/iptv/logo/inhc.png" ,COLORS HD (IN)
 http://144.217.70.181:9587/hin2/COLORSHD/index.m3u8
-#EXTINF:-1 group-title="DIRECT-TV",COLORS HD (IN)
+#EXTINF:-1,group-title="DIRECT-TV" tvg-logo="https://fcnchbd.xyz/iptv/logo/inhc.png" ,COLORS HD (IN)
 http://144.217.70.181:9587/hin2/COLORSUK/index.m3u8
-#EXTINF:-1 group-title="DIRECT-TV",SAHARA ONE (IN)
-http://144.217.70.181:9587/hin2/SAHARAONE/index.m3u8
-#EXTINF:-1 group-title="DIRECT-TV",UTV HD (IN)
+
+#EXTINF:-1,group-title="DIRECT-TV" tvg-logo="https://fcnchbd.xyz/iptv/logo/utv.png" ,UTV HD (IN)
 http://144.217.70.181:9587/hin2/UTVMOVIESHD/index.m3u8
-#EXTINF:-1 group-title="DIRECT-TV",STAR GOLD HD (IN)
+#EXTINF:-1,group-title="DIRECT-TV" tvg-logo="https://fcnchbd.xyz/iptv/logo/inhsg.png" ,STAR GOLD HD (IN)
 http://144.217.70.181:9587/hin2/STARGOLDUK/index.m3u8
-#EXTINF:-1 group-title="DIRECT-TV",ZEE CINEMA HD (IN)
+#EXTINF:-1,group-title="DIRECT-TV" tvg-logo="https://fcnchbd.xyz/iptv/logo/inhzc.png" ,ZEE CINEMA HD (IN)
 http://144.217.70.181:9587/hin2/ZEECINEMAHD/index.m3u8
-#EXTINF:-1 group-title="DIRECT-TV",ZEE CLASSIC (IN)
-http://144.217.70.181:9587/hin2/ZEECLASSICHD/index.m3u8
-#EXTINF:-1 group-title="DIRECT-TV",ZEE ACTION (IN)
+
+#EXTINF:-1,group-title="DIRECT-TV" tvg-logo="https://fcnchbd.xyz/iptv/logo/ZeeAction.png" ,ZEE ACTION (IN)
 http://144.217.70.181:9587/hin2/ZEEACTION/index.m3u8
-#EXTINF:-1 group-title="DIRECT-TV",ZEE ANMOL CINEMA (IN)
+#EXTINF:-1,group-title="DIRECT-TV" tvg-logo="https://fcnchbd.xyz/iptv/logo/gazi.png" ,ZEE ANMOL CINEMA (IN)
 http://144.217.70.181:9587/hin2/ZEEANMOLCINEMA/index.m3u8
-#EXTINF:-1 group-title="DIRECT-TV",SONY MAX 2 (IN)
+#EXTINF:-1,group-title="DIRECT-TV" tvg-logo="https://fcnchbd.xyz/iptv/logo/inhsm2.png" ,SONY MAX 2 (IN)
 http://144.217.70.181:9587/hin2/SONYMAX2/index.m3u8
-#EXTINF:-1 group-title="DIRECT-TV",E24 (IN)
+#EXTINF:-1,group-title="DIRECT-TV" tvg-logo="https://fcnchbd.xyz/iptv/logo/e24.png" ,E24 (IN)
 http://144.217.70.181:9587/hin2/E24/index.m3u8
-#EXTINF:-1 group-title="DIRECT-TV",ZOOM (IN)
+#EXTINF:-1,group-title="DIRECT-TV" tvg-logo="https://fcnchbd.xyz/iptv/logo/zoom.png" ,ZOOM (IN)
 http://144.217.70.181:9587/hin2/ZOOM/index.m3u8
-#EXTINF:-1 group-title="DIRECT-TV",MTV (IN)
+#EXTINF:-1,group-title="DIRECT-TV" tvg-logo="https://fcnchbd.xyz/iptv/logo/mtv.png" ,MTV (IN)
 http://144.217.70.181:9587/hin2/MTVINDIA/index.m3u8
-#EXTINF:-1 group-title="DIRECT-TV",STAR USTAV (IN)
-http://144.217.70.181:9587/hin2/STARUTSAV/index.m3u8
-#EXTINF:-1 group-title="DIRECT-TV",POGO (IN)
+
+#EXTINF:-1,group-title="DIRECT-TV" tvg-logo="https://fcnchbd.xyz/iptv/logo/gazi.png" ,POGO (IN)
 http://144.217.70.181:9587/hin2/POGO/index.m3u8
-#EXTINF:-1 group-title="DIRECT-TV",Sony PAL
+#EXTINF:-1,group-title="DIRECT-TV" tvg-logo="https://fcnchbd.xyz/iptv/logo/inhpal.png" ,Sony PAL
 http://144.217.70.181:9587/hin2/SONYPAL/index.m3u8
-#EXTINF:-1 group-title="DIRECT-TV",MTV Beats HD
+#EXTINF:-1,group-title="DIRECT-TV" tvg-logo="https://fcnchbd.xyz/iptv/logo/mtv.png" ,MTV Beats HD
 http://144.217.70.181:9587/hin2/MTVBEATSHD/index.m3u8
-#EXTINF:-1 group-title="DIRECT-TV",8XM
+#EXTINF:-1,group-title="DIRECT-TV" tvg-logo="https://fcnchbd.xyz/iptv/logo/gazi.png" ,8XM
 http://144.217.70.181:9587/hin2/8XM/index.m3u8
-#EXTINF:-1 group-title="DIRECT-TV",9XM
+#EXTINF:-1,group-title="DIRECT-TV" tvg-logo="https://fcnchbd.xyz/iptv/logo/9xm.png" ,9XM
 http://144.217.70.181:9587/hin2/9XM/index.m3u8
-#EXTINF:-1 group-title="DIRECT-TV",Sony Max
+#EXTINF:-1,group-title="DIRECT-TV" tvg-logo="https://fcnchbd.xyz/iptv/logo/inhsm.png" ,Sony Max
 http://144.217.70.181:9587/hin2/SONYMAXHD/index.m3u8
-#EXTINF:-1 group-title="DIRECT-TV",UTV ACTION
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nDLjaDL.png"  group-title="Hindi Movie", Utv Action [HD]
 http://144.217.70.181:9587/hin2/UTVACTION/index.m3u8
-#EXTINF:-1 group-title="DIRECT-TV",MASTI
+#EXTINF:-1,group-title="DIRECT-TV" tvg-logo="https://fcnchbd.xyz/iptv/logo/mustti.png" ,MASTI
 http://144.217.70.181:9587/hin2/MASTII/index.m3u8
-#EXTINF:-1 group-title="DIRECT-TV",Zee Cinema
+#EXTINF:-1,group-title="DIRECT-TV" tvg-logo="https://fcnchbd.xyz/iptv/logo/zcsb.png" ,Zee Cinema
 http://144.217.70.181:9587/hin2/ZEECINEMAUK/index.m3u8
-#EXTINF:-1 group-title="DATA",TEN SPORTS HD
-http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8
-#EXTINF:-1 group-title="DATA",PTV SPORTS
-http://125.209.88.166:45793/BRN/PTVSports.stream/playlist.m3u8
-#EXTINF:-1 group-title="DATA",A SPORTS HD
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/xTFM2c5R/20231119-145051.png", A Sports
 http://125.209.88.166:45793/BRN/ArySports.stream/playlist.m3u8
-#EXTINF:-1 ,ZEE BANGLA HD
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglahd/default/Zeebanglahd.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/26mKpSqh/20241018-082156.jpg",Ten Sports
+http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/sXJF1v43/20231116-162834.png", Ptv HD
+http://125.209.88.166:45793/BRN/PTVSports.stream/playlist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://seeklogo.com/images/G/geo-super-logo-9EE9DB603E-seeklogo.com.png", Geo Super
+http://125.209.88.166:45793/BRN/GeoSuper.stream/playlist.m3u8
+
+
+#EXTINF:-1, group-title="IND BANGLA" tvg-logo="https://i.ibb.co/tQbzPqN/IMG-20240320-113403.png",Star Jalsha HD
+http://cdn.moviemazic.xyz:8083/StarJalshaHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1, group-title="IND BANGLA" tvg-logo="https://fcnchbd.xyz/iptv/logo/inbsj.png",Star Jalsha HD
+http://172.17.50.112/live/antbd1003/index.m3u8
+
+#EXTINF:-1, group-title="IND BANGLA" tvg-logo="https://fcnchbd.xyz/iptv/logo/inbzb.png",Zee Bangla HD
+https://la.drmlive.au/tp/zee-zeebangla.m3u8
+#EXTINF:-1, group-title="IND BANGLA" tvg-logo="https://fcnchbd.xyz/iptv/logo/inbzb.png",Zee Bangla fHD
+http://cdn.moviemazic.xyz:8083/ZeeBanglaHD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, group-title="IND BANGLA" tvg-logo="https://fcnchbd.xyz/iptv/logo/inbzbc.png",Zee Bangla Cinema
+https://la.drmlive.au/tp/zee-zeebanglacinema.m3u8
+
+
 #EXTINF:-1 group-title="IND BANGLA" tvg-logo="https://i.ibb.co/tQbzPqN/IMG-20240320-113403.png",Star Jalsha HD
 http://cdn.moviemazic.xyz:8083/StarJalshaHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="IND BANGLA" tvg-logo="https://fcnchbd.xyz/iptv/logo/inbsj.png",Star Jalsha HD
