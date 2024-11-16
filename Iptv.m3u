@@ -55,9 +55,9 @@ http://144.217.70.181:9587/hin2/9XM/index.m3u8
 http://144.217.70.181:9587/hin2/SONYMAXHD/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nDLjaDL.png"  group-title="Hindi Movie", Utv Action [HD]
 http://144.217.70.181:9587/hin2/UTVACTION/index.m3u8
-#EXTINF:-1,group-title="DIRECT-TV" tvg-logo="https://fcnchbd.xyz/iptv/logo/mustti.png" ,MASTI
+#EXTINF:-1,group-title="DIRECT-TV" tvg-logo="https://fcnchbd.xyz/iptv/logo/mastti.png" ,MASTI
 http://144.217.70.181:9587/hin2/MASTII/index.m3u8
-#EXTINF:-1,group-title="DIRECT-TV" tvg-logo="https://fcnchbd.xyz/iptv/logo/zcsb.png" ,Zee Cinema
+#EXTINF:-1,group-title="DIRECT-TV" tvg-logo="https://fcnchbd.xyz/iptv/logo/zcsd.png" ,Zee Cinema
 http://144.217.70.181:9587/hin2/ZEECINEMAUK/index.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/xTFM2c5R/20231119-145051.png", A Sports
@@ -102,17 +102,17 @@ https://la.drmlive.au/tp/zee-zeebanglacinema.m3u8
 
 #EXTINF:-1 group-title="HINDI " tvg-logo="https://fcnchbd.xyz/iptv/logo/inhztv.png",ZEE TV HD
 https://la.drmlive.au/tp/zee-zeetvhd.m3u8
-#EXTINF:-1 group-title="IND MOVIE" tvg-logo="https://fcnchbd.net/iptv/logo/ZeeAnmol.png",ZEE ANMOL
+#EXTINF:-1 group-title="IND MOVIE" tvg-logo="https://fcnchbd.xyz/iptv/logo/ZeeAnmol.png",ZEE ANMOL
 https://la.drmlive.au/tp/zee-zeeanmol.m3u8
-#EXTINF:-1 group-title="IND MOVIE" tvg-logo="https://fcnchbd.net/iptv/logo/inhsm.png",SONY MAX HD
+#EXTINF:-1 group-title="IND MOVIE" tvg-logo="https://fcnchbd.xyz/iptv/logo/inhsm.png",SONY MAX HD
 http://cdn.moviemazic.xyz:8083/SonyMaxHD/tracks-a1/index.m3u8
-#EXTINF:-1 group-title="IND MOVIE" tvg-logo="https://fcnchbd.net/iptv/logo/zcsd.png",ZEE CINEMA sD
+#EXTINF:-1 group-title="IND MOVIE" tvg-logo="https://fcnchbd.xyz/iptv/logo/zcsd.png",ZEE CINEMA sD
 https://la.drmlive.au/tp/zee-zeecinema.m3u8
-#EXTINF:-1 group-title="IND MOVIE" tvg-logo="https://fcnchbd.net/iptv/logo/inhzc.png",ZEE CINEMA HD
+#EXTINF:-1 group-title="IND MOVIE" tvg-logo="https://fcnchbd.xyz/iptv/logo/inhzc.png",ZEE CINEMA HD
 https://la.drmlive.au/tp/zee-zeecinemahd.m3u8
-#EXTINF:-1 group-title="IND MOVIE" tvg-logo="https://fcnchbd.net/iptv/logo/ZeeAction.png",ZEE ACTION HD
+#EXTINF:-1 group-title="IND MOVIE" tvg-logo="https://fcnchbd.xyz/iptv/logo/ZeeAction.png",ZEE ACTION HD
 https://la.drmlive.au/tp/zee-zeeaction.m3u8
-#EXTINF:-1 group-title="IND MOVIE" tvg-logo="https://fcnchbd.net/iptv/logo/ZeeAnmolcine.png",ZEE ANMOL CINEMA
+#EXTINF:-1 group-title="IND MOVIE" tvg-logo="https://fcnchbd.xyz/iptv/logo/ZeeAnmolcine.png",ZEE ANMOL CINEMA
 https://la.drmlive.au/tp/zee-zeeanmolcinema.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/f1krDIF.png"  group-title="Music", 8X music
