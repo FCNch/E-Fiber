@@ -6,6 +6,46 @@ http://cdn.moviemazic.xyz:8083/live-5/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="LIVE SPORTS" tvg-logo="https://fcnchbd.xyz/iptv/logo/spss2.png",LIVE SPORTS HD
 http://cdn.moviemazic.xyz:8083/StarSports2HD/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xCV0N1yy/SONY-SET-HD.png" group-title="Entertainment",SET HD
+https://tataplay.slivcdn.com/hls/live/2011671/SETHD/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/HLrGvfHN/SONY-SAB-HD.png" group-title="Entertainment",Sony SAB HD
+https://tataplay.slivcdn.com/hls/live/2011749/SABHD/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZqvcSG5j/SONY-MARATHI.png" group-title="Entertainment",Sony Marathii
+https://tataplay.slivcdn.com/hls/live/2011740/SonyMarathi/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nrQ6V7MG/SONY-PAL.png" group-title="Entertainment",Sony Pal
+https://tataplay.slivcdn.com/hls/live/2011741/SonyPalSD/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/bY12WVTm/SONY-AATH.png" group-title="Entertainment",Sony Aath
+https://tataplay.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/XYF71G8F/SONY-MAX-HD.png" group-title="Movies",Sony MAX HD
+https://tataplay.slivcdn.com/hls/live/2011670/SonyMaxhd/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/X7MmrgCs/SONY-MAX.png" group-title="Movies",Sony MAX
+https://tataplay.slivcdn.com/hls/live/2011745/SonyMaxSD/master.m3u8
+#EXTINF:-1 tvg-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_MAX2.png" group-title="Movies",Sony MAX 2
+https://tataplay.slivcdn.com/hls/live/2011908/MAX2/master.m3u8
+#EXTINF:-1 tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_WAH.png" group-title="Movies",Sony WAH
+https://tataplay.slivcdn.com/hls/live/2011906/SonyWah/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/hGYnSKpg/SONY-PIX-HD.png" group-title="Movies",Sony PIX HD
+https://tataplay.slivcdn.com/hls/live/2011748/PIXHD/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qRxtS9Gy/SONY-YAY.png" group-title="Kids",Sony Yay
+https://tataplay.slivcdn.com/hls/live/2011746/SonyYaySD/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/t4g4cy4Z/SONY-BBC-EARTH.png" group-title="Infotainment",Sony BBC Earth HD
+https://tataplay.slivcdn.com/hls/live/2011907/SonyBBCEarthHD/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d00sTpK0/SONY-SPORTS-TEN-1-HD.png" group-title="Sports",Sony Sports Ten 1 HD
+https://tataplay.slivcdn.com//hls/live/2011747/TEN1HD/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wvfsmLrC/SONY-SPORTS-TEN-2-HD.png" group-title="Sports",Sony Sports Ten 2 HD
+https://tataplay.slivcdn.com/hls/live/2020434/TEN2HD/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/2SGvDswj/SONY-SPORTS-TEN-3-HD.png" group-title="Sports",Sony Sports Ten 3 HD
+https://tataplay.slivcdn.com/hls/live/2020591/TEN3HD/master.m3u8
+#EXTINF:-1 tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen4_HD_Logo_CLR.png" group-title="Sports",Sony Sports Ten 4 HD
+https://tataplay.slivcdn.com/hls/live/2020589/ten4hd/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xCzcchKz/SONY-SPORTS-TEN-5-HD.png" group-title="Sports",Sony Sports Ten 5 HD
+https://tataplay.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8
+
+
 #EXTINF:-1 group-title="BD BANGLA" tvg-logo="https://i.imgur.com/RR0Iv6V.png",BTV World
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/btvbd-office-sg.stream/playlist.m3u8
 #EXTINF:-1 group-title="BD BANGLA" tvg-logo="https://i.imgur.com/sTZelfs.png",BTV CTG
