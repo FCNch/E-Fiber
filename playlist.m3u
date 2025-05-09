@@ -133,7 +133,8 @@ http://10.10.10.22:25461/live/fcn/users/50.m3u8
 #EXTINF:-1 group-title="MUSIC | BANGLA" tvg-logo="https://fcnchbd.xyz/iptv/logo/mon.png",MON BANGLA
 http://10.10.10.22:25461/live/fcn/users/51.m3u8
 
-
+#EXTINF:-1 group-title="IND | BANGLA" tvg-logo="https://fcnchbd.xyz/iptv/logo/inbzb.png",ZEE BANGLA HD
+http://10.10.10.22:25461/live/fcn/users/53.m3u8
 #EXTINF:-1 group-title="IND | BANGLA" tvg-logo="https://fcnchbd.xyz/iptv/logo/inbzb.png",ZEE BANGLA HD
 http://10.10.10.22:25461/live/fcn/users/53.m3u8
 #EXTINF:-1 group-title="IND | BANGLA" tvg-logo="https://fcnchbd.xyz/iptv/logo/inbsj.png",STAR JALSHA HD
