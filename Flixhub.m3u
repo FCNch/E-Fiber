@@ -313,27 +313,29 @@ http://cdn.moviemazic.xyz:8083/SonyTen3HD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="LIVE SPORTS" tvg-logo="https://fcnchbd.xyz/iptv/logo/spts.png",TEN SPORTS HD
 http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8
-
 #EXTINF:-1 group-title="LIVE SPORTS" tvg-logo="https://fcnchbd.xyz/iptv/logo/spps.png",PTV SPORTS
 http://125.209.88.166:45793/BRN/PTVSports.stream/playlist.m3u8
 #EXTINF:-1 group-title="LIVE SPORTS" tvg-logo="https://fcnchbd.xyz/iptv/logo/spas.png",A SPORTS HD
 http://125.209.88.166:45793/BRN/ArySports.stream/playlist.m3u8
 
-#EXTINF:-1 group-title="IND BANGLA" tvg-logo="https://i.ibb.co/tQbzPqN/IMG-20240320-113403.png",Star Jalsha HD
+#EXTINF:-1 group-title="IND BANGLA" tvg-logo="https://fcnchbd.xyz/iptv/logo/inbsj.png",Star Jalsha FHD
 http://cdn.moviemazic.xyz:8083/StarJalshaHD/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 group-title="IND BANGLA" tvg-logo="https://fcnchbd.xyz/iptv/logo/inbsj.png",Star Jalsha HD
 http://tv.dugdugilive.com:8080/0ne$ky23/starJalsa/tracks-v1a1/mono.m3u8
 
 
-#EXTINF:-1 group-title="IND BANGLA" tvg-logo="https://fcnchbd.xyz/iptv/logo/inbzb.png",Zee Bangla HD
+#EXTINF:-1 group-title="IND BANGLA" tvg-logo="https://fcnchbd.xyz/iptv/logo/inbzb.png",Zee Bangla FHD
 http://tv.dugdugilive.com:8080/0ne$ky23/ZeeBangla/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="IND BANGLA" tvg-logo="https://fcnchbd.xyz/iptv/logo/inbzb.png",Zee Bangla fHD
+#EXTINF:-1 group-title="IND BANGLA" tvg-logo="https://fcnchbd.xyz/iptv/logo/inbzb.png",Zee Bangla HD
 http://cdn.moviemazic.xyz:8083/ZeeBanglaHD/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="IND BANGLA" tvg-logo="https://fcnchbd.xyz/iptv/logo/inbcb.png",Colors Bangla HD
+#EXTINF:-1 group-title="IND BANGLA" tvg-logo="https://fcnchbd.xyz/iptv/logo/inbcb.png",Colors Bangla FHD
 http://tv.dugdugilive.com:8080/0ne$ky23/colors-bangla/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="IND BANGLA" tvg-logo="https://fcnchbd.xyz/iptv/logo/inbcb.png",Colors Bangla HD
+http://cdn.moviemazic.xyz:8083/StarJalshaMovies/tracks-v1a1/mono.m3u8
+
+
+
 
 
 #EXTINF:-1 group-title="IND BANGLA" tvg-logo="https://fcnchbd.xyz/iptv/logo/inbzb.png",Zee Bangla FHD
