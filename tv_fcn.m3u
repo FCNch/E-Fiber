@@ -163,18 +163,14 @@ http://tv.dugdugilive.com:8080/0ne$ky23/sonyten3/tracks-v1a1/mono.m3u8
 http://172.16.29.226:8090/hls/sonyatth.m3u8
 #EXTINF:-1 group-title="IND BANGLA" tvg-logo="https://fcnchbd.xyz/iptv/logo/akash.png",Akash Bangla
 https://live.thebosstv.com:30443/dwlive/AAKAASH-AATH/playlist.m3u8
-
 #EXTINF:-1 group-title="IND BANGLA" tvg-logo="https://fcnchbd.xyz/iptv/logo/inbcb.png",Colors Bangla HD
 http://tv.dugdugilive.com:8080/0ne$ky23/colors-bangla/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="IND BANGLA" tvg-logo="https://fcnchbd.xyz/iptv/logo/inbsj.png",Star Jalsha HD
 http://tv.dugdugilive.com:8080/0ne$ky23/starJalsa/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="IND BANGLA" tvg-logo="https://fcnchbd.xyz/iptv/logo/inbzb.png",Zee Bangla HD
 http://tv.dugdugilive.com:8080/0ne$ky23/ZeeBangla/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 group-title="IND BANGLA" tvg-logo="https://fcnchbd.xyz/iptv/logo/inbzb.png",Zee Bangla fHD
 http://cdn.moviemazic.xyz:8083/ZeeBanglaHD/tracks-v1a1/mono.m3u8
-
-
 #EXTINF:-1 group-title="IND BANGLA" tvg-logo="https://fcnchbd.xyz/iptv/logo/inbjm.png",Jalsha Movies HD
 http://tv.dugdugilive.com:8080/0ne$ky23/jalshamovies/tracks-v1a1/mono.m3u8
 
@@ -185,7 +181,67 @@ http://tv.dugdugilive.com:8080/0ne$ky23/AndPictures/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="IND HINHI" tvg-logo="https://fcnchbd.xyz/iptv/logo/inhsm.png",SONY MAX HD
 http://cdn.fcnonline.xyz:8090/hls/sonymaxhd.m3u8
 
+#EXTINF:-1 group-title="BD | BANGLA" tvg-logo="https://fcnchbd.xyz/iptv/logo/atnbangla.png",ATN BANGLA HD
+http://10.10.10.22:25461/live/fcn/users/16.m3u8
+#EXTINF:-1 group-title="BD | BANGLA" tvg-logo="https://fcnchbd.xyz/iptv/logo/chi.png",CHANNEL I YHD
+http://10.10.10.22:25461/live/fcn/users/17.m3u8
+#EXTINF:-1 group-title="BD | BANGLA" tvg-logo="https://fcnchbd.xyz/iptv/logo/rtv.png",RTV HD
+http://10.10.10.22:25461/live/fcn/users/21.m3u8
+#EXTINF:-1 group-title="BD | BANGLA" tvg-logo="https://fcnchbd.xyz/iptv/logo/nexus.png",NEXUS TV
+http://10.10.10.22:25461/live/fcn/users/18.m3u8
+#EXTINF:-1 group-title="BD | BANGLA" tvg-logo="https://fcnchbd.xyz/iptv/logo/ekhun.png",EKHON TV HD
+http://10.10.10.22:25461/live/fcn/users/19.m3u8
+#EXTINF:-1 group-title="BD | BANGLA" tvg-logo="https://fcnchbd.xyz/iptv/logo/ntv.png",NTV HD
+http://10.10.10.22:25461/live/fcn/users/20.m3u8
+#EXTINF:-1 group-title="BD | BANGLA" tvg-logo="https://fcnchbd.xyz/iptv/logo/deepto.png",DEEPTO TV HD
+http://10.10.10.22:25461/live/fcn/users/23.m3u8
+#EXTINF:-1 group-title="BD | BANGLA" tvg-logo="https://fcnchbd.xyz/iptv/logo/asian.png",ASIAN TV HD
+http://10.10.10.22:25461/live/fcn/users/26.m3u8
+#EXTINF:-1 group-title="BD | BANGLA" tvg-logo="https://fcnchbd.xyz/iptv/logo/desh.png",DESH TV HD
+http://10.10.10.22:25461/live/fcn/users/30.m3u8
+#EXTINF:-1 group-title="BD | BANGLA" tvg-logo="https://fcnchbd.xyz/iptv/logo/anando.png",ANANDO TV HD
+http://10.10.10.22:25461/live/fcn/users/36.m3u8
+#EXTINF:-1 group-title="BD | BANGLA" tvg-logo="https://fcnchbd.xyz/iptv/logo/ch9.png",CHANNEL 9
+http://10.10.10.22:25461/live/fcn/users/31.m3u8
+#EXTINF:-1 group-title="BD | BANGLA" tvg-logo="https://fcnchbd.xyz/iptv/logo/21se.png",EKUSEY TV HD
+http://10.10.10.22:25461/live/fcn/users/32.m3u8
+#EXTINF:-1 group-title="BD | BANGLA" tvg-logo="https://fcnchbd.xyz/iptv/logo/banglav.png",BANGLAVISION
+http://10.10.10.22:25461/live/fcn/users/24.m3u8
+#EXTINF:-1 group-title="BD | BANGLA" tvg-logo="https://fcnchbd.xyz/iptv/logo/boishaki.png",BOISHAKHAI TV HD
+http://10.10.10.22:25461/live/fcn/users/29.m3u8
+#EXTINF:-1 group-title="BD | BANGLA" tvg-logo="https://fcnchbd.xyz/iptv/logo/bijoy.png",BIJOY TV
+http://10.10.10.22:25461/live/fcn/users/34.m3u8
+#EXTINF:-1 group-title="BD | BANGLA" tvg-logo="https://fcnchbd.xyz/iptv/logo/satv.png",SATV HD
+http://10.10.10.22:25461/live/fcn/users/27.m3u8
+#EXTINF:-1 group-title="BD | BANGLA" tvg-logo="https://fcnchbd.xyz/iptv/logo/mass.png",MAASRANGA TV HD
+http://10.10.10.22:25461/live/fcn/users/28.m3u8
+#EXTINF:-1 group-title="BD | BANGLA" tvg-logo="https://fcnchbd.xyz/iptv/logo/btvu.png",BANGLA TV EUROPE
+http://10.10.10.22:25461/live/fcn/users/22.m3u8
+#EXTINF:-1 group-title="BD | BANGLA" tvg-logo="https://fcnchbd.xyz/iptv/logo/mytv.png",MY TV HD
+http://10.10.10.22:25461/live/fcn/users/25.m3u8
+#EXTINF:-1 group-title="BD | BANGLA" tvg-logo="https://fcnchbd.xyz/iptv/logo/mb.png",MOVIE BANGLA
+http://10.10.10.22:25461/live/fcn/users/33.m3u8
+#EXTINF:-1 group-title="BDIX" tvg-logo="https://fcnchbd.xyz/iptv/logo/gazi.png",Gazi TV HD
+http://10.10.10.22:25461/live/fcn/users/38.m3u8
+#EXTINF:-1 group-title="BD | BANGLA" tvg-logo="https://fcnchbd.xyz/iptv/logo/nan.png",NAN TV
+http://10.10.10.22:25461/live/fcn/users/35.m3u8
 
+#EXTINF:-1 group-title="BD | NEWS" tvg-logo="https://fcnchbd.xyz/iptv/logo/somoy.png",SOMOY TV HD
+http://10.10.10.22:25461/live/fcn/users/39.m3u8
+#EXTINF:-1 group-title="BD | NEWS" tvg-logo="https://fcnchbd.xyz/iptv/logo/ch71.png",EKATTOR TV HD
+http://10.10.10.22:25461/live/fcn/users/40.m3u8
+#EXTINF:-1 group-title="BD | NEWS" tvg-logo="https://fcnchbd.xyz/iptv/logo/jamtv.png",JAMUNA TV
+http://10.10.10.22:25461/live/fcn/users/41.m3u8
+#EXTINF:-1 group-title="BD | NEWS" tvg-logo="https://fcnchbd.xyz/iptv/logo/indi.png",INDEPENDENT TV
+http://10.10.10.22:25461/live/fcn/users/42.m3u8
+#EXTINF:-1 group-title="BD | NEWS" tvg-logo="https://fcnchbd.xyz/iptv/logo/news24.png",NEWS 24 HD
+http://10.10.10.22:25461/live/fcn/users/43.m3u8
+#EXTINF:-1 group-title="BD | NEWS" tvg-logo="https://fcnchbd.xyz/iptv/logo/dbc.png",DBC NEWS HD
+http://10.10.10.22:25461/live/fcn/users/44.m3u8
+#EXTINF:-1 group-title="BD | NEWS" tvg-logo="https://fcnchbd.xyz/iptv/logo/ch24.png",CHANNEL 24 HD
+http://10.10.10.22:25461/live/fcn/users/45.m3u8
+#EXTINF:-1 group-title="BD | NEWS" tvg-logo="https://fcnchbd.xyz/iptv/logo/atnnews.png",ATN NEWS HD
+http://10.10.10.22:25461/live/fcn/users/46.m3u8
 
 #EXTINF:-1 group-title="IND | ENTERTAINMENT" tvg-logo="https://fcnchbd.xyz/iptv/logo/Aryd.png",ARY DIGITAL FHD
 http://10.10.10.22:25461/live/fcn/users/93.m3u8
@@ -193,7 +249,6 @@ http://10.10.10.22:25461/live/fcn/users/93.m3u8
 http://10.10.10.22:25461/live/fcn/users/75.m3u8
 #EXTINF:-1 group-title="IND | ENTERTAINMENT" tvg-logo="https://fcnchbd.xyz/iptv/logo/hum.png",HUM TV HD
 http://10.10.10.22:25461/live/fcn/users/76.m3u8
-
 
 #EXTINF:-1 group-title="IND | ENTERTAINMENT" tvg-logo="https://fcnchbd.xyz/iptv/logo/inhatv.png",& TV HD
 http://10.10.10.22:25461/live/fcn/users/78.m3u8
@@ -212,10 +267,6 @@ http://10.10.10.22:25461/live/fcn/users/73.m3u8
 #EXTINF:-1 group-title="IND | ENTERTAINMENT" tvg-logo="https://fcnchbd.xyz/iptv/logo/pal.png",STAR BHARAT
 http://10.10.10.22:25461/live/fcn/users/74.m3u8
 
-
-
-
-
 #EXTINF:-1 group-title="MUSIC | BANGLA" tvg-logo="https://fcnchbd.xyz/iptv/logo/gb.png",GANN TV
 http://10.10.10.22:25461/live/fcn/users/47.m3u8
 #EXTINF:-1 group-title="MUSIC | BANGLA" tvg-logo="https://fcnchbd.xyz/iptv/logo/rtvmusic.png",RTV Music HD
@@ -226,8 +277,6 @@ http://10.10.10.22:25461/live/fcn/users/49.m3u8
 http://10.10.10.22:25461/live/fcn/users/50.m3u8
 #EXTINF:-1 group-title="MUSIC | BANGLA" tvg-logo="https://fcnchbd.xyz/iptv/logo/mon.png",MON BANGLA
 http://10.10.10.22:25461/live/fcn/users/51.m3u8
-
-
 
 #EXTINF:-1 group-title="IND | BANGLA" tvg-logo="https://fcnchbd.xyz/iptv/logo/inbsb.png",SUN BANGLA HD
 http://10.10.10.22:25461/live/fcn/users/52.m3u8
