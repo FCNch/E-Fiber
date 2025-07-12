@@ -5,6 +5,8 @@ http://10.10.10.22:25461/live/fcn/users/1.m3u8
 http://10.10.10.22:25461/live/fcn/users/68.m3u8
 #EXTINF:-1 group-title="ISLAMIC" tvg-logo="https://fcnchbd.xyz/iptv/logo/iqra.png",IQRA BANGLA
 http://10.10.10.22:25461/live/fcn/users/69.m3u8
+#EXTINF:-1 group-title="ISLAMIC" tvg-logo="https://fcnchbd.xyz/iptv/logo/islam.png",ISLAMIC BANGLA
+http://10.10.10.22:25461/live/fcn/users/70.m3u8
 #EXTINF:-1 group-title="ISLAMIC" tvg-logo="https://fcnchbd.xyz/iptv/logo/deen.png",DEEN TV
 http://10.10.10.22:25461/live/fcn/users/71.m3u8
 
