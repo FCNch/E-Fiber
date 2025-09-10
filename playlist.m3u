@@ -244,9 +244,9 @@ http://tv.dugdugilive.com:8080/0ne$ky23/RTV/tracks-v1a1/mono.m3u8
 http://tv.dugdugilive.com:8080/0ne$ky23/Deepto/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="BD BANGLA" tvg-logo="https://fcnchbd.xyz/iptv/logo/mass.png",MASSRANGA TV
 http://tv.dugdugilive.com:8080/0ne$ky23/Massranga/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="BD BANGLA" tvg-logo="https://fcnchbd.xyz/iptv/logo/ntv.png",NTV
+#EXTINF:-1 group-title="BD BANGLA" tvg-logo="https://fcnchbd.xyz/iptv/logo/mohona.png",MOHONA
 http://tv.dugdugilive.com:8080/0ne$ky23/Mohona/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="BD BANGLA" tvg-logo="https://fcnchbd.xyz/iptv/logo/ntv.png",NTV
+#EXTINF:-1 group-title="BD BANGLA" tvg-logo="https://fcnchbd.xyz/iptv/logo/mytv.png",MYTV
 http://tv.dugdugilive.com:8080/0ne$ky23/mytv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="BD BANGLA" tvg-logo="https://fcnchbd.xyz/iptv/logo/desh.png",DESH
@@ -327,13 +327,13 @@ http://tv.dugdugilive.com:8080/0ne$ky23/SonyMax/tracks-v1a1/mono.m3u8
 http://tv.dugdugilive.com:8080/0ne$ky23/ZBolloyWoord/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="IND HINHI" tvg-logo="https://fcnchbd.xyz/iptv/logo/inhsg.png",STAR GOLD HD
 http://tv.dugdugilive.com:8080/0ne$ky23/StarGold/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="IND HINHI" tvg-logo="https://fcnchbd.xyz/iptv/logo/inhswah.png",SONY WAH HD
+#EXTINF:-1 group-title="IND HINHI" tvg-logo="https://fcnchbd.xyz/iptv/logo/inhsw.png",SONY WAH HD
 http://tv.dugdugilive.com:8080/0ne$ky23/CinePlex/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="IND HINHI" tvg-logo="https://fcnchbd.xyz/iptv/logo/inhsm.png",SONY MAX SD
+#EXTINF:-1 group-title="IND HINHI" tvg-logo="https://fcnchbd.xyz/iptv/logo/sonymax.png",SONY MAX SD
 http://tv.dugdugilive.com:8080/0ne$ky23/B4Umovies/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="IND HINHI" tvg-logo="https://fcnchbd.xyz/iptv/logo/engsp.png",SONY PIX HD
 http://tv.dugdugilive.com:8080/0ne$ky23/SonyPix/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="IND HINHI" tvg-logo="https://fcnchbd.xyz/iptv/logo/engsp.png",SONY YAY HD
+#EXTINF:-1 group-title="IND HINHI" tvg-logo="https://fcnchbd.xyz/iptv/logo/kdsyay.png",SONY YAY HD
 http://tv.dugdugilive.com:8080/0ne$ky23/NickBN/tracks-a1/mono.m3u8
 
 
