@@ -155,10 +155,19 @@ http://stv.fcnonline.xyz:8080/live/fcn/users/131.m3u8
 #EXTINF:-1 group-title="IND | BANGLA" tvg-logo="https://fcnchbd.xyz/iptv/logo/sanonda.png",SANONDA
 http://stv.fcnonline.xyz:8080/live/fcn/users/59.m3u8
 
+
+#EXTINF:-1 group-title="IND | MOVIES" tvg-logo="https://fcnchbd.xyz/iptv/logo/sonywah.png",SONY WAH HD
+http://stv.fcnonline.xyz:8080/live/fcn/users/82.m3u8
 #EXTINF:-1 group-title="IND | MOVIES" tvg-logo="https://fcnchbd.xyz/iptv/logo/inhsm.png",SONY MAX HD
 http://stv.fcnonline.xyz:8080/live/fcn/users/83.m3u8
+#EXTINF:-1 group-title="IND | MOVIES" tvg-logo="https://fcnchbd.xyz/iptv/logo/sonymax.png",SONY MAX HD
+http://stv.fcnonline.xyz:8080/live/fcn/users/84.m3u8
+#EXTINF:-1 group-title="IND | MOVIES" tvg-logo="https://fcnchbd.xyz/iptv/logo/inhsm2.png",SONY MAX2 HD
+http://stv.fcnonline.xyz:8080/live/fcn/users/89.m3u8
 #EXTINF:-1 group-title="IND | MOVIES" tvg-logo="https://fcnchbd.xyz/iptv/logo/inhsg.png",STAR GOLD HD
 http://stv.fcnonline.xyz:8080/live/fcn/users/86.m3u8
+#EXTINF:-1 group-title="IND | MOVIES" tvg-logo="https://fcnchbd.xyz/iptv/logo/inhsg2.png",STAR GOLD2
+http://stv.fcnonline.xyz:8080/live/fcn/users/87.m3u8
 #EXTINF:-1 group-title="IND | MOVIES" tvg-logo="https://fcnchbd.xyz/iptv/logo/inhsgs.png",STAR GOLD SELE
 http://stv.fcnonline.xyz:8080/live/fcn/users/88.m3u8
 
@@ -170,8 +179,7 @@ http://stv.fcnonline.xyz:8080/live/fcn/users/92.m3u8
 http://stv.fcnonline.xyz:8080/live/fcn/users/98.m3u8
 #EXTINF:-1 group-title="IND | MOVIES" tvg-logo="https://fcnchbd.xyz/iptv/logo/zbolly.png",ZEE BOLLYWOOD
 http://stv.fcnonline.xyz:8080/live/fcn/users/97.m3u8
-#EXTINF:-1 group-title="IND | MOVIES" tvg-logo="https://fcnchbd.xyz/iptv/logo/inhsg2.png",STAR GOLD2
-http://stv.fcnonline.xyz:8080/live/fcn/users/87.m3u8
+
 #EXTINF:-1 group-title="IND | MOVIES" tvg-logo="https://fcnchbd.xyz/iptv/logo/bolly.png",BOLLYWOOD HD
 http://stv.fcnonline.xyz:8080/live/fcn/users/102.m3u8
 #EXTINF:-1 group-title="IND | MOVIES" tvg-logo="https://fcnchbd.xyz/iptv/logo/bollycl.png",BOLLYWOOD CLASSIC HD
