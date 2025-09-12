@@ -55,6 +55,8 @@ http://stv.fcnonline.xyz:8080/live/fcn/users/76.m3u8
 http://stv.fcnonline.xyz:8080/live/fcn/users/78.m3u8
 #EXTINF:-1 group-title="IND | ENTERTAINMENT" tvg-logo="https://fcnchbd.xyz/iptv/logo/inhd2h.png",STAR BHARAT
 http://stv.fcnonline.xyz:8080/live/fcn/users/74.m3u8
+#EXTINF:-1 group-title="IND | ENTERTAINMENT" tvg-logo="https://fcnchbd.xyz/iptv/logo/inhd2h.png",COLORS RESTHEY
+http://stv.fcnonline.xyz:8080/live/fcn/users/81.m3u8
 #EXTINF:-1 group-title="IND | ENTERTAINMENT" tvg-logo="https://fcnchbd.xyz/iptv/logo/inhztv.png",ZEE TV HD
 http://stv.fcnonline.xyz:8080/live/fcn/users/12.m3u8
 #EXTINF:-1 group-title="IND | ENTERTAINMENT" tvg-logo="https://fcnchbd.xyz/iptv/logo/inhsp.png",STAR PLUS HD
@@ -173,6 +175,8 @@ http://stv.fcnonline.xyz:8080/live/fcn/users/88.m3u8
 
 #EXTINF:-1 group-title="IND | MOVIES" tvg-logo="https://fcnchbd.xyz/iptv/logo/inhzc.png",ZEE CINEMA HD
 http://stv.fcnonline.xyz:8080/live/fcn/users/95.m3u8
+#EXTINF:-1 group-title="IND | MOVIES" tvg-logo="https://fcnchbd.xyz/iptv/logo/inhcc.png",COLORS CINEPLEX HD
+http://stv.fcnonline.xyz:8080/live/fcn/users/91.m3u8
 #EXTINF:-1 group-title="IND | MOVIES" tvg-logo="https://fcnchbd.xyz/iptv/logo/ccine.png",COLORS CINEPLEX SD
 http://stv.fcnonline.xyz:8080/live/fcn/users/92.m3u8
 #EXTINF:-1 group-title="IND | MOVIES" tvg-logo="https://fcnchbd.xyz/iptv/logo/ZeeAction.png",ZEE ACTION
@@ -197,10 +201,18 @@ http://stv.fcnonline.xyz:8080/live/fcn/users/104.m3u8
 #EXTINF:-1 group-title="IND | MOVIES" tvg-logo="https://fcnchbd.xyz/iptv/logo/b4uk.png",B4U KADAK
 http://stv.fcnonline.xyz:8080/live/fcn/users/85.m3u8
 
-#EXTINF:-1 group-title="IND | MOVIES" tvg-logo="https://fcnchbd.xyz/iptv/logo/engap.png",AND XPLORE
+#EXTINF:-1 group-title="ENG | MOVIES" tvg-logo="https://fcnchbd.xyz/iptv/logo/engsp.png",SONY PIX HD
+http://stv.fcnonline.xyz:8080/live/fcn/users/99.m3u8
+#EXTINF:-1 group-title="ENG | MOVIES" tvg-logo="https://fcnchbd.xyz/iptv/logo/engap.png",AND PRIVE HD
 http://stv.fcnonline.xyz:8080/live/fcn/users/90.m3u8
-#EXTINF:-1 group-title="IND | MOVIES" tvg-logo="https://fcnchbd.xyz/iptv/logo/engfl.png",AND FLIX HD
-http://stv.fcnonline.xyz:8080/live/fcn/users/91.m3u8
+#EXTINF:-1 group-title="ENG | MOVIES" tvg-logo="https://fcnchbd.xyz/iptv/logo/engfl.png",AND FLIX HD
+http://stv.fcnonline.xyz:8080/live/fcn/users/66.m3u8
+#EXTINF:-1 group-title="ENG | MOVIES" tvg-logo="https://fcnchbd.xyz/iptv/logo/engap.png",STAR MOVIES HD
+http://stv.fcnonline.xyz:8080/live/fcn/users/67.m3u8
+#EXTINF:-1 group-title="ENG | MOVIES" tvg-logo="https://fcnchbd.xyz/iptv/logo/engfl.png",STAR MOVIES SEL HD
+http://stv.fcnonline.xyz:8080/live/fcn/users/154.m3u8
+
+
 
 #EXTINF:-1 group-title="MUSIC | BANGLA" tvg-logo="https://fcnchbd.xyz/iptv/logo/gb.png",GANN TV
 http://stv.fcnonline.xyz:8080/live/fcn/users/47.m3u8
