@@ -207,9 +207,9 @@ http://stv.fcnonline.xyz:8080/live/fcn/users/99.m3u8
 http://stv.fcnonline.xyz:8080/live/fcn/users/90.m3u8
 #EXTINF:-1 group-title="ENG | MOVIES" tvg-logo="https://fcnchbd.xyz/iptv/logo/engfl.png",AND FLIX HD
 http://stv.fcnonline.xyz:8080/live/fcn/users/66.m3u8
-#EXTINF:-1 group-title="ENG | MOVIES" tvg-logo="https://fcnchbd.xyz/iptv/logo/engap.png",STAR MOVIES HD
+#EXTINF:-1 group-title="ENG | MOVIES" tvg-logo="https://fcnchbd.xyz/iptv/logo/engsm.png",STAR MOVIES HD
 http://stv.fcnonline.xyz:8080/live/fcn/users/67.m3u8
-#EXTINF:-1 group-title="ENG | MOVIES" tvg-logo="https://fcnchbd.xyz/iptv/logo/engfl.png",STAR MOVIES SEL HD
+#EXTINF:-1 group-title="ENG | MOVIES" tvg-logo="https://fcnchbd.xyz/iptv/logo/engsms.png",STAR MOVIES SEL HD
 http://stv.fcnonline.xyz:8080/live/fcn/users/154.m3u8
 
 
