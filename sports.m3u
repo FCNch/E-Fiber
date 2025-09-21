@@ -1,0 +1,125 @@
+#EXTM3U
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://fcnchbd.xyz/iptv/logo/IiveS2.png",SPORTS HD
+http://172.17.50.112:84/ant1002/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://fcnchbd.xyz/iptv/logo/spbts.png",T SPORTS HD
+http://172.17.50.112:84/ant1001/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://fcnchbd.xyz/iptv/logo/spst2.png",SONY SPORTS 2HD
+http://172.16.72.72:8083/SonyTen2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://fcnchbd.xyz/iptv/logo/spbts.png",T SPORTS HD
+http://172.16.72.72:8083/TSportsHD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://fcnchbd.xyz/iptv/logo/spbts.png",T SPORTS FHD
+http://172.16.29.3:8080/hls/tsportshd.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://fcnchbd.xyz/iptv/logo/spps.png",PTV SPORTS HD
+http://172.16.29.3:8080/hls/ptvsportshd.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://fcnchbd.xyz/iptv/logo/spas.png",A SPORTS HD
+http://172.16.29.3:8080/hls/ASportsHD.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://fcnchbd.xyz/iptv/logo/willow.png",WILLOW HD
+http://172.16.29.3:8080/hls/WillowCricket2HD.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://fcnchbd.xyz/iptv/logo/spts.png",TEN SPORTS HD
+http://172.16.29.3:8080/hls/willowcrickethd.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://fcnchbd.xyz/iptv/logo/spst1.png",SONY TEN 1 HD
+http://172.16.29.3:8080/hls/SonyTen1hd.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://fcnchbd.xyz/iptv/logo/spst2.png",SONY TEN 2 HD
+http://172.16.29.3:8080/hls/SonyTen2hd.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://fcnchbd.xyz/iptv/logo/spst3.png",SONY TEN 3 HD
+http://172.16.29.3:8080/hls/SonyTen3hd.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://fcnchbd.xyz/iptv/logo/spst6.png",SONY TEN 5 HD
+http://172.16.29.3:8080/hls/SonyTen5HD.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://fcnchbd.xyz/iptv/logo/spss1.png",STAR SPORTS 1HD
+http://172.16.29.3:8080/hls/StarSports1HD.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://fcnchbd.xyz/iptv/logo/spss2.png",STAR SPORTS 2HD
+http://172.16.29.3:8080/hls/StarSports2HD.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://fcnchbd.xyz/iptv/logo/spss2.png",STAR SPORTS 2HD
+http://172.16.29.3:8080/hls/StarSportsHindi2HD.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://fcnchbd.xyz/iptv/logo/spsss1.png",STAR SPORTS SEL 1HD
+http://172.16.29.3:8080/hls/StarSportsSelect1HD.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://fcnchbd.xyz/iptv/logo/spsss2.png",STAR SPORTS SEL 2HD
+http://172.16.29.3:8080/hls/StarSportsSelect2HD.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://fcnchbd.xyz/iptv/logo/spbts.png",T SPORTS HD
+http://10.247.249.10:8088/102/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://fcnchbd.xyz/iptv/logo/spst2.png",SONY SPORTS 2HD
+http://10.247.249.10:8088/120/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://fcnchbd.xyz/iptv/logo/spas.png",PT SPORTS HD
+http://10.247.249.10:8088/128/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://fcnchbd.xyz/iptv/logo/spst1.png",SONY SPORTS 1HD
+http://10.247.249.10:8088/119/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://fcnchbd.xyz/iptv/logo/spst3.png",SONY SPORTS 3HD
+http://10.247.249.10:8088/121/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://fcnchbd.xyz/iptv/logo/spss1.png",STAR SPORTS1
+http://10.247.249.10:8088/110/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://fcnchbd.xyz/iptv/logo/spss2.png",STAR SPORTS2
+http://10.247.249.10:8088/115/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://fcnchbd.xyz/iptv/logo/spsss1.png",STAR SPORTS SE1
+http://10.247.249.10:8088/123/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://fcnchbd.xyz/iptv/logo/spsss2.png",STAR SPORTS SE2
+http://10.247.249.10:8088/124/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://fcnchbd.xyz/iptv/logo/spas.png",A SPORTS HD
+http://10.247.249.10:8088/127/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 xui-id="252" tvg-id="" tvg-name="NAGORIK TV HD" tvg-logo="http://172.16.29.34/images/f8b34cca59defb42a763c79310d405af.png" group-title="SPORTS",NAGORIK TV HD
+http://172.16.29.34/play/JmU-3pCgErAiWP5dU8MsA5xMq6_OPzwmpYbcr5_JZTc/m3u8?&e=video.m3u8
+#EXTINF:-1 xui-id="181" tvg-id="" tvg-name="T SPORTS HD" tvg-logo="http://172.16.29.34/images/37e90e585d59d61d724d118b96fa2538.png" group-title="SPORTS",T SPORTS HD
+http://172.16.29.34/play/JmU-3pCgErAiWP5dU8MsA_EZvRERoc3gLd1P3fd64kk/m3u8?&e=video.m3u8
+#EXTINF:-1 xui-id="461" tvg-id="" tvg-name="T SPORTS FHD" tvg-logo="http://172.16.29.34/images/37e90e585d59d61d724d118b96fa2538.png" group-title="SPORTS",T SPORTS FHD
+http://172.16.29.34/play/JmU-3pCgErAiWP5dU8MsA7DzImxWwZd-nNy7aKwgGzI/m3u8?&e=video.m3u8
+#EXTINF:-1 xui-id="328" tvg-id="" tvg-name="SONY TEN 1 HD" tvg-logo="http://172.16.29.34/images/69582a69b467ef2333210bf39a4574fd.png" group-title="SPORTS",SONY TEN 1 HD
+http://172.16.29.34/play/JmU-3pCgErAiWP5dU8MsA03s0umUedSUliCAAO3RNs8/m3u8?&e=video.m3u8
+#EXTINF:-1 xui-id="330" tvg-id="" tvg-name="SONY TEN 2 HD" tvg-logo="http://172.16.29.34/images/29de51f924dcb840492593065333c5ef.png" group-title="SPORTS",SONY TEN 2 HD
+http://172.16.29.34/play/JmU-3pCgErAiWP5dU8MsA5-zeaOabG-vjosNtqWeNWY/m3u8?&e=video.m3u8
+#EXTINF:-1 xui-id="382" tvg-id="" tvg-name="SONY TEN2 HD" tvg-logo="http://172.16.29.34/images/29de51f924dcb840492593065333c5ef.png" group-title="SPORTS",SONY TEN2 HD
+http://172.16.29.34/play/JmU-3pCgErAiWP5dU8MsAz8CvWgCp9hufE5nEp7b59M/m3u8?&e=video.m3u8
+#EXTINF:-1 xui-id="499" tvg-id="" tvg-name="SONY TEN 3 HD" tvg-logo="https://fcnchbd.xyz/iptv/logo/spst3.png" group-title="SPORTS",SONY TEN 3 HD
+http://172.16.29.34/play/JmU-3pCgErAiWP5dU8MsA9WNqMl3r-zVZ-NgK6By-nU/m3u8?&e=video.m3u8
+#EXTINF:-1 xui-id="332" tvg-id="" tvg-name="SONY TEN 5 HD" tvg-logo="http://172.16.29.34/images/f960e620caa273f1fefa805bf847b4ea.png" group-title="SPORTS",SONY TEN 5 HD
+http://172.16.29.34/play/JmU-3pCgErAiWP5dU8MsA8M5s-R1JCgC7RJoFr2X5Rw/m3u8?&e=video.m3u8
+#EXTINF:-1 xui-id="347" tvg-id="" tvg-name="STAR SPORTS 1 HD" tvg-logo="http://172.16.29.34/images/2e302ced022c77ae2f885d9abeb31f03.png" group-title="SPORTS",STAR SPORTS 1 HD
+http://172.16.29.34/play/JmU-3pCgErAiWP5dU8MsA9SmD9DBUBBFryQ6ZMeIzxM/m3u8?&e=video.m3u8
+#EXTINF:-1 xui-id="349" tvg-id="" tvg-name="STAR SPORTS 2 HD" tvg-logo="http://172.16.29.34/images/a80e281fce7d1d6e0b38161d71290126.png" group-title="SPORTS",STAR SPORTS 2 HD
+http://172.16.29.34/play/JmU-3pCgErAiWP5dU8MsAx6-mphBg8gl7Hrc1b_hlqQ/m3u8?&e=video.m3u8
+#EXTINF:-1 xui-id="502" tvg-id="" tvg-name="STAR SPORTS HINDI 2 HD" tvg-logo="http://172.16.29.34/images/a80e281fce7d1d6e0b38161d71290126.png" group-title="SPORTS",STAR SPORTS HINDI 2 HD
+http://172.16.29.34/play/JmU-3pCgErAiWP5dU8MsAwzRO7yk4kr2TdGWOXVTbwY/m3u8?&e=video.m3u8
+#EXTINF:-1 xui-id="352" tvg-id="" tvg-name="STAR SPORTS SL 1 HD" tvg-logo="http://172.16.29.34/images/904de69c66d442610adafe67fa97b90a.png" group-title="SPORTS",STAR SPORTS SL 1 HD
+http://172.16.29.34/play/JmU-3pCgErAiWP5dU8MsA324orKoVmE1EM18g8AcgYI/m3u8?&e=video.m3u8
+#EXTINF:-1 xui-id="354" tvg-id="" tvg-name="STAR SPORTS SL 2 HD" tvg-logo="http://172.16.29.34/images/6b8007c8a58db72c538a2026e3ebe77b.png" group-title="SPORTS",STAR SPORTS SL 2 HD
+http://172.16.29.34/play/JmU-3pCgErAiWP5dU8MsA0GyQmEKMAZIKFiWcUqBfEM/m3u8?&e=video.m3u8
+#EXTINF:-1 xui-id="350" tvg-id="" tvg-name="STAR SPORTS 3" tvg-logo="http://172.16.29.34/images/d17c550e4e11abf5c74a2baf3c9041a8.png" group-title="SPORTS",STAR SPORTS 3
+http://172.16.29.34/play/JmU-3pCgErAiWP5dU8MsAzWZsqMCHvXNIndhQFhrNeQ/m3u8?&e=video.m3u8
+#EXTINF:-1 xui-id="282" tvg-id="" tvg-name="A SPORTS HD" tvg-logo="http://172.16.29.34/images/fa91b98285bba91a306d34e70af0e156.png" group-title="SPORTS",A SPORTS HD
+http://172.16.29.34/play/JmU-3pCgErAiWP5dU8MsA1T9yO-JBU_w4AaSxGEvWi4/m3u8?&e=video.m3u8
+#EXTINF:-1 xui-id="443" tvg-id="" tvg-name="PTV SPORTS HD" tvg-logo="http://172.16.29.34/images/418ee8f3ffc10df5e363d4b743b52d50.png" group-title="SPORTS",PTV SPORTS HD
+http://172.16.29.34/play/JmU-3pCgErAiWP5dU8MsA2osZeAdagOcS1vRJAYWF_Y/m3u8?&e=video.m3u8
+#EXTINF:-1 xui-id="366" tvg-id="TNTSPOR" tvg-name="TNT SPORTS 1 HD" tvg-logo="http://172.16.29.34/images/fd2dbe7f3927e781a1bec97f4fbd5644.png" group-title="SPORTS",TNT SPORTS 1 HD
+http://172.16.29.34/play/JmU-3pCgErAiWP5dU8MsA3OdK5xHLTpDcHZnEMnM-FA/m3u8?&e=video.m3u8
+#EXTINF:-1 xui-id="423" tvg-id="" tvg-name="TNT SPORTS 2 HD" tvg-logo="http://172.16.29.34/images/818973c6316ceb56e9492ad9acfdb448.png" group-title="SPORTS",TNT SPORTS 2 HD
+http://172.16.29.34/play/JmU-3pCgErAiWP5dU8MsA2YfXNYgfMH_pqpdNuFoqi8/m3u8?&e=video.m3u8
+#EXTINF:-1 xui-id="496" tvg-id="TNTSPOR" tvg-name="TNT SPORTS 4 HD" tvg-logo="http://172.16.29.34/images/9f27721c5adba678bb39a3f4e0f3821c.png" group-title="SPORTS",TNT SPORTS 4 HD
+http://172.16.29.34/play/JmU-3pCgErAiWP5dU8MsA4AEYLf37lj8r3F9ARc5WBI/m3u8?&e=video.m3u8
+#EXTINF:-1 xui-id="413" tvg-id="" tvg-name="WILLOW CRICKET" tvg-logo="http://172.16.29.34/images/3e24db626e8ad785de0c4803bf445d72.png" group-title="SPORTS",WILLOW CRICKET
+http://172.16.29.34/play/JmU-3pCgErAiWP5dU8MsA1g-_KkzBq-pqdOeKpZdC-0/m3u8?&e=video.m3u8
+#EXTINF:-1 xui-id="467" tvg-id="" tvg-name="WILLOW CRICKET 2 HD" tvg-logo="https://fcnchbd.xyz/iptv/logo/willow.png" group-title="SPORTS",WILLOW CRICKET 2 HD
+http://172.16.29.34/play/JmU-3pCgErAiWP5dU8MsAxzY-hOBEGbGvVX98TVDy-U/m3u8?&e=video.m3u8
+#EXTINF:-1 xui-id="480" tvg-id="SSPOCR" tvg-name="SKY SPORTS CRICKET HD" tvg-logo="https://fcnchbd.xyz/iptv/logo/sky.png" group-title="SPORTS",SKY SPORTS CRICKET HD
+http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsAx-bKrIcKaaf9FGwIvY8ZqM/m3u8?&e=bkd.m3u8
+#EXTINF:-1 xui-id="481" tvg-id="SSPOGO" tvg-name="SKY SPORTS GOLF" tvg-logo="https://fcnchbd.xyz/iptv/logo/s.png" group-title="SPORTS",SKY SPORTS GOLF
+http://172.16.29.34/play/JmU-3pCgErAiWP5dU8MsA6bJQo-AnCVMZo51TIhcPoY/m3u8?&e=video.m3u8
+#EXTINF:-1 xui-id="468" tvg-id="" tvg-name="SKY PREMIER LEAGUEHD" tvg-logo="https://fcnchbd.xyz/iptv/logo/s.png" group-title="SPORTS",SKY PREMIER LEAGUEHD
+http://172.16.29.34/play/JmU-3pCgErAiWP5dU8MsA9rsD7HSqulfmiwa28oPDYw/m3u8?&e=video.m3u8
+#EXTINF:-1 xui-id="375" tvg-id="" tvg-name="TEN SPORTS HD" tvg-logo="http://172.16.29.34/images/818973c6316ceb56e9492ad9acfdb448.png" group-title="SPORTS",TEN SPORTS HD
+http://172.16.29.34/play/JmU-3pCgErAiWP5dU8MsA6hYMAvYELfySLVDWBMxvqc/m3u8?&e=video.m3u8
+#EXTINF:-1 xui-id="492" tvg-id="BEINS1" tvg-name="BEIN SPORTS HD" tvg-logo="https://fcnchbd.xyz/iptv/logo/bein.png" group-title="SPORTS",BEIN SPORTS HD
+http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA0yhGAdbZKR3Xm9j5oGIsYs/m3u8?&e=video.m3u8
+#EXTINF:-1 xui-id="465" tvg-id="" tvg-name="BEIN  SPORTS 1 ENG" tvg-logo="https://fcnchbd.xyz/iptv/logo/bein.png" group-title="SPORTS",BEIN  SPORTS 1 ENG
+http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA88ymJzFiqlYQGcDDiw6_3Q/m3u8?&e=video.m3u8
+#EXTINF:-1 xui-id="464" tvg-id="" tvg-name="BEIN  SPORTS 2 ENG" tvg-logo="https://fcnchbd.xyz/iptv/logo/bein.png" group-title="SPORTS",BEIN  SPORTS 2 ENG
+http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA3rAU3tEQJkgiMFSDMBcrcw/m3u8?&e=video.m3u8
+
+#EXTINF:-1 xui-id="394" tvg-id="" tvg-name="EURO SPORTS HD" tvg-logo="http://172.16.29.34/images/366821d7939d11a67de52c40f77516c1.png" group-title="SPORTS",EURO SPORTS HD
+http://172.16.29.34/play/JmU-3pCgErAiWP5dU8MsA66mVj3wqB2MDpjz0dPPo_0/m3u8?&e=video.m3u8
+#EXTINF:-1 xui-id="336" tvg-id="" tvg-name="SPORTS 18 HD" tvg-logo="http://172.16.29.34/images/c959c1df1b5e43dc74c3476d335d83d9.png" group-title="SPORTS",SPORTS 18 HD
+http://172.16.29.34/play/JmU-3pCgErAiWP5dU8MsA98PzWIzraWb90pov-Jlhqo/m3u8?&e=video.m3u8
+#EXTINF:-1 xui-id="424" tvg-id="" tvg-name="GEO SUPER" tvg-logo="http://172.16.29.34/images/e376dd7c7b6276f29a37c513e356313e.png" group-title="SPORTS",GEO SUPER
+http://172.16.29.34/play/JmU-3pCgErAiWP5dU8MsA2NnBfpteKtx5uGLNAgM5Zs/m3u8?&e=video.m3u8
