@@ -13,8 +13,7 @@ http://172.16.29.3:8080/hls/ptvsportshd.m3u8
 http://172.16.29.3:8080/hls/SonyTen5HD.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://fcnchbd.xyz/iptv/logo/spst1.png",SONY TEN 1 HD
 http://172.16.29.3:8080/hls/SonyTen1hd.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://fcnchbd.xyz/iptv/logo/T20.png",T SPORTS HD
-https://live.tsports.com/mobile_hls/tsports_live_1/playlist.m3u8
+
 
 #EXTINF:-1 group-title="ISLAMIC" tvg-logo="https://fcnchbd.xyz/iptv/logo/peacetv.png",PEACE TV BANGLA
 http://stv.fcnonline.xyz:8080/live/fcn/users/1.m3u8
@@ -27,8 +26,7 @@ http://stv.fcnonline.xyz:8080/live/fcn/users/70.m3u8
 #EXTINF:-1 group-title="ISLAMIC" tvg-logo="https://fcnchbd.xyz/iptv/logo/deen.png",DEEN TV
 http://stv.fcnonline.xyz:8080/live/fcn/users/71.m3u8
 
-#EXTINF:-1 group-title="LIVE SPORTS" tvg-logo="https://fcnchbd.xyz/iptv/logo/IiveS2.png",LIVE SPORTS HD
-https://live.tsports.com/mobile_hls/tsports_live_2/playlist.m3u8
+
 #EXTINF:-1 group-title="LIVE SPORTS" tvg-logo="https://fcnchbd.xyz/iptv/logo/IiveS2.png",LIVE SPORTS HD
 http://172.17.50.112:84/ant1002/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="LIVE SPORTS" tvg-logo="https://fcnchbd.xyz/iptv/logo/spbts.png",T SPORTS HD
