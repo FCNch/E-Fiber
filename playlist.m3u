@@ -1,18 +1,18 @@
 #EXTM3U
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://fcnchbd.xyz/iptv/logo/IiveS2.png",SPORTS HD
-http://172.17.50.112:84/ant1002/tracks-v1a1/mono.m3u8
+http://172.17.50.112:84/ant1005/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://fcnchbd.xyz/iptv/logo/T20.png",T SPORTS HD
 http://172.17.50.112:84/ant1001/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://fcnchbd.xyz/iptv/logo/IT20.png",T SPORTS FHD
-http://172.16.29.3:8080/hls/tsportshd.m3u8
+http://172.16.29.2:8090/hls/tsportshd.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://fcnchbd.xyz/iptv/logo/spbts.png",T SPORTS HD
 http://172.16.72.72:8083/TSportsHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://fcnchbd.xyz/iptv/logo/spps.png",PTV SPORTS HD
-http://172.16.29.3:8080/hls/ptvsportshd.m3u8
+http://172.16.29.2:8090/hls/ptvsportshd.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://fcnchbd.xyz/iptv/logo/spst6.png",SONY TEN 5 HD
-http://172.16.29.3:8080/hls/SonyTen5HD.m3u8
+http://172.16.29.2:8090/hls/SonyTen5HD.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://fcnchbd.xyz/iptv/logo/spst1.png",SONY TEN 1 HD
-http://172.16.29.3:8080/hls/SonyTen1hd.m3u8
+http://172.16.29.2:8090/hls/SonyTen1hd.m3u8
 
 
 #EXTINF:-1 group-title="ISLAMIC" tvg-logo="https://fcnchbd.xyz/iptv/logo/peacetv.png",PEACE TV BANGLA
