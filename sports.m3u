@@ -1,72 +1,73 @@
 #EXTM3U
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://fcnchbd.xyz/iptv/logo/IiveS2.png",SPORTS HD
-http://172.17.50.112:84/ant1002/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://fcnchbd.xyz/iptv/logo/T20.png",T SPORTS HD
 http://172.17.50.112:84/ant1001/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://fcnchbd.xyz/iptv/logo/T20.png",T SPORTS HD
+http://172.17.50.112:84/ant1005/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://fcnchbd.xyz/iptv/logo/IT20.png",T SPORTS FHD
-http://172.16.29.3:8080/hls/tsportshd.m3u8
+http://172.16.29.2:8090/hls/tsportshd.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://fcnchbd.xyz/iptv/logo/spbts.png",T SPORTS HD
 http://172.16.72.72:8083/TSportsHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://fcnchbd.xyz/iptv/logo/spps.png",PTV SPORTS HD
-http://172.16.29.3:8080/hls/ptvsportshd.m3u8
+http://172.16.29.2:8090/hls/ptvsportshd.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://fcnchbd.xyz/iptv/logo/spst6.png",SONY TEN 5 HD
-http://172.16.29.3:8080/hls/SonyTen5HD.m3u8
+http://172.16.29.2:890/hls/SonyTen5HD.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://fcnchbd.xyz/iptv/logo/spst1.png",SONY TEN 1 HD
-http://172.16.29.3:8080/hls/SonyTen1hd.m3u8
+http://172.16.29.2:8090/hls/SonyTen1hd.m3u8
 
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://fcnchbd.xyz/iptv/logo/spst2.png",SONY SPORTS 2HD
-http://172.16.72.72:8083/SonyTen2/tracks-v1a1/mono.m3u8
+http://cdn.moviemazic.xyz:8083/live-5/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://fcnchbd.xyz/iptv/logo/spbts.png",T SPORTS FHD
-http://172.16.29.3:8080/hls/tsportshd.m3u8
+http://172.16.29.2:8090/hls/tsportshd.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://fcnchbd.xyz/iptv/logo/spps.png",PTV SPORTS HD
-http://172.16.29.3:8080/hls/ptvsportshd.m3u8
+http://172.16.29.2:8090/hls/ptvsportshd.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://fcnchbd.xyz/iptv/logo/spas.png",A SPORTS HD
-http://172.16.29.3:8080/hls/ASportsHD.m3u8
+http://172.16.29.2:8090/hls/ASportsHD.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://fcnchbd.xyz/iptv/logo/willow.png",WILLOW HD
-http://172.16.29.3:8080/hls/WillowCricket2HD.m3u8
+http://172.16.29.2:8090/hls/willowcrickethd.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://fcnchbd.xyz/iptv/logo/spts.png",TEN SPORTS HD
-http://172.16.29.3:8080/hls/willowcrickethd.m3u8
+http://cdn.moviemazic.xyz:8083/Feedget/tencriker_tp_15/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://fcnchbd.xyz/iptv/logo/spst1.png",SONY TEN 1 HD
-http://172.16.29.3:8080/hls/SonyTen1hd.m3u8
+http://172.16.29.2:8090/hls/SonyTen1hd.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://fcnchbd.xyz/iptv/logo/spst2.png",SONY TEN 2 HD
-http://172.16.29.3:8080/hls/SonyTen2hd.m3u8
+http://172.16.29.2:8090/hls/SonyTen2hd.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://fcnchbd.xyz/iptv/logo/spst3.png",SONY TEN 3 HD
-http://172.16.29.3:8080/hls/SonyTen3hd.m3u8
+http://172.16.29.2:8090/hls/SonyTen3hd.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://fcnchbd.xyz/iptv/logo/spss1.png",STAR SPORTS 1HD
-http://172.16.29.3:8080/hls/StarSports1HD.m3u8
+http://172.16.29.2:8090/hls/StarSports1HD.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://fcnchbd.xyz/iptv/logo/spss2.png",STAR SPORTS 2HD
-http://172.16.29.3:8080/hls/StarSports2HD.m3u8
+http://172.16.29.2:8090/hls/StarSports2HD.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://fcnchbd.xyz/iptv/logo/spss2.png",STAR SPORTS 2HD
-http://172.16.29.3:8080/hls/StarSportsHindi2HD.m3u8
+http://172.16.29.2:8090/hls/StarSportsHindi2HD.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://fcnchbd.xyz/iptv/logo/spsss1.png",STAR SPORTS SEL 1HD
-http://172.16.29.3:8080/hls/StarSportsSelect1HD.m3u8
+http://172.16.29.2:8090/hls/StarSportsSelect1HD.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://fcnchbd.xyz/iptv/logo/spsss2.png",STAR SPORTS SEL 2HD
-http://172.16.29.3:8080/hls/StarSportsSelect2HD.m3u8
+http://172.16.29.2:8090/hls/StarSportsSelect2HD.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://fcnchbd.xyz/iptv/logo/spbts.png",T SPORTS HD
-http://10.247.249.10:8088/102/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://fcnchbd.xyz/iptv/logo/spst2.png",SONY SPORTS 2HD
-http://10.247.249.10:8088/120/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://fcnchbd.xyz/iptv/logo/spas.png",PTV SPORTS HD
-http://10.247.249.10:8088/128/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://fcnchbd.xyz/iptv/logo/spst1.png",SONY SPORTS 1HD
-http://10.247.249.10:8088/119/tracks-v1a1/mono.m3u8
+http://172.16.29.2:8090/hls/StarSportsHindi2HD.m3u8
 
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://fcnchbd.xyz/iptv/logo/spas.png",PTV SPORTS HD
+http://cdn.moviemazic.xyz:8083/Feedget/beinspots_2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://fcnchbd.xyz/iptv/logo/spst1.png",SONY SPORTS 1HD
+http://cdn.moviemazic.xyz:8083/SONY-TEN-1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://fcnchbd.xyz/iptv/logo/spst2.png",SONY SPORTS 2HD
+http://cdn.moviemazic.xyz:8083/Feedget/SonyTenSports2_36/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://fcnchbd.xyz/iptv/logo/spst3.png",SONY SPORTS 3HD
-http://10.247.249.10:8088/121/tracks-v1a1/mono.m3u8
+http://cdn.moviemazic.xyz:8083/Feedget/SonyTenSports5_39/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://fcnchbd.xyz/iptv/logo/spss1.png",STAR SPORTS1
-http://10.247.249.10:8088/110/tracks-v1a1/mono.m3u8
+http://cdn.moviemazic.xyz:8083/STAR-SPORTS-1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://fcnchbd.xyz/iptv/logo/spss2.png",STAR SPORTS2
-http://10.247.249.10:8088/115/tracks-v1a1/mono.m3u8
+http://cdn.moviemazic.xyz:8083/STAR-SPORTS-2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://fcnchbd.xyz/iptv/logo/spsss1.png",STAR SPORTS SE1
-http://10.247.249.10:8088/123/tracks-v1a1/mono.m3u8
+http://cdn.moviemazic.xyz:8083/StarSportsSelect1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://fcnchbd.xyz/iptv/logo/spsss2.png",STAR SPORTS SE2
-http://10.247.249.10:8088/124/tracks-v1a1/mono.m3u8
+http://cdn.moviemazic.xyz:8083/StarSportsSelect2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://fcnchbd.xyz/iptv/logo/spas.png",A SPORTS HD
-http://10.247.249.10:8088/127/tracks-v1a1/mono.m3u8
+http://cdn.moviemazic.xyz:8083/Feedget/EurosportHD_17/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 xui-id="252" tvg-id="" tvg-name="NAGORIK TV HD" tvg-logo="http://172.16.29.34/images/f8b34cca59defb42a763c79310d405af.png" group-title="SPORTS",NAGORIK TV HD
 http://172.16.29.34/play/JmU-3pCgErAiWP5dU8MsA5xMq6_OPzwmpYbcr5_JZTc/m3u8?&e=video.m3u8
