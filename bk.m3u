@@ -224,6 +224,26 @@ http://172.16.29.2:8090/hls/DiscoveryHD.m3u8
 http://172.16.29.2:8090/hls/AnimalPlanetHD.m3u8
 
 
+#EXTINF:-1 group-title="BD BANGLA" tvg-logo="https://fcnchbd.xyz/iptv/logo/rtv.png",RTV HD
+http://cdn.moviemazic.xyz:8083/Feedget/rtv_nk_34/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="IND BANGLA" tvg-logo="https://fcnchbd.xyz/iptv/logo/inbsj.png",STAR JALSHA HD
+http://cdn.moviemazic.xyz:8083/STAR-JALSHA/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="IND BANGLA" tvg-logo="https://fcnchbd.xyz/iptv/logo/inbzb.png",ZEE BANGLA HD
+http://cdn.moviemazic.xyz:8083/Feedget/ZeeBangla_8/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="IND BANGLA" tvg-logo="https://fcnchbd.xyz/iptv/logo/inbcb.png",COLORS BANGLA HD
+http://cdn.moviemazic.xyz:8083/ColorsBanglaHD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="HINDI ENT" tvg-logo="https://fcnchbd.xyz/iptv/logo/inhc.png",COLORS HD
+http://cdn.moviemazic.xyz:8083/COLORS-HIN/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="HINDI ENT" tvg-logo="https://fcnchbd.xyz/iptv/logo/inhse.png",SONY HD
+http://cdn.moviemazic.xyz:8083/Feedget/SonyEntertainmentTelevisionHD_9/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="HINDI MOVIES" tvg-logo="https://fcnchbd.xyz/iptv/logo/inhzc.png",ZEE CINEMA HD
+http://cdn.moviemazic.xyz:8083/Feedget/ZeeCinemaHD_38/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="HINDI MOVIES" tvg-logo="https://fcnchbd.xyz/iptv/logo/inhsg.png",STAR GOLD HD
+http://cdn.moviemazic.xyz:8083/Star-Gold/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="HINDI MOVIES" tvg-logo="https://fcnchbd.xyz/iptv/logo/inhsm.png",SONY MAX HD
+http://cdn.moviemazic.xyz:8083/Feedget/SonyMAX_37/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 group-title="BD BANGLA" tvg-logo="https://fcnchbd.xyz/iptv/logo/gazi.png",GAZI TV HD
@@ -251,3 +271,4 @@ http://cdn.moviemazic.xyz:8083/StarSportsSelect1/tracks-v1a1/mono.m3u8
 http://cdn.moviemazic.xyz:8083/StarSportsSelect2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://fcnchbd.xyz/iptv/logo/spas.png",A SPORTS HD
 http://cdn.moviemazic.xyz:8083/Feedget/EurosportHD_17/tracks-v1a1/mono.m3u8
+
