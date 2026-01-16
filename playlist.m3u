@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://fcnchbd.xyz/iptv/logo/IiveS2.png",SPORTS HD
-http://172.17.50.112:84/ant1005/tracks-v1a1/mono.m3u8
+http://172.17.50.112:84/ant1001/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://fcnchbd.xyz/iptv/logo/T20.png",T SPORTS HD
 http://172.17.50.112:84/ant1001/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://fcnchbd.xyz/iptv/logo/IT20.png",T SPORTS FHD
