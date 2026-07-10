@@ -907,6 +907,8 @@ https://cdn-2.pishow.tv/live/227/master.m3u8
 https://cdn-2.pishow.tv/live/1460/master.m3u8
 #EXTINF:-1 group-title="Hindi Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/Zee_Anmol_Cinema_logo.png",Zee Anmol Cinema
 http://103.175.73.12:8080/live/271/271_0.m3u8
+#EXTINF:-1 group-title="Hindi Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/Zee_Anmol_Cinema_logo.png",Zee Anmol Cinema
+http://103.175.73.12:8080/live/257/257_0.m3u8
 #EXTINF:-1 group-title="Hindi Movies" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors%20Cineplax.png",Colors Cineplex HD
 http://66.102.126.10:8000/play/a076/index.m3u8
 #EXTINF:-1 group-title="Hindi Movies" tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",Goldmines Bollywood
