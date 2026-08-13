@@ -2,10 +2,6 @@
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://fcnchbd.xyz/iptv/logo/IT20.png",T SPORTS FHD
 http://172.16.200.211/stream/hls/ch01.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://fcnchbd.xyz/iptv/logo/spps.png",PTV SPORTS HD
-http://103.165.93.31:8095/ptv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="LIVE SPORTS" tvg-logo="https://fcnchbd.xyz/iptv/logo/IiveS2.png",LIVE SPORTS HD
-http://172.17.50.112:84/ant1002/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="LIVE SPORTS" tvg-logo="https://fcnchbd.xyz/iptv/logo/spbts.png",T SPORTS HD
 http://30.30.30.138:8088/102/index.m3u8
 #EXTINF:-1 group-title="LIVE SPORTS" tvg-logo="https://fcnchbd.xyz/iptv/logo/spst2.png",SONY SPORTS 2HD
@@ -71,8 +67,8 @@ http://stv.fcnonline.xyz:8080/live/fcn/users/76.m3u8
 http://stv.fcnonline.xyz:8080/live/fcn/users/78.m3u8
 #EXTINF:-1 group-title="IND | ENTERTAINMENT" tvg-logo="https://fcnchbd.xyz/iptv/logo/inhd2h.png",STAR BHARAT
 http://stv.fcnonline.xyz:8080/live/fcn/users/74.m3u8
-#EXTINF:-1 group-title="IND | ENTERTAINMENT" tvg-logo="https://fcnchbd.xyz/iptv/logo/inhd2h.png",COLORS RESTHEY
-http://stv.fcnonline.xyz:8080/live/fcn/users/81.m3u8
+#EXTINF:-1 group-title="IND | ENTERTAINMENT" tvg-logo="https://fcnchbd.xyz/iptv/logo/ZeeAnmol.png",ZEE ANMOL
+http://stv.fcnonline.xyz:8080/live/fcn/users/72.m3u8
 #EXTINF:-1 group-title="IND | ENTERTAINMENT" tvg-logo="https://fcnchbd.xyz/iptv/logo/inhztv.png",ZEE TV HD
 http://stv.fcnonline.xyz:8080/live/fcn/users/12.m3u8
 #EXTINF:-1 group-title="IND | ENTERTAINMENT" tvg-logo="https://fcnchbd.xyz/iptv/logo/inhsp.png",STAR PLUS HD
