@@ -1,8 +1,6 @@
 
 
 #EXTM3U
-#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_12r2"
-
 #EXTINF:-1,Peace TV Bangla  HD
 http://iptv.fcnonline.xyz:80/play/3byAYyQhPBO9ARa0Rup6WltNUSP0Qs5UmtMnkOTbsBk/m3u8
 #EXTINF:-1,SAUDI  QURAN
@@ -119,8 +117,12 @@ http://iptv.fcnonline.xyz:80/play/-f4y0ulrz6bWYAIPS-WEf-a1Xsxmq_Uiws3bd4muwdI/m3
 #EXTINF:-1,COLOR BANGLA CINEMA
 http://iptv.fcnonline.xyz:80/play/3byAYyQhPBO9ARa0Rup6Wh_z_v2yho65gHCgZN3aUjU/m3u8
 
-
-
+#EXTINF:-1,HUM TV HD
+http://iptv.fcnonline.xyz:80/play/3byAYyQhPBO9ARa0Rup6WnMy-HOp-b7Q7MjsjgbBPew/m3u8
+#EXTINF:-1,Green TV Pakistan
+http://iptv.fcnonline.xyz:80/play/3byAYyQhPBO9ARa0Rup6WocRKwq0qMqpsovYu5D3rFA/m3u8
+#EXTINF:-1,ARY DIGITAL HD
+http://iptv.fcnonline.xyz:80/play/WhxL0zgjweD4vbwGdbQpcbEdfJwraViiLfB6TJ4ay7s/m3u8
 #EXTINF:-1,STAR PLUS HD
 http://iptv.fcnonline.xyz:80/play/WhxL0zgjweD4vbwGdbQpceMk7oASOHrJi0HB10zzV1E/m3u8
 #EXTINF:-1,SONY HD
@@ -133,8 +135,6 @@ http://iptv.fcnonline.xyz:80/play/WhxL0zgjweD4vbwGdbQpcd7fLW1QCeXWTXWGmcp6z1o/m3
 http://iptv.fcnonline.xyz:80/play/WhxL0zgjweD4vbwGdbQpcZlxamKwHtUNgmJQd25EM1c/m3u8
 #EXTINF:-1,&TV HD
 http://iptv.fcnonline.xyz:80/play/WhxL0zgjweD4vbwGdbQpcVzLR6PZP17z_R_12ycJvhY/m3u8
-#EXTINF:-1,ARY DIGITAL HD
-http://iptv.fcnonline.xyz:80/play/WhxL0zgjweD4vbwGdbQpcbEdfJwraViiLfB6TJ4ay7s/m3u8
 #EXTINF:-1,SONY SAB HD
 http://iptv.fcnonline.xyz:80/play/3byAYyQhPBO9ARa0Rup6WhStg7uFJt_OCw1_xHjSZF8/m3u8
 
@@ -323,12 +323,8 @@ http://iptv.fcnonline.xyz:80/play/HdZdV-nX8BjlkJag2Hs92nJj7wbqgHVdE-I1aONtJlE/m3
 
 
 
-#EXTINF:-1,Green TV Pakistan
-http://iptv.fcnonline.xyz:80/play/3byAYyQhPBO9ARa0Rup6WocRKwq0qMqpsovYu5D3rFA/m3u8
 #EXTINF:-1,SAMAA TV
 http://iptv.fcnonline.xyz:80/play/3byAYyQhPBO9ARa0Rup6WuXg9-XguehOEAcWbPJ4iCU/m3u8
-#EXTINF:-1,HUM TV HD
-http://iptv.fcnonline.xyz:80/play/3byAYyQhPBO9ARa0Rup6WnMy-HOp-b7Q7MjsjgbBPew/m3u8
 #EXTINF:-1,AAJ TAK
 http://iptv.fcnonline.xyz:80/play/3byAYyQhPBO9ARa0Rup6WqGqhGui-mgOZOvkNL58l1M/m3u8
 #EXTINF:-1,NDTV 24x7
