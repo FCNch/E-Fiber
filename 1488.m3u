@@ -132,7 +132,7 @@ https://stream.ottplus.bd/live/discovery_kids_abr/index.m3u8
 
 #EXTINF:-1 group-title="BD BANGLA" tvg-logo="http://alixbd.com/assets/images/maasranga.png",Maasranga TV
 https://mtv.sunplex.live/MAASRANGA/index.m3u8
-#EXTINF:-1 group-title="BD BANGLA" tvg-logo="http://alixbd.com/assets/images/deeptotv.png,Deepto TV
+#EXTINF:-1 group-title="BD BANGLA" tvg-logo="http://alixbd.com/assets/images/deeptotv.png",Deepto TV
 https://byphdgllyk.gpcdn.net/hls/deeptotv/index.m3u8
 #EXTINF:-1 group-title="BD BANGLA" tvg-logo="https://i.postimg.cc/8knh34Z5/iju-Jfmd.png",News 21 Bangla TV
 http://103.190.133.68:1935/news21live/live/playlist.m3u8
