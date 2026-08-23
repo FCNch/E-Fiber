@@ -6,8 +6,8 @@ http://dgj.bkdnet.xyz:8080/hls/34-tsportssd/index.m3u8
 http://cdn.fcnonline.xyz:8090/hls/tsportshd.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://fcnchbd.xyz/iptv/logo/spas.png",,A Sports HD
 https://playztv-apps.pages.dev/asports/index.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://fcnchbd.xyz/iptv/logo/spps.png",PTV SPORTS HD
-http://cdn.fcnonline.xyz:8090/hls/ptvsportshd.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://fcnchbd.xyz/iptv/logo/spts.png",TEN SPORTS HD
+https://stream.ottplus.bd/live/ten_cricket_hd_abr/index.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://fcnchbd.xyz/iptv/logo/willow.png",WilloW TV HD
 https://playztv-apps.pages.dev/willow/index.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://fcnchbd.xyz/iptv/logo/spss1.png",STAR SPORTS 1 HD
@@ -91,6 +91,107 @@ https://tvsen5.aynaott.com/somoytv/tracks-v1a1/mono.m3u8
 
 
 
+#EXTINF:-1 group-title="BD BANGLA" tvg-logo="http://alixbd.com/assets/images/jamunatv.png",Jamuna
+https://stream.ottplus.bd/live/jamuna_tv_abr/index.m3u8
+#EXTINF:-1 group-title="BD BANGLA" tvg-logo="http://alixbd.com/assets/images/ekattur.png",Ekattor HD
+https://stream.ottplus.bd/live/ekattor_tv_abr/index.m3u8
+#EXTINF:-1 group-title="BD BANGLA" tvg-logo="http://alixbd.com/assets/images/channel24.png",Channel 24 HD
+https://stream.ottplus.bd/live/channel_24_abr/index.m3u8
+#EXTINF:-1 group-title="BD BANGLA" tvg-logo="http://alixbd.com/assets/images/mohonatv.png",Mohona TV
+https://stream.ottplus.bd/live/mohona_tv_abr/index.m3u8
+#EXTINF:-1 group-title="BD BANGLA" tvg-logo="http://alixbd.com/assets/images/bijoytv.png",Bijoy TV
+https://stream.ottplus.bd/live/bijoy_tv_abr/index.m3u8
+#EXTINF:-1 group-title="BD BANGLA" tvg-logo="https://fcnchbd.xyz/iptv/logo/banglatv.png",BANGLA TV
+https://stream.ottplus.bd/live/bangla_tv_hd_abr/index.m3u8
+#EXTINF:-1 group-title="BD BANGLA" tvg-logo="http://alixbd.com/assets/images/channel1.png",Channel 1
+https://stream.ottplus.bd/live/channel_1_hd_abr/index.m3u8
+#EXTINF:-1 group-title="BD BANGLA" tvg-logo="http://alixbd.com/assets/images/ekhon.png",Ekhon
+https://stream.ottplus.bd/live/ekhon_tv_abr/index.m3u8
+#EXTINF:-1 group-title="BD BANGLA" tvg-logo="http://alixbd.com/assets/images/rajdhani.png",Rajdhani TV
+http://stream.shariarsuvo.com/hls5/rajdhanicable.m3u8
+
+#EXTINF:-1 group-title="BD BANGLA" tvg-logo="http://alixbd.com/assets/images/mytv.png",MY TV
+http://116.204.149.16/mytv/index.m3u8
+#EXTINF:-1 group-title="BD BANGLA" tvg-logo="http://alixbd.com/assets/images/rtv.png",RTV
+http://116.204.149.16/rtvhd/index.m3u8
+#EXTINF:-1 group-title="BD BANGLA" tvg-logo="http://alixbd.com/assets/images/channeli.png",CHANNEL I
+https://tvsen3.b-cdn.net/qUud8Nxs/index.m3u8
+#EXTINF:-1 group-title="BD BANGLA" tvg-logo="http://alixbd.com/assets/images/satv.png",SA TV
+http://116.204.149.16/satv/index.m3u8
+#EXTINF:-1 group-title="BD BANGLA" tvg-logo="http://alixbd.com/assets/images/banglatv.png",BANGLA TV
+http://116.204.149.16/banglatv/index.m3u8
+
+
+
+#EXTINF:-1  tvg-logo="http://alixbd.com/assets/images/sonyyay.png",Sony YaY
+https://stream.ottplus.bd/live/sony_yay_720/chunks.m3u8
+#EXTINF:-1  tvg-logo="http://alixbd.com/assets/images/pogo.png",POGO
+https://stream.ottplus.bd/live/pogo_sd_abr/index.m3u8
+#EXTINF:-1  tvg-logo="http://alixbd.com/assets/images/discoverykids.png",Discovery kids
+https://stream.ottplus.bd/live/discovery_kids_abr/index.m3u8
+
+#EXTINF:-1 group-title="BD BANGLA" tvg-logo="http://alixbd.com/assets/images/maasranga.png",Maasranga TV
+https://mtv.sunplex.live/MAASRANGA/index.m3u8
+#EXTINF:-1 group-title="BD BANGLA" tvg-logo="http://alixbd.com/assets/images/deeptotv.png,Deepto TV
+https://byphdgllyk.gpcdn.net/hls/deeptotv/index.m3u8
+#EXTINF:-1 group-title="BD BANGLA" tvg-logo="https://i.postimg.cc/8knh34Z5/iju-Jfmd.png",News 21 Bangla TV
+http://103.190.133.68:1935/news21live/live/playlist.m3u8
+#EXTINF:-1 group-title="BD BANGLA" tvg-logo="https://i.imgur.com/PzqzgMm.png",Deshi TV (720p)
+https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
+
+#EXTINF:-1  tvg-logo="http://alixbd.com/assets/images/eurosports.png",Euro Sports
+https://stream.ottplus.bd/live/euro_sports_hd_abr/index.m3u8
+
+#EXTINF:-1  tvg-logo="http://alixbd.com/assets/images/hum.png",HUM TV
+https://stream.ottplus.bd/live/hum_tv_abr/index.m3u8
+
+
+
+
+
+
+
+
+
+#EXTINF:-1  tvg-logo="http://alixbd.com/assets/images/tsports.png",T Sports HD
+http://103.114.11.37:8081/T-Sports-HD/index.m3u8?token=dsgdfgsdfgasf
+#EXTINF:-1  tvg-logo="http://alixbd.com/assets/images/starselect2.png",Star-select-2
+http://103.114.11.37:8081/Star-select-2/index.m3u8?token=dsgdfgsdfgasf
+#EXTINF:-1  tvg-logo="http://alixbd.com/assets/images/starsports1.png",Star-sports-1
+http://103.114.11.37:8081/Star-sports-1/index.m3u8?token=dsgdfgsdfgasf
+#EXTINF:-1  tvg-logo="http://alixbd.com/assets/images/starsports2.png",Star-sports-2
+http://103.114.11.37:8081/Star-sports-2/index.m3u8?token=dsgdfgsdfgasf
+#EXTINF:-1  tvg-logo="http://alixbd.com/assets/images/starsports3.png",Star-sports-3
+http://103.114.11.37:8081/Star-sports-3/index.m3u8?token=dsgdfgsdfgasf
+#EXTINF:-1  tvg-logo="http://alixbd.com/assets/images/sonysports3.png",Sony-sports-3
+http://103.114.11.37:8081/Sony-sports-3/index.m3u8?token=dsgdfgsdfgasf
+
+
+#EXTINF:-1  tvg-logo="http://alixbd.com/assets/images/starjalsha.png",Star Jalsha
+http://103.114.11.37:8081/Star-Jalsha/index.m3u8?token=dsgdfgsdfgasf
+
+
+#EXTINF:-1  tvg-logo="http://alixbd.com/assets/images/sonyaath.png",Sony 8
+http://103.114.11.37:8081/Sony-8/index.m3u8?token=dsgdfgsdfgasf
+
+#EXTINF:-1  tvg-logo="http://alixbd.com/assets/images/colorsbangla.png",Colors bangla
+http://103.114.11.37:8081/Colors-bangla/index.m3u8?token=dsgdfgsdfgasf
+#EXTINF:-1  tvg-logo="http://alixbd.com/assets/images/colorsbanglacinema.png",Colors Bangla Cinema
+http://103.114.11.37:8081/Colors-bangla-cinema/index.m3u8?token=dsgdfgsdfgasf
+
+#EXTINF:-1  tvg-logo="http://alixbd.com/assets/images/starplus.png",Star Plus HD
+http://103.114.11.37:8081/Star-Plus-HD/index.m3u8?token=dsgdfgsdfgasf
+#EXTINF:-1  tvg-logo="http://alixbd.com/assets/images/colors-hd.png",Colors HD
+http://103.114.11.37:8081/Colors-HD/index.m3u8?token=dsgdfgsdfgasf
+
+
+#EXTINF:-1  tvg-logo="http://alixbd.com/assets/images/star-gold.png",Star Gold
+http://103.114.11.37:8081/StarGold/index.m3u8?token=dsgdfgsdfgasf
+
+#EXTINF:-1  tvg-logo="http://alixbd.com/assets/images/starmovies.png",Star Movies HD
+http://103.114.11.37:8081/Star-Movies/index.m3u8?token=dsgdfgsdfgasf
+#EXTINF:-1  tvg-logo="http://alixbd.com/assets/images/starmoviesselect.png",Star Movies Select
+http://103.114.11.37:8081/Star-movies-select/index.m3u8?token=dsgdfgsdfgasf
 
 
 
@@ -101,7 +202,8 @@ http://iptv.fcnonline.xyz/live/ontest1/ontest1/35.m3u8
 https://stream.ottplus.bd/live/sony_aath_abr/index.m3u8
 #EXTINF:-1 group-title="IND BANGLA" tvg-logo="https://fcnchbd.xyz/iptv/logo/inbzb.png",ZEE BANGLA SD
 https://stream.ottplus.bd/live/zee_bangla_abr/index.m3u8
-
+#EXTINF:-1 group-title="IND BANGLA" tvg-logo="https://fcnchbd.xyz/iptv/logo/inbzbc.png",ZEE BANGLA CINE SD
+https://stream.ottplus.bd/live/zee_bangla_cinema_abr/index.m3u8
 
 #EXTINF:-1 group-title="IND BANGLA" tvg-logo="https://fcnchbd.xyz/iptv/logo/akash.png",AKASH AHTT
 https://tvsen5.aynaott.com/Wm9Lv2RjZGT6/tracks-v1a1/mono.m3u8
