@@ -1,213 +1,205 @@
 #EXTM3U
-#EXTINF:-1 group-title="All Category" tvg-logo="https://fcnchbd.xyz/iptv/logo/atnbangla.png",ATN BANGLA HD
+#EXTINF:-1 group-title="BD BANGLA" tvg-logo="https://fcnchbd.xyz/iptv/logo/atnbangla.png",ATN BANGLA HD
 http://10.10.10.22:25461/live/web/stream/1.m3u8
-#EXTINF:-1 group-title="All Category" tvg-logo="https://fcnchbd.xyz/iptv/logo/chi.png",CHANNEL I HD
+#EXTINF:-1 group-title="BD BANGLA" tvg-logo="https://fcnchbd.xyz/iptv/logo/chi.png",CHANNEL I HD
 http://10.10.10.22:25461/live/web/stream/2.m3u8
-#EXTINF:-1 group-title="All Category" tvg-logo="https://fcnchbd.xyz/iptv/logo/21se.png",EKUSHEY TV HD
+#EXTINF:-1 group-title="BD BANGLA" tvg-logo="https://fcnchbd.xyz/iptv/logo/21se.png",EKUSHEY TV HD
 http://10.10.10.22:25461/live/web/stream/3.m3u8
-#EXTINF:-1 group-title="All Category" tvg-logo="https://fcnchbd.xyz/iptv/logo/ntv.png",NTV HD
+#EXTINF:-1 group-title="BD BANGLA" tvg-logo="https://fcnchbd.xyz/iptv/logo/ntv.png",NTV HD
 http://10.10.10.22:25461/live/web/stream/4.m3u8
-#EXTINF:-1 group-title="All Category" tvg-logo="https://fcnchbd.xyz/iptv/logo/rtv.png",RTV HD
+#EXTINF:-1 group-title="BD BANGLA" tvg-logo="https://fcnchbd.xyz/iptv/logo/rtv.png",RTV HD
 http://10.10.10.22:25461/live/web/stream/5.m3u8
-#EXTINF:-1 group-title="All Category" tvg-logo="https://fcnchbd.xyz/iptv/logo/boishaki.png",BOISHAKHI TV HD
+#EXTINF:-1 group-title="BD BANGLA" tvg-logo="https://fcnchbd.xyz/iptv/logo/boishaki.png",BOISHAKHI TV HD
 http://10.10.10.22:25461/live/web/stream/6.m3u8
-#EXTINF:-1 group-title="All Category" tvg-logo="https://fcnchbd.xyz/iptv/logo/banglav.png",BANGLAVISION
+#EXTINF:-1 group-title="BD BANGLA" tvg-logo="https://fcnchbd.xyz/iptv/logo/banglav.png",BANGLAVISION
 http://10.10.10.22:25461/live/web/stream/7.m3u8
-#EXTINF:-1 group-title="All Category" tvg-logo="https://fcnchbd.xyz/iptv/logo/desh.png",DESH TV HD
+#EXTINF:-1 group-title="BD BANGLA" tvg-logo="https://fcnchbd.xyz/iptv/logo/desh.png",DESH TV HD
 http://10.10.10.22:25461/live/web/stream/8.m3u8
-#EXTINF:-1 group-title="All Category" tvg-logo="https://fcnchbd.xyz/iptv/logo/mytv.png",MYTV HD
+#EXTINF:-1 group-title="BD BANGLA" tvg-logo="https://fcnchbd.xyz/iptv/logo/mytv.png",MYTV HD
 http://10.10.10.22:25461/live/web/stream/9.m3u8
-#EXTINF:-1 group-title="All Category" tvg-logo="https://fcnchbd.xyz/iptv/logo/mohona.png",MOHONA
+#EXTINF:-1 group-title="BD BANGLA" tvg-logo="https://fcnchbd.xyz/iptv/logo/mohona.png",MOHONA
 http://10.10.10.22:25461/live/web/stream/10.m3u8
-#EXTINF:-1 group-title="All Category" tvg-logo="https://fcnchbd.xyz/iptv/logo/mass.png",MASSRANGA TV
+#EXTINF:-1 group-title="BD BANGLA" tvg-logo="https://fcnchbd.xyz/iptv/logo/mass.png",MASSRANGA TV
 http://10.10.10.22:25461/live/web/stream/11.m3u8
-#EXTINF:-1 group-title="All Category" tvg-logo="https://fcnchbd.xyz/iptv/logo/ch9.png",CHANNEL 9HD
+#EXTINF:-1 group-title="BD BANGLA" tvg-logo="https://fcnchbd.xyz/iptv/logo/ch9.png",CHANNEL 9HD
 http://10.10.10.22:25461/live/web/stream/12.m3u8
-#EXTINF:-1 group-title="All Category" tvg-logo="https://fcnchbd.xyz/iptv/logo/gazi.png",GAZI TV
+#EXTINF:-1 group-title="BD BANGLA" tvg-logo="https://fcnchbd.xyz/iptv/logo/gazi.png",GAZI TV
 http://10.10.10.22:25461/live/web/stream/13.m3u8
-#EXTINF:-1 group-title="All Category" tvg-logo="https://fcnchbd.xyz/iptv/logo/asian.png",ASIAN TV
+#EXTINF:-1 group-title="BD BANGLA" tvg-logo="https://fcnchbd.xyz/iptv/logo/asian.png",ASIAN TV
 http://10.10.10.22:25461/live/web/stream/14.m3u8
-#EXTINF:-1 group-title="All Category" tvg-logo="https://fcnchbd.xyz/iptv/logo/satv.png",SATV HD
+#EXTINF:-1 group-title="BD BANGLA" tvg-logo="https://fcnchbd.xyz/iptv/logo/satv.png",SATV HD
 http://10.10.10.22:25461/live/web/stream/15.m3u8
-#EXTINF:-1 group-title="All Category" tvg-logo="https://fcnchbd.xyz/iptv/logo/deepto.png",DEEPTO TV HD
+#EXTINF:-1 group-title="BD BANGLA" tvg-logo="https://fcnchbd.xyz/iptv/logo/deepto.png",DEEPTO TV HD
 http://10.10.10.22:25461/live/web/stream/16.m3u8
-#EXTINF:-1 group-title="All Category" tvg-logo="https://fcnchbd.xyz/iptv/logo/banglatv.png",BANGLA TV
+#EXTINF:-1 group-title="BD BANGLA" tvg-logo="https://fcnchbd.xyz/iptv/logo/banglatv.png",BANGLA TV
 http://10.10.10.22:25461/live/web/stream/17.m3u8
-#EXTINF:-1 group-title="All Category" tvg-logo="https://fcnchbd.xyz/iptv/logo/duronto.png",DURONTO HD
+#EXTINF:-1 group-title="BD BANGLA" tvg-logo="https://fcnchbd.xyz/iptv/logo/duronto.png",DURONTO HD
 http://10.10.10.22:25461/live/web/stream/18.m3u8
-#EXTINF:-1 group-title="All Category" tvg-logo="https://fcnchbd.xyz/iptv/logo/anando.png",ANANDA TV
+#EXTINF:-1 group-title="BD BANGLA" tvg-logo="https://fcnchbd.xyz/iptv/logo/anando.png",ANANDA TV
 http://10.10.10.22:25461/live/web/stream/19.m3u8
-#EXTINF:-1 group-title="All Category" tvg-logo="https://fcnchbd.xyz/iptv/logo/bdbgl.png",GLOBAL TV
+#EXTINF:-1 group-title="BD BANGLA" tvg-logo="https://fcnchbd.xyz/iptv/logo/bdbgl.png",GLOBAL TV
 http://10.10.10.22:25461/live/web/stream/20.m3u8
-#EXTINF:-1 group-title="All Category" tvg-logo="https://fcnchbd.xyz/iptv/logo/bdbgl.png",GRTV
+#EXTINF:-1 group-title="BD BANGLA" tvg-logo="https://fcnchbd.xyz/iptv/logo/bdbgl.png",GRTV
 http://10.10.10.22:25461/live/web/stream/21.m3u8
-#EXTINF:-1 group-title="All Category" tvg-logo="https://fcnchbd.xyz/iptv/logo/chss.png",CHANNEL S HD
+#EXTINF:-1 group-title="BD BANGLA" tvg-logo="https://fcnchbd.xyz/iptv/logo/chss.png",CHANNEL S HD
 http://10.10.10.22:25461/live/web/stream/22.m3u8
-#EXTINF:-1 group-title="All Category" tvg-logo="https://fcnchbd.xyz/iptv/logo/ekhun.png",EKHON SD
+#EXTINF:-1 group-title="BD BANGLA" tvg-logo="https://fcnchbd.xyz/iptv/logo/ekhun.png",EKHON SD
 http://10.10.10.22:25461/live/web/stream/23.m3u8
 
 
 
-#EXTINF:-1 group-title="All Category" tvg-logo="https://fcnchbd.xyz/iptv/logo/atnnews.png",ATN NEWS HD
+#EXTINF:-1 group-title="BD NEWS" tvg-logo="https://fcnchbd.xyz/iptv/logo/atnnews.png",ATN NEWS HD
 http://10.10.10.22:25461/live/web/stream/24.m3u8
-#EXTINF:-1 group-title="All Category" tvg-logo="https://fcnchbd.xyz/iptv/logo/somoy.png",SOMOY TV HD
+#EXTINF:-1 group-title="BD NEWS" tvg-logo="https://fcnchbd.xyz/iptv/logo/somoy.png",SOMOY TV HD
 http://10.10.10.22:25461/live/web/stream/25.m3u8
-#EXTINF:-1 group-title="All Category" tvg-logo="https://fcnchbd.xyz/iptv/logo/ch24.png",CHANNEL24 HD
+#EXTINF:-1 group-title="BD NEWS" tvg-logo="https://fcnchbd.xyz/iptv/logo/ch24.png",CHANNEL24 HD
 http://10.10.10.22:25461/live/web/stream/26.m3u8
-#EXTINF:-1 group-title="All Category" tvg-logo="https://fcnchbd.xyz/iptv/logo/ch71.png",EKATTOR TV HD
+#EXTINF:-1 group-title="BD NEWS" tvg-logo="https://fcnchbd.xyz/iptv/logo/ch71.png",EKATTOR TV HD
 http://10.10.10.22:25461/live/web/stream/27.m3u8
-#EXTINF:-1 group-title="All Category" tvg-logo="https://fcnchbd.xyz/iptv/logo/jamtv.png",JAMUNA TV HD
+#EXTINF:-1 group-title="BD NEWS" tvg-logo="https://fcnchbd.xyz/iptv/logo/jamtv.png",JAMUNA TV HD
 http://10.10.10.22:25461/live/web/stream/28.m3u8
-#EXTINF:-1 group-title="All Category" tvg-logo="https://fcnchbd.xyz/iptv/logo/dbc.png",DBC NEWS HD
+#EXTINF:-1 group-title="BD NEWS" tvg-logo="https://fcnchbd.xyz/iptv/logo/dbc.png",DBC NEWS HD
 http://10.10.10.22:25461/live/web/stream/29.m3u8
-#EXTINF:-1 group-title="All Category" tvg-logo="https://fcnchbd.xyz/iptv/logo/news24.png",NEWS 24 HD
+#EXTINF:-1 group-title="BD NEWS" tvg-logo="https://fcnchbd.xyz/iptv/logo/news24.png",NEWS 24 HD
 http://10.10.10.22:25461/live/web/stream/30.m3u8
-#EXTINF:-1 group-title="All Category" tvg-logo="https://fcnchbd.xyz/iptv/logo/indi.png",INDEPENDENT TV
+#EXTINF:-1 group-title="BD NEWS" tvg-logo="https://fcnchbd.xyz/iptv/logo/indi.png",INDEPENDENT TV
 http://10.10.10.22:25461/live/web/stream/31.m3u8
+#EXTINF:-1 group-title="BD NEWS" tvg-logo="https://fcnchbd.xyz/iptv/logo/somoy.png",SOMOY TV
+http://10.10.10.22:25461/live/web/stream/85.m3u8
 
 
-#EXTINF:-1 group-title="All Category" tvg-logo="https://fcnchbd.xyz/iptv/logo/akash.png",AKASH AHTT
+#EXTINF:-1 group-title="IND BANGLA" tvg-logo="https://fcnchbd.xyz/iptv/logo/akash.png",AKASH AHTT
 http://10.10.10.22:25461/live/web/stream/32.m3u8
-#EXTINF:-1 group-title="All Category" tvg-logo="https://fcnchbd.xyz/iptv/logo/inbsb.png",SUN BANGLA
+#EXTINF:-1 group-title="IND BANGLA" tvg-logo="https://fcnchbd.xyz/iptv/logo/inbsb.png",SUN BANGLA
 http://10.10.10.22:25461/live/web/stream/33.m3u8
-#EXTINF:-1 group-title="All Category" tvg-logo="https://fcnchbd.xyz/iptv/logo/inbzb.png",ZEE BANGLA HD
+#EXTINF:-1 group-title="IND BANGLA" tvg-logo="https://fcnchbd.xyz/iptv/logo/inbzb.png",ZEE BANGLA HD
 http://10.10.10.22:25461/live/web/stream/34.m3u8
-#EXTINF:-1 group-title="All Category" tvg-logo="https://fcnchbd.xyz/iptv/logo/inbsj.png",STAR JALSHA HD
+#EXTINF:-1 group-title="IND BANGLA" tvg-logo="https://fcnchbd.xyz/iptv/logo/inbsj.png",STAR JALSHA HD
 http://10.10.10.22:25461/live/web/stream/35.m3u8
-#EXTINF:-1 group-title="All Category" tvg-logo="https://fcnchbd.xyz/iptv/logo/inbzbc.png",ZEE BAN CINE
+#EXTINF:-1 group-title="IND BANGLA" tvg-logo="https://fcnchbd.xyz/iptv/logo/inbzbc.png",ZEE BAN CINE
 http://10.10.10.22:25461/live/web/stream/36.m3u8
 
+#EXTINF:-1 group-title="IND BANGLA" tvg-logo="https://fcnchbd.xyz/iptv/logo/inbs8.png",SONY AHTT HD
+http://10.10.10.22:25461/live/web/stream/89.m3u8
+#EXTINF:-1 group-title="IND BANGLA" tvg-logo="https://fcnchbd.xyz/iptv/logo/inbzb.png",ZEE BANGLA HD
+http://10.10.10.22:25461/live/web/stream/90.m3u8
+#EXTINF:-1 group-title="IND BANGLA" tvg-logo="https://fcnchbd.xyz/iptv/logo/inbsj.png",STAR JALSHA HD
+http://10.10.10.22:25461/live/web/stream/91.m3u8
 
-#EXTINF:-1 group-title="All Category" tvg-logo="https://fcnchbd.xyz/iptv/logo/Aryd.png",ARY DIGITAL HD
+
+
+#EXTINF:-1 group-title="IND HINDI" tvg-logo="https://fcnchbd.xyz/iptv/logo/Aryd.png",ARY DIGITAL HD
 http://10.10.10.22:25461/live/web/stream/38.m3u8
-#EXTINF:-1 group-title="All Category" tvg-logo="https://fcnchbd.xyz/iptv/logo/hum.png",HUM TV HD
+#EXTINF:-1 group-title="IND HINDI" tvg-logo="https://fcnchbd.xyz/iptv/logo/hum.png",HUM TV HD
 http://10.10.10.22:25461/live/web/stream/39.m3u8
-#EXTINF:-1 group-title="All Category" tvg-logo="https://fcnchbd.xyz/iptv/logo/inhatv.png",AND TV HD
+#EXTINF:-1 group-title="IND HINDI" tvg-logo="https://fcnchbd.xyz/iptv/logo/inhatv.png",AND TV HD
 http://10.10.10.22:25461/live/web/stream/40.m3u8
-#EXTINF:-1 group-title="All Category" tvg-logo="https://fcnchbd.xyz/iptv/logo/inhztv.png",ZEE TV HD
+#EXTINF:-1 group-title="IND HINDI" tvg-logo="https://fcnchbd.xyz/iptv/logo/inhztv.png",ZEE TV HD
 http://10.10.10.22:25461/live/web/stream/41.m3u8
-#EXTINF:-1 group-title="All Category" tvg-logo="https://fcnchbd.xyz/iptv/logo/inhsp.png",STAR PLUS HD
+#EXTINF:-1 group-title="IND HINDI" tvg-logo="https://fcnchbd.xyz/iptv/logo/inhsp.png",STAR PLUS HD
 http://10.10.10.22:25461/live/web/stream/42.m3u8
-#EXTINF:-1 group-title="All Category" tvg-logo="https://fcnchbd.xyz/iptv/logo/inhse.png",SONY HD
+#EXTINF:-1 group-title="IND HINDI" tvg-logo="https://fcnchbd.xyz/iptv/logo/inhse.png",SONY HD
 http://10.10.10.22:25461/live/web/stream/43.m3u8
-#EXTINF:-1 group-title="All Category" tvg-logo="https://fcnchbd.xyz/iptv/logo/inhss.png",SONY SAB HD
+#EXTINF:-1 group-title="IND HINDI" tvg-logo="https://fcnchbd.xyz/iptv/logo/inhss.png",SONY SAB HD
 http://10.10.10.22:25461/live/web/stream/44.m3u8
+#EXTINF:-1 group-title="IND HINDI" tvg-logo="https://fcnchbd.xyz/iptv/logo/inhsp.png",STAR PLUS HD
+http://10.10.10.22:25461/live/web/stream/86.m3u8
+#EXTINF:-1 group-title="IND HINDI" tvg-logo="https://fcnchbd.xyz/iptv/logo/inhc.png",COLORS HD
+http://10.10.10.22:25461/live/web/stream/87.m3u8
 
 
-#EXTINF:-1 group-title="All Category" tvg-logo="https://fcnchbd.xyz/iptv/logo/inhap.png",AND PIC HD
+#EXTINF:-1 group-title="IND MOVIES" tvg-logo="https://fcnchbd.xyz/iptv/logo/inhap.png",AND PIC HD
 http://10.10.10.22:25461/live/web/stream/45.m3u8
-#EXTINF:-1 group-title="All Category" tvg-logo="https://fcnchbd.xyz/iptv/logo/inhzc.png",ZEE CINEMA HD
+#EXTINF:-1 group-title="IND MOVIES" tvg-logo="https://fcnchbd.xyz/iptv/logo/inhzc.png",ZEE CINEMA HD
 http://10.10.10.22:25461/live/web/stream/46.m3u8
-#EXTINF:-1 group-title="All Category" tvg-logo="https://fcnchbd.xyz/iptv/logo/inhsg.png",STAR GOLD HD
+#EXTINF:-1 group-title="IND MOVIES" tvg-logo="https://fcnchbd.xyz/iptv/logo/inhsg.png",STAR GOLD HD
 http://10.10.10.22:25461/live/web/stream/47.m3u8
-#EXTINF:-1 group-title="All Category" tvg-logo="https://fcnchbd.xyz/iptv/logo/inhsg2.png",STAR GOLD 2 HD
+#EXTINF:-1 group-title="IND MOVIES" tvg-logo="https://fcnchbd.xyz/iptv/logo/inhsg2.png",STAR GOLD 2 HD
 http://10.10.10.22:25461/live/web/stream/48.m3u8
-#EXTINF:-1 group-title="All Category" tvg-logo="https://fcnchbd.xyz/iptv/logo/inhsgs.png",STAR GOLD SE HD
+#EXTINF:-1 group-title="IND MOVIES" tvg-logo="https://fcnchbd.xyz/iptv/logo/inhsgs.png",STAR GOLD SE HD
 http://10.10.10.22:25461/live/web/stream/49.m3u8
-#EXTINF:-1 group-title="All Category" tvg-logo="https://fcnchbd.xyz/iptv/logo/b4um.png",B4U MOVIE
+#EXTINF:-1 group-title="IND MOVIES" tvg-logo="https://fcnchbd.xyz/iptv/logo/b4um.png",B4U MOVIE
 http://10.10.10.22:25461/live/web/stream/50.m3u8
-
-
-#EXTINF:-1 group-title="All Category" tvg-logo="https://fcnchbd.xyz/iptv/logo/inbsgt.png",SANGEET BANGLA
-http://10.10.10.22:25461/live/web/stream/51.m3u8
-#EXTINF:-1 group-title="All Category" tvg-logo="https://fcnchbd.xyz/iptv/logo/b4u.png",B4U MUSIC
-http://10.10.10.22:25461/live/web/stream/52.m3u8
-#EXTINF:-1 group-title="All Category" tvg-logo="https://fcnchbd.xyz/iptv/logo/9xm.png",9XM MUSIC
-http://10.10.10.22:25461/live/web/stream/53.m3u8
-#EXTINF:-1 group-title="All Category" tvg-logo="https://fcnchbd.xyz/iptv/logo/mtv.png",MTV BEATS
-http://10.10.10.22:25461/live/web/stream/54.m3u8
-
-
-#EXTINF:-1 group-title="All Category" tvg-logo="https://fcnchbd.xyz/iptv/logo/engsm.png",STAR MOVIES HD
-http://10.10.10.22:25461/live/web/stream/55.m3u8
-#EXTINF:-1 group-title="All Category" tvg-logo="https://fcnchbd.xyz/iptv/logo/engsms.png",STAR MOVIES SE HD
-http://10.10.10.22:25461/live/web/stream/56.m3u8
-
-
-#EXTINF:-1 group-title="All Category" tvg-logo="https://fcnchbd.xyz/iptv/logo/spbts.png",T SPORTS FHD
-http://10.10.10.22:25461/live/web/stream/57.m3u8
-#EXTINF:-1 group-title="All Category" tvg-logo="https://fcnchbd.xyz/iptv/logo/spss1.png",STAR SPORTS 1 HD
-http://10.10.10.22:25461/live/web/stream/58.m3u8
-#EXTINF:-1 group-title="All Category" tvg-logo="https://fcnchbd.xyz/iptv/logo/spss2.png",STAR SPORTS 2 HD
-http://10.10.10.22:25461/live/web/stream/59.m3u8
-#EXTINF:-1 group-title="All Category" tvg-logo="https://fcnchbd.xyz/iptv/logo/spsss1.png",STAR SPORTS SE 1 HD
-http://10.10.10.22:25461/live/web/stream/60.m3u8
-
-
-#EXTINF:-1 group-title="All Category" tvg-logo="https://fcnchbd.xyz/channel_logo/TRAVELXP.HD.png",Travelxp Hd
-http://10.10.10.22:25461/live/web/stream/63.m3u8
-#EXTINF:-1 group-title="All Category" tvg-logo="https://fcnchbd.xyz/channel_logo/HISTORY.TV.18.HD.png",History Tv 18 Hd
-http://10.10.10.22:25461/live/web/stream/65.m3u8
-#EXTINF:-1 group-title="All Category" tvg-logo="https://fcnchbd.xyz/channel_logo/ANIMAL.PLANET.HD.png",Animal Planet Hd
-http://10.10.10.22:25461/live/web/stream/66.m3u8
-#EXTINF:-1 group-title="All Category" tvg-logo="https://fcnchbd.xyz/channel_logo/DISCOVERY.HD.png",Discovery Hd
-http://10.10.10.22:25461/live/web/stream/67.m3u8
-#EXTINF:-1 group-title="All Category" tvg-logo="https://fcnchbd.xyz/channel_logo/NATGEO.HD.png",Natgeo Hd
-http://10.10.10.22:25461/live/web/stream/68.m3u8
-#EXTINF:-1 group-title="All Category" tvg-logo="https://fcnchbd.xyz/channel_logo/ALJAZEERA.HD.png",Aljazeera Hd
-http://10.10.10.22:25461/live/web/stream/69.m3u8
-#EXTINF:-1 group-title="All Category" tvg-logo="https://fcnchbd.xyz/channel_logo/DW.NEWS.HD.png",Dw News Hd
-http://10.10.10.22:25461/live/web/stream/70.m3u8
-#EXTINF:-1 group-title="All Category" tvg-logo="https://fcnchbd.xyz/channel_logo/GEO.NEWS.HD.png",Geo News Hd
-http://10.10.10.22:25461/live/web/stream/71.m3u8
-#EXTINF:-1 group-title="All Category" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/336_144.png",CNN
-http://10.10.10.22:25461/live/web/stream/73.m3u8
-
-
-#EXTINF:-1 group-title="All Category" tvg-logo="https://fcnchbd.xyz/iptv/logo/gold.png",GOLDMINES
+#EXTINF:-1 group-title="IND MOVIES" tvg-logo="https://fcnchbd.xyz/iptv/logo/inhsm.png",SONY MAX HD
+http://10.10.10.22:25461/live/web/stream/88.m3u8
+#EXTINF:-1 group-title="IND MOVIES" tvg-logo="https://fcnchbd.xyz/iptv/logo/gold.png",GOLDMINES
 http://10.10.10.22:25461/live/web/stream/74.m3u8
 
 
-#EXTINF:-1 group-title="All Category" tvg-logo="https://fcnchbd.xyz/iptv/logo/spbts.png",T SPORTS FHD
+
+#EXTINF:-1 group-title="IND MUZIC" tvg-logo="https://fcnchbd.xyz/iptv/logo/inbsgt.png",SANGEET BANGLA
+http://10.10.10.22:25461/live/web/stream/51.m3u8
+#EXTINF:-1 group-title="IND MUZIC" tvg-logo="https://fcnchbd.xyz/iptv/logo/b4u.png",B4U MUSIC
+http://10.10.10.22:25461/live/web/stream/52.m3u8
+#EXTINF:-1 group-title="IND MUZIC" tvg-logo="https://fcnchbd.xyz/iptv/logo/9xm.png",9XM MUSIC
+http://10.10.10.22:25461/live/web/stream/53.m3u8
+#EXTINF:-1 group-title="IND MUZIC" tvg-logo="https://fcnchbd.xyz/iptv/logo/mtv.png",MTV BEATS
+http://10.10.10.22:25461/live/web/stream/54.m3u8
+#EXTINF:-1 group-title="IND MUZIC" tvg-logo="https://fcnchbd.xyz/iptv/logo/inbsgt.png",SONGEET BANGLA
+http://10.10.10.22:25461/live/web/stream/93.m3u8
+
+
+
+#EXTINF:-1 group-title="ENG MOVIES" tvg-logo="https://fcnchbd.xyz/iptv/logo/engsm.png",STAR MOVIES HD
+http://10.10.10.22:25461/live/web/stream/55.m3u8
+#EXTINF:-1 group-title="ENG MOVIES" tvg-logo="https://fcnchbd.xyz/iptv/logo/engsms.png",STAR MOVIES SE HD
+http://10.10.10.22:25461/live/web/stream/56.m3u8
+#EXTINF:-1 group-title="ENG MOVIES" tvg-logo="https://fcnchbd.xyz/iptv/logo/engsm.png",STARS MOVIES HD
+http://10.10.10.22:25461/live/web/stream/94.m3u8
+
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://fcnchbd.xyz/iptv/logo/spbts.png",T SPORTS FHD
+http://10.10.10.22:25461/live/web/stream/57.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://fcnchbd.xyz/iptv/logo/spss1.png",STAR SPORTS 1 HD
+http://10.10.10.22:25461/live/web/stream/58.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://fcnchbd.xyz/iptv/logo/spss2.png",STAR SPORTS 2 HD
+http://10.10.10.22:25461/live/web/stream/59.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://fcnchbd.xyz/iptv/logo/spsss1.png",STAR SPORTS SE 1 HD
+http://10.10.10.22:25461/live/web/stream/60.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://fcnchbd.xyz/iptv/logo/spbts.png",T SPORTS FHD
 http://10.10.10.22:25461/live/web/stream/75.m3u8
-#EXTINF:-1 group-title="All Category" tvg-logo="https://fcnchbd.xyz/iptv/logo/spps.png",PTV SPORTS HD
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://fcnchbd.xyz/iptv/logo/spps.png",PTV SPORTS HD
 http://10.10.10.22:25461/live/web/stream/76.m3u8
-#EXTINF:-1 group-title="All Category" tvg-logo="https://fcnchbd.xyz/iptv/logo/spas.png",A SPORTS HD
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://fcnchbd.xyz/iptv/logo/spas.png",A SPORTS HD
 http://10.10.10.22:25461/live/web/stream/77.m3u8
-#EXTINF:-1 group-title="All Category" tvg-logo="https://fcnchbd.xyz/iptv/logo/spst2.png",SONY TEN 2 HD
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://fcnchbd.xyz/iptv/logo/spst2.png",SONY TEN 2 HD
 http://10.10.10.22:25461/live/web/stream/78.m3u8
-#EXTINF:-1 group-title="All Category" tvg-logo="https://fcnchbd.xyz/iptv/logo/spst3.png",SONY TEN 3 HD
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://fcnchbd.xyz/iptv/logo/spst3.png",SONY TEN 3 HD
 http://10.10.10.22:25461/live/web/stream/79.m3u8
-#EXTINF:-1 group-title="All Category" tvg-logo="https://fcnchbd.xyz/iptv/logo/spst6.png",SONY TEN 5 HD
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://fcnchbd.xyz/iptv/logo/spst6.png",SONY TEN 5 HD
 http://10.10.10.22:25461/live/web/stream/80.m3u8
-#EXTINF:-1 group-title="All Category" tvg-logo="https://fcnchbd.xyz/iptv/logo/spss1.png",STAR SPORTS 1HD
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://fcnchbd.xyz/iptv/logo/spss1.png",STAR SPORTS 1HD
 http://10.10.10.22:25461/live/web/stream/81.m3u8
-#EXTINF:-1 group-title="All Category" tvg-logo="https://fcnchbd.xyz/iptv/logo/spsss2.png",STAR SPORTS SEL 2HD
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://fcnchbd.xyz/iptv/logo/spsss2.png",STAR SPORTS SEL 2HD
 http://10.10.10.22:25461/live/web/stream/83.m3u8
-#EXTINF:-1 group-title="All Category" tvg-logo="http://172.19.17.28/images/sony-ten-1.png",WORLD FREE SPORTS
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://172.19.17.28/images/sony-ten-1.png",WORLD FREE SPORTS
 http://10.10.10.22:25461/live/web/stream/84.m3u8
 
 
 
-#EXTINF:-1 group-title="All Category" tvg-logo="https://fcnchbd.xyz/iptv/logo/somoy.png",SOMOY TV
-http://10.10.10.22:25461/live/web/stream/85.m3u8
-
-
-#EXTINF:-1 group-title="All Category" tvg-logo="https://fcnchbd.xyz/iptv/logo/inhsp.png",STAR PLUS HD
-http://10.10.10.22:25461/live/web/stream/86.m3u8
-#EXTINF:-1 group-title="All Category" tvg-logo="https://fcnchbd.xyz/iptv/logo/inhc.png",COLORS HD
-http://10.10.10.22:25461/live/web/stream/87.m3u8
-
-
-#EXTINF:-1 group-title="All Category" tvg-logo="https://fcnchbd.xyz/iptv/logo/inhsm.png",SONY MAX HD
-http://10.10.10.22:25461/live/web/stream/88.m3u8
-
-
-#EXTINF:-1 group-title="All Category" tvg-logo="https://fcnchbd.xyz/iptv/logo/inbs8.png",SONY AHTT HD
-http://10.10.10.22:25461/live/web/stream/89.m3u8
-#EXTINF:-1 group-title="All Category" tvg-logo="https://fcnchbd.xyz/iptv/logo/inbzb.png",ZEE BANGLA HD
-http://10.10.10.22:25461/live/web/stream/90.m3u8
-#EXTINF:-1 group-title="All Category" tvg-logo="https://fcnchbd.xyz/iptv/logo/inbsj.png",STAR JALSHA HD
-http://10.10.10.22:25461/live/web/stream/91.m3u8
-#EXTINF:-1 group-title="All Category" tvg-logo="https://fcnchbd.xyz/iptv/logo/inbsgt.png",SONGEET BANGLA
-http://10.10.10.22:25461/live/web/stream/93.m3u8
-
-
-#EXTINF:-1 group-title="All Category" tvg-logo="https://fcnchbd.xyz/iptv/logo/engsm.png",STARS MOVIES HD
-http://10.10.10.22:25461/live/web/stream/94.m3u8
-
-
-#EXTINF:-1 group-title="All Category" tvg-logo="http://172.19.17.28/images/discoveryhd.png",DISCOVERY
+#EXTINF:-1 group-title="DISCOVERY" tvg-logo="https://fcnchbd.xyz/channel_logo/TRAVELXP.HD.png",Travelxp Hd
+http://10.10.10.22:25461/live/web/stream/63.m3u8
+#EXTINF:-1 group-title="DISCOVERY" tvg-logo="https://fcnchbd.xyz/channel_logo/HISTORY.TV.18.HD.png",History Tv 18 Hd
+http://10.10.10.22:25461/live/web/stream/65.m3u8
+#EXTINF:-1 group-title="DISCOVERY" tvg-logo="https://fcnchbd.xyz/channel_logo/ANIMAL.PLANET.HD.png",Animal Planet Hd
+http://10.10.10.22:25461/live/web/stream/66.m3u8
+#EXTINF:-1 group-title="DISCOVERY" tvg-logo="https://fcnchbd.xyz/channel_logo/DISCOVERY.HD.png",Discovery Hd
+http://10.10.10.22:25461/live/web/stream/67.m3u8
+#EXTINF:-1 group-title="DISCOVERY" tvg-logo="https://fcnchbd.xyz/channel_logo/NATGEO.HD.png",Natgeo Hd
+http://10.10.10.22:25461/live/web/stream/68.m3u8
+#EXTINF:-1 group-title="DISCOVERY" tvg-logo="http://172.19.17.28/images/discoveryhd.png",DISCOVERY
 http://10.10.10.22:25461/live/web/stream/96.m3u8
-#EXTINF:-1 group-title="All Category" tvg-logo="http://172.19.17.28/images/aljazeranews.png",ALJAZEERA NEWS
+
+
+
+#EXTINF:-1 group-title="ENG NEWS" tvg-logo="https://fcnchbd.xyz/channel_logo/ALJAZEERA.HD.png",Aljazeera Hd
+http://10.10.10.22:25461/live/web/stream/69.m3u8
+#EXTINF:-1 group-title="ENG NEWS" tvg-logo="https://fcnchbd.xyz/channel_logo/DW.NEWS.HD.png",Dw News Hd
+http://10.10.10.22:25461/live/web/stream/70.m3u8
+#EXTINF:-1 group-title="ENG NEWS" tvg-logo="https://fcnchbd.xyz/channel_logo/GEO.NEWS.HD.png",Geo News Hd
+http://10.10.10.22:25461/live/web/stream/71.m3u8
+#EXTINF:-1 group-title="ENG NEWS" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/336_144.png",CNN
+http://10.10.10.22:25461/live/web/stream/73.m3u8
+#EXTINF:-1 group-title="ENG NEWS" tvg-logo="http://172.19.17.28/images/aljazeranews.png",ALJAZEERA NEWS
 http://10.10.10.22:25461/live/web/stream/97.m3u8
